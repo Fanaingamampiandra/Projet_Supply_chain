@@ -1,0 +1,51 @@
+﻿id_fournisseur;nom_fournisseur;ville;pays;fiabilité;délai_moyen_jours
+S001;Lecomte et Fils;Zurich;Suisse;0.84;10
+S002;Morvan;Paris;France;0.86;9
+S003;Germain et Fils;Amsterdam;Pays-Bas;0.85;10
+S004;Philippe;Rome;Italie;0.57;9
+S005;Blanc;Dublin;Irlande;0.65;13
+S006;Jean;Zurich;Suisse;0.68;8
+S007;Carlier;Prague;République tchèque;0.9;9
+S008;Gaillard S.A.;Berlin;Allemagne;0.64;7
+S009;Fischer;Lisbonne;Portugal;0.61;9
+S010;Pelletier;Paris;France;0.98;3
+S011;Leblanc;Rome;Italie;0.5;3
+S012;Lucas;Stockholm;Suède;1.0;11
+S013;Gautier;Paris;France;0.84;7
+S014;Guillon;Rome;Italie;0.91;7
+S015;Renault;Zurich;Suisse;0.65;5
+S016;Morel;Stockholm;Suède;0.51;7
+S017;Bodin;Rome;Italie;0.87;5
+S018;Guérin;Copenhague;Danemark;0.92;11
+S019;Leduc;Oslo;Norvège;0.87;11
+S020;Baudry;Paris;France;0.57;8
+S021;Petitjean Andre SA;Oslo;Norvège;0.88;3
+S022;Langlois Vallée SA;Dublin;Irlande;0.88;9
+S023;Albert;Bruxelles;Belgique;0.83;9
+S024;Da Silva;Madrid;Espagne;0.88;12
+S025;Techer SA;Varsovie;Pologne;0.92;12
+S026;Bourdon;Bruxelles;Belgique;0.81;6
+S027;Rodrigues Payet S.A.R.L.;Berlin;Allemagne;0.54;10
+S028;Delattre Blot S.A.;Berlin;Allemagne;0.74;8
+S029;Fontaine Lopes S.A.;Helsinki;Finlande;0.54;6
+S030;Delaunay;Copenhague;Danemark;0.7;6
+S031;Faure S.A.R.L.;Oslo;Norvège;0.7;4
+S032;Munoz SA;Dublin;Irlande;0.53;4
+S033;Mercier Dupuy S.A.S.;Stockholm;Suède;0.67;14
+S034;Bertrand S.A.;Varsovie;Pologne;0.56;6
+S035;Laine;Lisbonne;Portugal;0.9;7
+S036;Moreau Dubois S.A.S.;Stockholm;Suède;0.97;10
+S037;Charles SARL;Helsinki;Finlande;0.54;8
+S038;Laurent Boyer S.A.R.L.;Copenhague;Danemark;0.98;6
+S039;Rocher;Helsinki;Finlande;0.76;13
+S040;Fabre SA;Copenhague;Danemark;0.65;9
+S041;Lemaître De Sousa SA;Dublin;Irlande;0.54;10
+S042;Caron;Paris;France;0.75;4
+S043;Klein SA;Rome;Italie;0.9;14
+S044;Lopes;Amsterdam;Pays-Bas;0.85;9
+S045;Lagarde;Berlin;Allemagne;0.53;4
+S046;Roche;Rome;Italie;0.54;4
+S047;Duhamel;Berlin;Allemagne;0.7;10
+S048;Lecomte;Amsterdam;Pays-Bas;0.65;4
+S049;Godard SA;Zurich;Suisse;0.62;13
+S050;Carlier SA;Bruxelles;Belgique;0.64;11

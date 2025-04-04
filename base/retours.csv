@@ -1,0 +1,2988 @@
+id_commande;id_produit;quantité;entrepôt;date_retour;motif
+O043330;P00360;2;Paris;26/06/2024;Mauvais article
+O031373;P00739;4;Marseille;01/09/2024;Endommagé
+O028206;P00144;8;Marseille;20/04/2024;Le client a changé d'avis
+O004999;P00765;5;Lyon;29/12/2024;Pas comme décrit
+O019607;P00127;2;Lyon;05/07/2024;Endommagé
+O003543;P00804;7;Lyon;11/10/2024;Endommagé
+O004188;P00958;6;Paris;09/03/2024;Endommagé
+O049212;P00862;7;Marseille;16/09/2024;Mauvais article
+O012795;P00548;2;Paris;12/07/2024;Le client a changé d'avis
+O022736;P00570;4;Lyon;16/04/2024;Pas comme décrit
+O045655;P00138;8;Marseille;10/08/2024;Pas comme décrit
+O020551;P00514;8;Paris;21/05/2024;Pas comme décrit
+O013695;P00323;2;Paris;24/06/2024;Pas comme décrit
+O024778;P00752;5;Paris;27/12/2024;Mauvais article
+O021079;P00285;5;Marseille;08/12/2024;Pas comme décrit
+O034413;P00843;2;Marseille;09/03/2024;Pas comme décrit
+O046563;P00860;1;Paris;20/01/2024;Mauvais article
+O036972;P00491;4;Paris;25/09/2024;Pas comme décrit
+O013616;P00611;6;Lyon;15/03/2024;Pas comme décrit
+O022693;P00096;5;Paris;06/08/2024;Pas comme décrit
+O016547;P00829;2;Lyon;13/04/2024;Mauvais article
+O046365;P00465;2;Marseille;19/08/2024;Pas comme décrit
+O001810;P00813;5;Lyon;09/05/2024;Le client a changé d'avis
+O041235;P00438;8;Marseille;16/03/2024;Mauvais article
+O044578;P00094;7;Lyon;08/11/2024;Pas comme décrit
+O018513;P00126;2;Marseille;27/10/2024;Endommagé
+O047823;P00675;7;Lyon;05/02/2024;Mauvais article
+O020548;P00948;6;Lyon;29/08/2024;Endommagé
+O043111;P00152;2;Marseille;15/03/2024;Endommagé
+O039014;P00105;3;Lyon;06/08/2024;Mauvais article
+O040819;P00785;7;Paris;05/04/2024;Le client a changé d'avis
+O009344;P00266;8;Lyon;11/11/2024;Endommagé
+O027313;P00230;2;Marseille;06/08/2024;Pas comme décrit
+O036691;P00619;8;Marseille;21/08/2024;Mauvais article
+O013200;P00995;3;Marseille;10/02/2024;Endommagé
+O018969;P00480;8;Lyon;02/08/2024;Mauvais article
+O027981;P00730;4;Paris;04/06/2024;Endommagé
+O049420;P00931;2;Paris;07/11/2024;Mauvais article
+O047807;P00363;3;Paris;19/06/2024;Pas comme décrit
+O013452;P00448;9;Lyon;02/06/2024;Endommagé
+O000639;P00172;1;Paris;27/08/2024;Pas comme décrit
+O031815;P00879;8;Lyon;12/06/2024;Pas comme décrit
+O025703;P00747;6;Lyon;24/10/2024;Mauvais article
+O033075;P00575;7;Marseille;18/08/2024;Mauvais article
+O037547;P00592;8;Paris;17/12/2024;Pas comme décrit
+O019688;P00240;8;Marseille;26/12/2024;Endommagé
+O004884;P00018;5;Paris;18/07/2024;Mauvais article
+O038400;P00308;3;Paris;25/07/2024;Le client a changé d'avis
+O012392;P00180;3;Marseille;04/03/2024;Endommagé
+O040423;P00897;4;Lyon;13/10/2024;Mauvais article
+O009642;P00588;4;Marseille;12/04/2024;Mauvais article
+O007485;P00046;7;Marseille;28/11/2024;Mauvais article
+O040123;P00225;6;Lyon;14/08/2024;Endommagé
+O029739;P00647;4;Lyon;03/04/2024;Pas comme décrit
+O024171;P00782;7;Marseille;20/01/2025;Endommagé
+O043731;P00411;4;Lyon;13/03/2024;Le client a changé d'avis
+O016594;P00468;7;Marseille;22/11/2024;Endommagé
+O007848;P00853;1;Paris;18/03/2024;Mauvais article
+O003823;P00167;7;Marseille;28/03/2024;Le client a changé d'avis
+O046808;P00053;1;Paris;04/02/2024;Pas comme décrit
+O009661;P00299;5;Marseille;07/04/2024;Le client a changé d'avis
+O014030;P00164;6;Marseille;03/01/2025;Endommagé
+O023710;P00884;9;Marseille;03/11/2024;Endommagé
+O049559;P00720;9;Marseille;02/09/2024;Le client a changé d'avis
+O035490;P00738;1;Paris;23/09/2024;Endommagé
+O047273;P00215;2;Lyon;18/11/2024;Pas comme décrit
+O008876;P00334;9;Lyon;28/05/2024;Le client a changé d'avis
+O041479;P00622;2;Lyon;03/09/2024;Mauvais article
+O013533;P00001;8;Lyon;09/02/2024;Pas comme décrit
+O007872;P00309;1;Paris;04/07/2024;Endommagé
+O033536;P00280;8;Paris;14/07/2024;Le client a changé d'avis
+O011592;P00325;2;Marseille;03/07/2024;Endommagé
+O008467;P00904;6;Lyon;14/03/2024;Le client a changé d'avis
+O016419;P00590;5;Lyon;29/04/2024;Mauvais article
+O045752;P00122;3;Marseille;10/08/2024;Le client a changé d'avis
+O017063;P00905;9;Lyon;30/01/2024;Pas comme décrit
+O043425;P00223;5;Paris;25/03/2024;Le client a changé d'avis
+O015297;P00228;2;Paris;07/03/2024;Endommagé
+O015197;P00602;3;Paris;03/06/2024;Endommagé
+O025006;P00824;9;Paris;14/02/2024;Endommagé
+O017823;P00194;4;Lyon;01/08/2024;Endommagé
+O006309;P00299;7;Lyon;25/05/2024;Pas comme décrit
+O000130;P00298;6;Paris;10/10/2024;Endommagé
+O021005;P00929;6;Paris;19/05/2024;Endommagé
+O023599;P00044;3;Marseille;23/08/2024;Pas comme décrit
+O024083;P00403;8;Marseille;26/01/2025;Endommagé
+O033647;P00296;9;Lyon;03/08/2024;Pas comme décrit
+O028606;P00013;8;Paris;25/11/2024;Mauvais article
+O024838;P00525;5;Paris;01/10/2024;Mauvais article
+O025235;P00959;5;Marseille;08/02/2025;Pas comme décrit
+O035817;P00334;3;Marseille;23/10/2024;Le client a changé d'avis
+O007797;P00548;6;Lyon;18/08/2024;Endommagé
+O015108;P00757;7;Lyon;29/03/2024;Le client a changé d'avis
+O020379;P00022;4;Paris;06/04/2024;Pas comme décrit
+O027403;P00176;5;Marseille;23/04/2024;Mauvais article
+O034270;P00194;4;Marseille;14/02/2024;Endommagé
+O007396;P00848;1;Lyon;20/11/2024;Endommagé
+O018734;P00861;8;Lyon;04/04/2024;Le client a changé d'avis
+O019342;P00538;4;Paris;02/12/2024;Le client a changé d'avis
+O016859;P00154;4;Lyon;18/08/2024;Le client a changé d'avis
+O018465;P00796;1;Lyon;05/12/2024;Le client a changé d'avis
+O026075;P00564;1;Paris;11/01/2025;Le client a changé d'avis
+O008899;P00673;8;Paris;02/08/2024;Endommagé
+O044107;P00414;7;Marseille;03/08/2024;Endommagé
+O004882;P00707;7;Marseille;18/08/2024;Mauvais article
+O042482;P00208;1;Paris;15/05/2024;Endommagé
+O026817;P00609;6;Lyon;04/10/2024;Mauvais article
+O044514;P00236;3;Lyon;02/05/2024;Endommagé
+O043208;P00002;2;Lyon;07/07/2024;Pas comme décrit
+O005175;P00134;3;Marseille;31/10/2024;Le client a changé d'avis
+O019047;P00039;4;Lyon;24/08/2024;Endommagé
+O035129;P00075;4;Marseille;18/09/2024;Mauvais article
+O010714;P00989;8;Lyon;29/05/2024;Pas comme décrit
+O049760;P00576;3;Marseille;08/09/2024;Mauvais article
+O009517;P00709;9;Paris;25/09/2024;Pas comme décrit
+O030067;P00828;4;Marseille;14/05/2024;Mauvais article
+O005456;P00503;9;Paris;01/11/2024;Endommagé
+O012931;P00909;4;Paris;07/07/2024;Endommagé
+O011261;P00390;7;Paris;07/06/2024;Mauvais article
+O016729;P00762;3;Paris;25/06/2024;Endommagé
+O007730;P00653;2;Marseille;19/04/2024;Pas comme décrit
+O011017;P00261;3;Marseille;06/07/2024;Le client a changé d'avis
+O029295;P00544;3;Marseille;22/08/2024;Endommagé
+O014259;P00677;7;Paris;13/08/2024;Endommagé
+O042080;P00476;6;Lyon;31/10/2024;Endommagé
+O014170;P00146;9;Paris;30/05/2024;Le client a changé d'avis
+O044385;P00363;2;Lyon;15/03/2024;Mauvais article
+O014351;P00744;9;Paris;26/12/2024;Le client a changé d'avis
+O000321;P00225;4;Marseille;20/02/2024;Endommagé
+O021450;P00789;3;Marseille;02/09/2024;Le client a changé d'avis
+O026837;P00427;3;Marseille;03/02/2025;Pas comme décrit
+O027687;P00815;5;Lyon;16/08/2024;Mauvais article
+O006698;P00272;2;Marseille;04/11/2024;Mauvais article
+O010926;P00036;1;Paris;01/10/2024;Le client a changé d'avis
+O010418;P00404;7;Marseille;22/02/2024;Mauvais article
+O031705;P00712;7;Paris;18/05/2024;Pas comme décrit
+O036877;P00751;2;Marseille;10/09/2024;Le client a changé d'avis
+O044117;P00950;6;Lyon;23/05/2024;Pas comme décrit
+O004607;P00824;1;Lyon;22/01/2025;Le client a changé d'avis
+O008525;P00694;4;Marseille;11/04/2024;Le client a changé d'avis
+O028026;P00865;9;Marseille;14/06/2024;Pas comme décrit
+O006735;P00670;2;Paris;02/06/2024;Le client a changé d'avis
+O001319;P00482;1;Lyon;25/11/2024;Pas comme décrit
+O040155;P00278;8;Paris;31/08/2024;Endommagé
+O029708;P00235;3;Marseille;08/02/2024;Mauvais article
+O014040;P00790;3;Lyon;09/08/2024;Le client a changé d'avis
+O015163;P00395;9;Paris;07/08/2024;Mauvais article
+O013305;P00804;2;Lyon;24/02/2024;Mauvais article
+O037236;P00318;9;Paris;02/08/2024;Mauvais article
+O049514;P00691;5;Paris;10/11/2024;Endommagé
+O034317;P00891;3;Marseille;30/06/2024;Mauvais article
+O015614;P00022;1;Paris;28/11/2024;Pas comme décrit
+O001786;P00685;6;Paris;08/12/2024;Le client a changé d'avis
+O047645;P00572;7;Lyon;22/05/2024;Endommagé
+O006145;P00557;6;Marseille;06/01/2025;Endommagé
+O025600;P00386;2;Lyon;25/09/2024;Endommagé
+O025682;P00474;6;Paris;12/06/2024;Le client a changé d'avis
+O000951;P00989;2;Lyon;19/07/2024;Pas comme décrit
+O002516;P00409;6;Lyon;06/10/2024;Pas comme décrit
+O017880;P00981;9;Paris;11/08/2024;Mauvais article
+O006257;P00968;6;Lyon;02/11/2024;Mauvais article
+O020579;P00411;2;Lyon;19/09/2024;Le client a changé d'avis
+O037641;P00396;8;Lyon;15/09/2024;Endommagé
+O034689;P00287;5;Paris;17/07/2024;Mauvais article
+O047943;P00466;5;Marseille;08/08/2024;Le client a changé d'avis
+O025743;P00214;9;Lyon;09/08/2024;Mauvais article
+O014634;P00300;5;Marseille;05/01/2025;Pas comme décrit
+O025788;P00725;2;Marseille;14/03/2024;Endommagé
+O036801;P00856;7;Paris;06/07/2024;Le client a changé d'avis
+O030763;P00780;5;Paris;20/08/2024;Le client a changé d'avis
+O034726;P00227;4;Marseille;11/01/2025;Pas comme décrit
+O033265;P00750;4;Marseille;06/08/2024;Pas comme décrit
+O011212;P00097;9;Marseille;04/12/2024;Pas comme décrit
+O000456;P00320;6;Marseille;06/02/2024;Le client a changé d'avis
+O039152;P00643;3;Paris;01/11/2024;Le client a changé d'avis
+O040500;P00378;1;Marseille;12/01/2025;Le client a changé d'avis
+O027112;P00810;7;Marseille;26/05/2024;Le client a changé d'avis
+O041778;P00878;2;Lyon;10/12/2024;Endommagé
+O015260;P00412;2;Lyon;07/12/2024;Le client a changé d'avis
+O039086;P00030;6;Marseille;16/07/2024;Mauvais article
+O041588;P00448;9;Paris;17/04/2024;Mauvais article
+O045619;P00799;5;Marseille;11/06/2024;Endommagé
+O038134;P00564;7;Lyon;21/10/2024;Mauvais article
+O021516;P00973;9;Paris;02/05/2024;Pas comme décrit
+O044494;P00664;8;Lyon;13/05/2024;Mauvais article
+O018871;P00741;6;Marseille;08/04/2024;Pas comme décrit
+O033593;P00803;9;Marseille;16/02/2024;Endommagé
+O045834;P00459;1;Marseille;10/10/2024;Mauvais article
+O029201;P00193;2;Paris;17/11/2024;Mauvais article
+O048915;P00814;1;Paris;06/01/2025;Pas comme décrit
+O006666;P00539;3;Lyon;25/08/2024;Mauvais article
+O026626;P00990;2;Marseille;27/06/2024;Pas comme décrit
+O037354;P00575;8;Lyon;28/02/2024;Pas comme décrit
+O001668;P00786;9;Lyon;15/08/2024;Le client a changé d'avis
+O013486;P00065;4;Paris;19/02/2024;Le client a changé d'avis
+O026933;P00592;9;Lyon;09/11/2024;Pas comme décrit
+O012273;P00083;9;Lyon;15/01/2025;Le client a changé d'avis
+O027594;P00854;9;Lyon;01/10/2024;Pas comme décrit
+O042044;P00686;3;Lyon;18/09/2024;Mauvais article
+O033826;P00354;2;Lyon;07/03/2024;Mauvais article
+O003678;P00728;7;Marseille;04/04/2024;Pas comme décrit
+O047838;P00052;3;Lyon;03/04/2024;Endommagé
+O031241;P00955;7;Lyon;18/04/2024;Le client a changé d'avis
+O007248;P00449;2;Marseille;28/04/2024;Endommagé
+O002303;P00697;3;Paris;26/09/2024;Mauvais article
+O010530;P00112;3;Marseille;11/03/2024;Le client a changé d'avis
+O045999;P00654;1;Marseille;19/12/2024;Endommagé
+O040834;P00455;5;Paris;27/08/2024;Mauvais article
+O004829;P00917;6;Paris;13/02/2024;Le client a changé d'avis
+O001039;P00513;4;Lyon;08/10/2024;Le client a changé d'avis
+O010845;P00589;2;Marseille;09/08/2024;Endommagé
+O028560;P00181;6;Marseille;07/05/2024;Endommagé
+O010725;P00727;3;Marseille;20/08/2024;Pas comme décrit
+O002263;P00291;1;Paris;16/08/2024;Endommagé
+O032708;P00082;8;Paris;06/02/2024;Mauvais article
+O010557;P00774;1;Paris;08/05/2024;Mauvais article
+O037722;P00113;5;Marseille;02/07/2024;Mauvais article
+O049331;P00127;5;Marseille;03/11/2024;Endommagé
+O021702;P00202;4;Paris;10/01/2025;Le client a changé d'avis
+O015360;P00367;1;Paris;29/06/2024;Pas comme décrit
+O027420;P00922;3;Paris;26/07/2024;Pas comme décrit
+O004200;P00709;5;Paris;11/01/2025;Pas comme décrit
+O008701;P00762;7;Lyon;03/04/2024;Pas comme décrit
+O000056;P00961;1;Paris;05/01/2025;Pas comme décrit
+O045162;P00912;9;Paris;26/08/2024;Endommagé
+O005447;P00676;1;Marseille;27/04/2024;Le client a changé d'avis
+O035491;P00990;5;Paris;09/12/2024;Mauvais article
+O026981;P00096;9;Paris;11/01/2025;Mauvais article
+O023954;P00176;7;Marseille;10/04/2024;Pas comme décrit
+O022971;P00254;2;Marseille;10/12/2024;Endommagé
+O038265;P00757;2;Lyon;25/11/2024;Le client a changé d'avis
+O049142;P00930;3;Marseille;01/01/2025;Mauvais article
+O031386;P00635;7;Lyon;09/09/2024;Le client a changé d'avis
+O002456;P00378;9;Paris;16/06/2024;Pas comme décrit
+O043056;P00505;9;Paris;20/07/2024;Mauvais article
+O040271;P00020;8;Marseille;10/05/2024;Pas comme décrit
+O047700;P00973;8;Marseille;16/06/2024;Mauvais article
+O034022;P00575;5;Paris;28/10/2024;Endommagé
+O023658;P00799;1;Lyon;22/10/2024;Mauvais article
+O031743;P00276;4;Paris;30/01/2024;Le client a changé d'avis
+O018095;P00804;8;Lyon;03/11/2024;Mauvais article
+O015088;P00171;7;Marseille;29/12/2024;Le client a changé d'avis
+O027162;P00303;2;Lyon;14/05/2024;Endommagé
+O038199;P00570;3;Marseille;28/08/2024;Le client a changé d'avis
+O031032;P00022;3;Paris;11/08/2024;Endommagé
+O026702;P00240;8;Marseille;12/07/2024;Pas comme décrit
+O023704;P00246;7;Marseille;05/12/2024;Pas comme décrit
+O034554;P00222;9;Paris;07/08/2024;Endommagé
+O039717;P00745;7;Marseille;04/08/2024;Endommagé
+O005872;P00859;1;Marseille;26/07/2024;Endommagé
+O002556;P00537;6;Paris;31/07/2024;Mauvais article
+O046870;P00665;9;Paris;26/05/2024;Endommagé
+O018587;P00323;7;Lyon;13/07/2024;Endommagé
+O049293;P00993;3;Marseille;25/03/2024;Pas comme décrit
+O000098;P00273;7;Paris;22/02/2024;Endommagé
+O007583;P00814;2;Paris;07/12/2024;Mauvais article
+O006944;P00422;2;Lyon;10/07/2024;Pas comme décrit
+O025267;P00252;2;Marseille;28/06/2024;Mauvais article
+O028638;P00747;5;Marseille;03/08/2024;Mauvais article
+O008061;P00815;7;Marseille;11/10/2024;Le client a changé d'avis
+O007638;P00490;8;Marseille;14/09/2024;Mauvais article
+O012785;P00324;7;Paris;20/07/2024;Pas comme décrit
+O019281;P00033;2;Marseille;14/10/2024;Pas comme décrit
+O015335;P00684;4;Marseille;03/09/2024;Mauvais article
+O041990;P00485;4;Lyon;21/01/2025;Le client a changé d'avis
+O037215;P00374;8;Paris;16/07/2024;Endommagé
+O038863;P00472;2;Marseille;19/05/2024;Pas comme décrit
+O002311;P00596;8;Marseille;31/08/2024;Endommagé
+O044725;P00695;4;Marseille;18/03/2024;Mauvais article
+O047755;P00918;8;Marseille;30/09/2024;Mauvais article
+O032831;P00498;3;Paris;01/09/2024;Endommagé
+O005365;P00928;4;Lyon;30/08/2024;Le client a changé d'avis
+O033724;P00741;1;Paris;29/03/2024;Le client a changé d'avis
+O003022;P00811;1;Lyon;19/05/2024;Le client a changé d'avis
+O041879;P00479;3;Marseille;12/06/2024;Mauvais article
+O004724;P00472;9;Marseille;23/12/2024;Le client a changé d'avis
+O006165;P00395;9;Marseille;20/12/2024;Mauvais article
+O015506;P00361;8;Lyon;28/02/2024;Le client a changé d'avis
+O035922;P00708;6;Marseille;04/01/2025;Pas comme décrit
+O031675;P00008;6;Paris;29/08/2024;Mauvais article
+O033571;P00889;6;Marseille;05/09/2024;Pas comme décrit
+O040403;P00123;4;Marseille;19/06/2024;Mauvais article
+O019783;P00476;8;Lyon;22/12/2024;Mauvais article
+O040017;P00697;6;Marseille;16/09/2024;Le client a changé d'avis
+O022595;P00561;4;Paris;30/05/2024;Endommagé
+O016527;P00289;2;Paris;20/07/2024;Mauvais article
+O018904;P00987;9;Lyon;24/11/2024;Pas comme décrit
+O039811;P00883;8;Marseille;14/11/2024;Pas comme décrit
+O023324;P00691;9;Paris;17/11/2024;Mauvais article
+O047411;P00732;9;Lyon;16/11/2024;Le client a changé d'avis
+O012980;P00558;7;Paris;29/03/2024;Endommagé
+O025393;P00847;6;Paris;02/08/2024;Mauvais article
+O023168;P00026;7;Paris;26/01/2025;Pas comme décrit
+O046793;P00051;2;Lyon;27/05/2024;Mauvais article
+O030980;P00598;7;Paris;08/07/2024;Mauvais article
+O000725;P00972;5;Paris;17/10/2024;Le client a changé d'avis
+O016203;P00621;4;Marseille;08/08/2024;Endommagé
+O014329;P00712;9;Marseille;22/11/2024;Le client a changé d'avis
+O002187;P00319;9;Lyon;26/10/2024;Pas comme décrit
+O015973;P00405;1;Paris;11/11/2024;Le client a changé d'avis
+O025988;P00191;3;Paris;20/03/2024;Mauvais article
+O023991;P00924;1;Marseille;12/08/2024;Endommagé
+O041146;P00258;4;Paris;01/05/2024;Pas comme décrit
+O013442;P00794;2;Paris;16/05/2024;Pas comme décrit
+O037303;P00254;8;Marseille;04/09/2024;Le client a changé d'avis
+O042881;P00365;1;Paris;23/03/2024;Pas comme décrit
+O019481;P00781;1;Paris;03/11/2024;Endommagé
+O019802;P00261;8;Lyon;04/05/2024;Mauvais article
+O043012;P00721;2;Paris;07/09/2024;Le client a changé d'avis
+O041426;P00212;7;Marseille;18/12/2024;Mauvais article
+O015233;P00855;9;Lyon;23/04/2024;Mauvais article
+O021918;P00950;4;Marseille;04/10/2024;Pas comme décrit
+O005451;P00328;9;Paris;27/05/2024;Le client a changé d'avis
+O015155;P00927;1;Lyon;27/05/2024;Le client a changé d'avis
+O041376;P00434;2;Paris;23/08/2024;Endommagé
+O021509;P00536;2;Paris;09/10/2024;Mauvais article
+O028635;P00510;2;Marseille;09/09/2024;Le client a changé d'avis
+O021527;P00560;5;Marseille;01/05/2024;Pas comme décrit
+O010701;P00441;3;Paris;18/06/2024;Le client a changé d'avis
+O035072;P00456;8;Paris;14/04/2024;Le client a changé d'avis
+O011925;P00453;4;Lyon;13/10/2024;Le client a changé d'avis
+O023561;P00279;5;Lyon;11/04/2024;Mauvais article
+O025742;P00184;6;Lyon;29/01/2025;Le client a changé d'avis
+O015708;P00510;4;Lyon;21/11/2024;Pas comme décrit
+O043382;P00370;4;Lyon;27/09/2024;Endommagé
+O002242;P00310;7;Paris;24/07/2024;Mauvais article
+O029558;P00570;6;Lyon;26/12/2024;Endommagé
+O017227;P00456;6;Paris;12/12/2024;Endommagé
+O022645;P00684;4;Paris;01/06/2024;Endommagé
+O003353;P00558;7;Paris;31/08/2024;Endommagé
+O019015;P00858;5;Paris;01/03/2024;Endommagé
+O026603;P00823;7;Marseille;06/08/2024;Pas comme décrit
+O010621;P00480;3;Marseille;08/03/2024;Pas comme décrit
+O017508;P00619;1;Paris;14/08/2024;Le client a changé d'avis
+O020329;P00171;2;Lyon;28/05/2024;Mauvais article
+O011334;P00870;6;Marseille;27/07/2024;Pas comme décrit
+O020636;P00274;5;Lyon;12/08/2024;Pas comme décrit
+O029124;P00702;9;Lyon;02/09/2024;Mauvais article
+O012468;P00552;8;Paris;25/05/2024;Pas comme décrit
+O044902;P00751;4;Lyon;02/05/2024;Endommagé
+O016334;P00908;2;Lyon;28/03/2024;Endommagé
+O011262;P00645;4;Lyon;12/01/2025;Pas comme décrit
+O026531;P00964;7;Lyon;06/05/2024;Pas comme décrit
+O016086;P00718;9;Paris;28/09/2024;Le client a changé d'avis
+O015390;P00163;6;Lyon;09/05/2024;Pas comme décrit
+O034563;P00877;2;Marseille;26/11/2024;Pas comme décrit
+O018694;P00606;7;Lyon;03/11/2024;Mauvais article
+O036574;P00808;4;Marseille;10/03/2024;Endommagé
+O014472;P00902;4;Paris;11/06/2024;Endommagé
+O015863;P00430;6;Paris;12/01/2024;Endommagé
+O001767;P00733;9;Lyon;30/12/2024;Pas comme décrit
+O018223;P00199;8;Paris;02/09/2024;Pas comme décrit
+O020757;P00497;1;Marseille;10/08/2024;Mauvais article
+O039767;P00141;1;Lyon;08/10/2024;Endommagé
+O007088;P00348;4;Marseille;01/02/2024;Endommagé
+O014566;P00826;9;Paris;11/06/2024;Pas comme décrit
+O010210;P00183;2;Marseille;24/01/2025;Pas comme décrit
+O011579;P00747;2;Marseille;26/11/2024;Mauvais article
+O029788;P00381;1;Marseille;02/08/2024;Endommagé
+O032216;P00393;8;Marseille;20/04/2024;Mauvais article
+O023747;P00307;1;Marseille;21/02/2024;Pas comme décrit
+O026380;P00706;8;Paris;20/02/2024;Le client a changé d'avis
+O030261;P00939;4;Marseille;23/01/2025;Pas comme décrit
+O018360;P00376;1;Lyon;09/06/2024;Pas comme décrit
+O018330;P00902;6;Paris;31/12/2024;Endommagé
+O036637;P00302;8;Marseille;22/09/2024;Endommagé
+O040405;P00218;5;Paris;24/11/2024;Mauvais article
+O008278;P00470;2;Lyon;19/12/2024;Le client a changé d'avis
+O049133;P00221;2;Lyon;12/01/2025;Mauvais article
+O004104;P00283;9;Lyon;07/03/2024;Le client a changé d'avis
+O027776;P00559;6;Lyon;02/10/2024;Mauvais article
+O007491;P00023;4;Paris;09/04/2024;Endommagé
+O042655;P00466;3;Paris;21/09/2024;Pas comme décrit
+O033395;P00538;2;Lyon;21/03/2024;Endommagé
+O004587;P00682;3;Paris;18/07/2024;Mauvais article
+O005592;P00102;8;Marseille;01/04/2024;Pas comme décrit
+O049330;P00450;1;Paris;06/03/2024;Le client a changé d'avis
+O002021;P00219;2;Paris;10/08/2024;Pas comme décrit
+O045296;P00936;2;Paris;24/07/2024;Mauvais article
+O033500;P00577;1;Lyon;09/07/2024;Le client a changé d'avis
+O026704;P00677;1;Lyon;22/06/2024;Le client a changé d'avis
+O029414;P00730;9;Paris;04/10/2024;Pas comme décrit
+O024048;P00557;1;Marseille;31/01/2024;Pas comme décrit
+O010229;P00224;9;Lyon;17/08/2024;Mauvais article
+O019395;P00890;1;Paris;10/08/2024;Mauvais article
+O049603;P00434;1;Marseille;26/06/2024;Pas comme décrit
+O006235;P00365;2;Lyon;12/12/2024;Endommagé
+O003878;P00673;9;Marseille;10/05/2024;Pas comme décrit
+O031620;P00268;3;Marseille;20/10/2024;Le client a changé d'avis
+O033275;P00395;7;Lyon;04/07/2024;Pas comme décrit
+O023918;P00941;3;Paris;24/07/2024;Mauvais article
+O039359;P00012;9;Lyon;22/10/2024;Pas comme décrit
+O030321;P00844;3;Marseille;26/07/2024;Mauvais article
+O011897;P00448;2;Marseille;02/04/2024;Pas comme décrit
+O022125;P00128;4;Marseille;07/05/2024;Mauvais article
+O041087;P00226;8;Paris;26/07/2024;Mauvais article
+O003237;P00260;6;Paris;21/12/2024;Mauvais article
+O025575;P00357;4;Paris;04/01/2025;Endommagé
+O014355;P00861;8;Lyon;05/10/2024;Pas comme décrit
+O007758;P00469;7;Paris;14/04/2024;Le client a changé d'avis
+O000358;P00367;1;Marseille;23/05/2024;Mauvais article
+O019013;P00625;6;Marseille;24/01/2025;Pas comme décrit
+O026578;P00682;5;Lyon;20/10/2024;Pas comme décrit
+O010177;P00250;2;Paris;26/03/2024;Le client a changé d'avis
+O018090;P00803;3;Marseille;22/12/2024;Mauvais article
+O027254;P00487;7;Marseille;11/04/2024;Mauvais article
+O013134;P00809;9;Paris;24/01/2025;Le client a changé d'avis
+O000641;P00337;5;Marseille;09/08/2024;Pas comme décrit
+O042464;P00771;5;Lyon;14/11/2024;Le client a changé d'avis
+O003457;P00912;5;Marseille;28/05/2024;Le client a changé d'avis
+O032505;P00116;5;Lyon;07/01/2025;Mauvais article
+O016566;P00588;9;Paris;24/06/2024;Mauvais article
+O028647;P00728;9;Paris;15/01/2025;Mauvais article
+O004383;P00922;8;Lyon;06/10/2024;Mauvais article
+O034636;P00765;7;Lyon;19/11/2024;Endommagé
+O029927;P00408;5;Paris;26/02/2024;Le client a changé d'avis
+O043703;P00139;7;Lyon;13/08/2024;Mauvais article
+O019233;P00390;8;Marseille;26/08/2024;Mauvais article
+O040182;P00968;1;Paris;03/08/2024;Endommagé
+O010636;P00263;1;Marseille;30/09/2024;Pas comme décrit
+O017710;P00807;9;Lyon;24/04/2024;Endommagé
+O015936;P00086;8;Marseille;07/10/2024;Mauvais article
+O048293;P00563;8;Marseille;27/08/2024;Le client a changé d'avis
+O046843;P00880;7;Marseille;25/08/2024;Endommagé
+O027568;P00185;4;Marseille;30/04/2024;Endommagé
+O049110;P00493;1;Marseille;18/12/2024;Pas comme décrit
+O006713;P00928;7;Marseille;05/04/2024;Pas comme décrit
+O022194;P00382;9;Lyon;17/05/2024;Pas comme décrit
+O040702;P00169;7;Paris;19/02/2024;Le client a changé d'avis
+O000159;P00185;2;Lyon;04/03/2024;Endommagé
+O026948;P00751;6;Lyon;05/09/2024;Mauvais article
+O042084;P00197;7;Paris;05/10/2024;Mauvais article
+O043106;P00616;8;Marseille;25/08/2024;Pas comme décrit
+O046603;P00505;6;Marseille;16/03/2024;Endommagé
+O000232;P00127;7;Marseille;21/01/2024;Le client a changé d'avis
+O042387;P00533;3;Lyon;15/08/2024;Mauvais article
+O026999;P00740;5;Marseille;25/02/2024;Le client a changé d'avis
+O015171;P00641;2;Lyon;05/04/2024;Pas comme décrit
+O047719;P00308;6;Marseille;17/11/2024;Mauvais article
+O002398;P00294;2;Paris;01/11/2024;Mauvais article
+O014222;P00807;6;Marseille;13/06/2024;Mauvais article
+O017723;P00280;1;Marseille;18/04/2024;Endommagé
+O046470;P00495;5;Lyon;19/01/2025;Le client a changé d'avis
+O038122;P00960;8;Marseille;01/02/2024;Pas comme décrit
+O017486;P00929;6;Lyon;26/11/2024;Le client a changé d'avis
+O014295;P00577;5;Paris;23/02/2024;Le client a changé d'avis
+O029867;P00502;2;Marseille;18/02/2024;Endommagé
+O039501;P00342;1;Lyon;15/07/2024;Endommagé
+O023123;P00915;2;Lyon;12/07/2024;Le client a changé d'avis
+O016427;P00777;4;Lyon;14/10/2024;Mauvais article
+O046205;P00481;6;Paris;11/08/2024;Mauvais article
+O045697;P00377;2;Marseille;27/02/2024;Le client a changé d'avis
+O048108;P00414;1;Paris;06/11/2024;Le client a changé d'avis
+O025817;P00583;7;Paris;17/06/2024;Le client a changé d'avis
+O016291;P00241;8;Marseille;01/11/2024;Mauvais article
+O033961;P00410;1;Paris;22/05/2024;Mauvais article
+O047370;P00029;4;Lyon;17/07/2024;Mauvais article
+O015898;P00619;9;Lyon;06/01/2025;Le client a changé d'avis
+O015069;P00526;5;Marseille;08/11/2024;Le client a changé d'avis
+O027603;P00069;4;Paris;13/02/2024;Mauvais article
+O012831;P00285;5;Marseille;07/03/2024;Endommagé
+O017343;P00876;1;Paris;27/02/2024;Pas comme décrit
+O000378;P00091;7;Lyon;05/01/2025;Mauvais article
+O020642;P00365;7;Lyon;01/07/2024;Pas comme décrit
+O047886;P00742;9;Paris;17/08/2024;Mauvais article
+O004917;P00039;2;Paris;12/09/2024;Mauvais article
+O042920;P00180;7;Lyon;02/08/2024;Le client a changé d'avis
+O015881;P00289;3;Paris;24/10/2024;Endommagé
+O023367;P00406;8;Marseille;15/02/2024;Mauvais article
+O009882;P00138;8;Paris;22/01/2024;Mauvais article
+O025116;P00371;4;Marseille;30/01/2024;Mauvais article
+O016207;P00346;4;Lyon;20/08/2024;Pas comme décrit
+O046181;P00405;7;Marseille;19/08/2024;Pas comme décrit
+O008046;P00589;8;Lyon;20/02/2024;Pas comme décrit
+O007557;P00329;4;Marseille;23/01/2024;Endommagé
+O025232;P00267;4;Lyon;12/06/2024;Le client a changé d'avis
+O019365;P00512;7;Lyon;29/06/2024;Le client a changé d'avis
+O030752;P00073;9;Marseille;06/04/2024;Le client a changé d'avis
+O011957;P00910;1;Marseille;15/09/2024;Le client a changé d'avis
+O037318;P00105;6;Lyon;27/10/2024;Endommagé
+O011683;P00475;8;Paris;24/09/2024;Pas comme décrit
+O002492;P00471;6;Lyon;21/01/2024;Mauvais article
+O028469;P00996;9;Paris;24/12/2024;Mauvais article
+O001809;P00733;3;Marseille;13/01/2025;Endommagé
+O045617;P00444;9;Lyon;20/01/2025;Endommagé
+O038025;P00176;9;Lyon;17/05/2024;Pas comme décrit
+O002367;P00611;5;Marseille;08/02/2024;Endommagé
+O006629;P00065;7;Lyon;20/02/2024;Mauvais article
+O033302;P00056;5;Paris;23/12/2024;Endommagé
+O049275;P00658;8;Paris;16/05/2024;Endommagé
+O020763;P00818;3;Marseille;06/06/2024;Pas comme décrit
+O025915;P00472;6;Lyon;29/03/2024;Endommagé
+O014949;P00499;5;Paris;07/08/2024;Pas comme décrit
+O012568;P00579;2;Paris;03/06/2024;Pas comme décrit
+O012981;P00612;9;Paris;15/05/2024;Le client a changé d'avis
+O016236;P00537;4;Paris;28/04/2024;Endommagé
+O024094;P00668;2;Paris;07/04/2024;Le client a changé d'avis
+O006258;P00313;5;Marseille;01/03/2024;Mauvais article
+O018316;P00301;5;Marseille;24/05/2024;Le client a changé d'avis
+O018151;P00668;9;Lyon;24/01/2025;Endommagé
+O044169;P00611;6;Marseille;30/03/2024;Endommagé
+O037510;P00330;7;Lyon;26/07/2024;Endommagé
+O039887;P00306;1;Paris;20/11/2024;Pas comme décrit
+O021539;P00868;9;Marseille;26/02/2024;Pas comme décrit
+O042832;P00029;1;Lyon;16/01/2024;Endommagé
+O046545;P00083;3;Lyon;24/08/2024;Mauvais article
+O018178;P00496;7;Lyon;16/05/2024;Pas comme décrit
+O021143;P00251;8;Paris;21/03/2024;Le client a changé d'avis
+O027553;P00465;9;Lyon;30/10/2024;Mauvais article
+O029405;P00677;3;Paris;03/12/2024;Mauvais article
+O001060;P00725;3;Paris;22/11/2024;Endommagé
+O044697;P00314;6;Paris;06/04/2024;Pas comme décrit
+O008921;P00161;1;Marseille;07/12/2024;Le client a changé d'avis
+O046546;P00833;1;Paris;27/05/2024;Pas comme décrit
+O021983;P00019;6;Marseille;25/05/2024;Pas comme décrit
+O007448;P00639;9;Marseille;20/09/2024;Endommagé
+O041461;P00093;5;Marseille;21/07/2024;Mauvais article
+O028218;P00278;8;Paris;29/03/2024;Mauvais article
+O022175;P00272;7;Marseille;10/02/2024;Mauvais article
+O000584;P00905;8;Lyon;12/08/2024;Endommagé
+O001681;P00738;8;Paris;14/08/2024;Le client a changé d'avis
+O042847;P00494;6;Lyon;10/09/2024;Endommagé
+O002779;P00693;9;Paris;10/07/2024;Le client a changé d'avis
+O019316;P00792;4;Marseille;12/09/2024;Mauvais article
+O040607;P00830;9;Paris;26/10/2024;Endommagé
+O003561;P00648;6;Marseille;01/08/2024;Pas comme décrit
+O025200;P00924;8;Marseille;12/08/2024;Pas comme décrit
+O032733;P00192;5;Lyon;19/07/2024;Le client a changé d'avis
+O018822;P00546;6;Marseille;24/11/2024;Pas comme décrit
+O006177;P00579;2;Lyon;12/05/2024;Endommagé
+O000948;P00313;5;Marseille;27/09/2024;Le client a changé d'avis
+O040011;P00527;9;Paris;09/12/2024;Pas comme décrit
+O049584;P00732;5;Lyon;13/06/2024;Pas comme décrit
+O027440;P00602;6;Marseille;16/01/2025;Pas comme décrit
+O011922;P00601;3;Lyon;25/12/2024;Endommagé
+O036093;P00976;2;Paris;28/01/2024;Pas comme décrit
+O024478;P00630;7;Paris;22/04/2024;Le client a changé d'avis
+O003587;P00772;9;Lyon;12/02/2024;Le client a changé d'avis
+O010675;P00733;5;Paris;01/09/2024;Pas comme décrit
+O043981;P01000;9;Paris;09/11/2024;Le client a changé d'avis
+O020773;P00609;6;Paris;31/07/2024;Le client a changé d'avis
+O009261;P00313;6;Paris;31/01/2025;Pas comme décrit
+O037517;P00998;8;Paris;16/05/2024;Pas comme décrit
+O013979;P00394;8;Marseille;17/02/2024;Pas comme décrit
+O040048;P00368;4;Paris;28/09/2024;Pas comme décrit
+O005706;P00783;4;Marseille;17/07/2024;Le client a changé d'avis
+O019414;P00008;1;Lyon;31/08/2024;Endommagé
+O013206;P00783;8;Lyon;29/12/2024;Mauvais article
+O000588;P00777;6;Paris;07/02/2024;Mauvais article
+O000666;P00219;8;Paris;26/10/2024;Pas comme décrit
+O017501;P00417;3;Marseille;07/12/2024;Endommagé
+O008386;P00015;4;Lyon;16/03/2024;Le client a changé d'avis
+O026940;P00666;3;Marseille;17/12/2024;Pas comme décrit
+O008804;P00829;4;Lyon;01/12/2024;Le client a changé d'avis
+O013011;P00557;6;Marseille;10/03/2024;Endommagé
+O009465;P00659;9;Paris;27/07/2024;Le client a changé d'avis
+O020207;P00987;4;Marseille;13/05/2024;Endommagé
+O010625;P00605;3;Paris;22/04/2024;Endommagé
+O035331;P00899;8;Marseille;24/11/2024;Mauvais article
+O042909;P00529;6;Paris;25/06/2024;Mauvais article
+O032236;P00937;3;Lyon;08/04/2024;Mauvais article
+O038624;P00471;2;Lyon;05/04/2024;Mauvais article
+O038349;P00422;1;Paris;19/11/2024;Le client a changé d'avis
+O033524;P00283;4;Lyon;03/02/2024;Mauvais article
+O026953;P00129;6;Lyon;24/09/2024;Pas comme décrit
+O036349;P00328;2;Marseille;28/11/2024;Mauvais article
+O017058;P00796;1;Marseille;29/11/2024;Pas comme décrit
+O012320;P00506;8;Paris;27/09/2024;Mauvais article
+O031823;P00536;1;Paris;27/05/2024;Mauvais article
+O021154;P00704;6;Lyon;27/04/2024;Pas comme décrit
+O045118;P00773;2;Paris;22/11/2024;Mauvais article
+O005103;P00744;5;Marseille;18/12/2024;Mauvais article
+O029149;P00074;1;Lyon;17/04/2024;Pas comme décrit
+O005968;P00354;1;Paris;21/09/2024;Mauvais article
+O021096;P00061;8;Paris;27/11/2024;Mauvais article
+O013221;P00110;7;Lyon;16/07/2024;Pas comme décrit
+O001727;P00401;4;Marseille;21/06/2024;Le client a changé d'avis
+O030147;P00738;2;Marseille;29/06/2024;Pas comme décrit
+O009607;P00937;2;Marseille;15/04/2024;Pas comme décrit
+O016560;P00681;4;Lyon;27/10/2024;Pas comme décrit
+O040739;P00762;5;Marseille;01/03/2024;Le client a changé d'avis
+O007341;P00545;9;Marseille;15/07/2024;Le client a changé d'avis
+O039355;P00074;7;Paris;05/08/2024;Le client a changé d'avis
+O007276;P00411;8;Marseille;27/12/2024;Mauvais article
+O030311;P00317;6;Paris;05/04/2024;Endommagé
+O046235;P00923;3;Marseille;20/05/2024;Endommagé
+O024307;P00630;8;Marseille;14/03/2024;Endommagé
+O006392;P00756;4;Lyon;12/01/2025;Le client a changé d'avis
+O039951;P00873;7;Marseille;22/08/2024;Pas comme décrit
+O021049;P00735;7;Marseille;06/05/2024;Pas comme décrit
+O034720;P00843;4;Lyon;11/11/2024;Pas comme décrit
+O003009;P00681;4;Lyon;21/02/2024;Endommagé
+O018082;P00488;8;Marseille;16/01/2025;Pas comme décrit
+O031695;P00511;9;Paris;28/09/2024;Endommagé
+O042687;P00326;2;Paris;18/03/2024;Mauvais article
+O011845;P00140;2;Marseille;29/02/2024;Mauvais article
+O045955;P00390;2;Lyon;02/06/2024;Endommagé
+O013606;P00296;6;Lyon;21/10/2024;Pas comme décrit
+O045256;P00162;8;Lyon;12/03/2024;Mauvais article
+O037985;P00737;8;Marseille;15/05/2024;Pas comme décrit
+O029217;P00256;6;Paris;27/06/2024;Mauvais article
+O024858;P00338;9;Paris;10/04/2024;Pas comme décrit
+O044162;P00475;3;Lyon;26/07/2024;Pas comme décrit
+O019197;P00918;8;Lyon;14/07/2024;Pas comme décrit
+O005429;P00902;3;Paris;28/09/2024;Le client a changé d'avis
+O000096;P00162;5;Lyon;06/12/2024;Endommagé
+O032745;P00549;8;Marseille;05/12/2024;Le client a changé d'avis
+O027193;P00165;3;Paris;20/05/2024;Mauvais article
+O031359;P00831;8;Paris;20/12/2024;Le client a changé d'avis
+O048855;P00268;7;Lyon;29/08/2024;Endommagé
+O042618;P00159;9;Paris;12/04/2024;Endommagé
+O000275;P00624;6;Marseille;29/09/2024;Pas comme décrit
+O013922;P00162;5;Paris;03/12/2024;Mauvais article
+O015154;P00962;4;Paris;28/06/2024;Mauvais article
+O002319;P00460;3;Paris;13/01/2025;Mauvais article
+O014118;P00987;7;Paris;18/05/2024;Pas comme décrit
+O028783;P00220;7;Lyon;11/08/2024;Mauvais article
+O039393;P00856;8;Marseille;21/12/2024;Le client a changé d'avis
+O016095;P00335;3;Paris;16/03/2024;Le client a changé d'avis
+O017198;P00219;8;Paris;26/08/2024;Mauvais article
+O004766;P00815;8;Paris;27/02/2024;Pas comme décrit
+O011838;P00038;5;Lyon;29/08/2024;Pas comme décrit
+O006334;P00170;6;Paris;28/05/2024;Le client a changé d'avis
+O001566;P00460;4;Paris;24/09/2024;Le client a changé d'avis
+O019382;P00302;7;Marseille;04/01/2025;Le client a changé d'avis
+O022671;P00850;6;Marseille;05/01/2025;Pas comme décrit
+O031257;P00390;8;Marseille;12/12/2024;Mauvais article
+O010390;P00514;8;Paris;06/09/2024;Endommagé
+O047539;P00147;1;Lyon;27/07/2024;Pas comme décrit
+O023400;P00983;9;Lyon;26/11/2024;Mauvais article
+O016363;P00420;9;Paris;24/05/2024;Endommagé
+O025487;P00626;1;Marseille;28/10/2024;Le client a changé d'avis
+O024292;P00212;6;Paris;29/03/2024;Le client a changé d'avis
+O031507;P00657;4;Lyon;25/05/2024;Le client a changé d'avis
+O034994;P00313;1;Marseille;10/01/2025;Endommagé
+O013392;P00421;6;Lyon;22/01/2024;Le client a changé d'avis
+O046568;P00261;5;Marseille;20/09/2024;Pas comme décrit
+O024261;P00290;1;Marseille;04/07/2024;Mauvais article
+O021103;P00159;2;Lyon;16/04/2024;Pas comme décrit
+O030534;P00948;3;Paris;25/11/2024;Pas comme décrit
+O040105;P00742;4;Marseille;02/10/2024;Mauvais article
+O004735;P00103;8;Marseille;14/08/2024;Endommagé
+O035347;P00570;9;Marseille;20/10/2024;Endommagé
+O013149;P00004;8;Marseille;05/07/2024;Mauvais article
+O012007;P00487;3;Marseille;04/06/2024;Endommagé
+O000556;P00045;3;Lyon;24/11/2024;Pas comme décrit
+O046449;P00221;7;Lyon;22/06/2024;Mauvais article
+O016097;P00637;7;Marseille;24/03/2024;Mauvais article
+O033738;P00090;8;Marseille;04/12/2024;Mauvais article
+O007142;P00418;2;Lyon;08/07/2024;Pas comme décrit
+O019663;P00533;2;Paris;14/02/2024;Le client a changé d'avis
+O004891;P00660;3;Paris;25/04/2024;Mauvais article
+O001905;P00272;3;Lyon;07/09/2024;Endommagé
+O034740;P00522;5;Paris;27/02/2024;Le client a changé d'avis
+O015933;P00599;8;Lyon;05/07/2024;Endommagé
+O025453;P00024;4;Paris;05/03/2024;Endommagé
+O037068;P00159;1;Lyon;31/03/2024;Mauvais article
+O031719;P00218;7;Lyon;20/09/2024;Endommagé
+O003807;P00770;5;Lyon;23/11/2024;Mauvais article
+O019096;P00782;3;Lyon;29/08/2024;Endommagé
+O005376;P00848;1;Paris;14/12/2024;Pas comme décrit
+O033914;P00117;4;Lyon;22/06/2024;Endommagé
+O049090;P00132;9;Paris;22/11/2024;Pas comme décrit
+O035808;P00843;4;Marseille;05/07/2024;Mauvais article
+O044489;P00876;1;Marseille;07/07/2024;Pas comme décrit
+O038180;P00300;9;Lyon;07/05/2024;Mauvais article
+O003160;P00725;8;Lyon;22/03/2024;Le client a changé d'avis
+O047221;P00386;1;Lyon;13/10/2024;Mauvais article
+O049426;P00779;7;Paris;21/02/2024;Mauvais article
+O034096;P00269;2;Paris;30/05/2024;Pas comme décrit
+O028639;P00782;7;Paris;28/12/2024;Pas comme décrit
+O039563;P00218;5;Marseille;23/01/2025;Pas comme décrit
+O032431;P00256;4;Paris;14/11/2024;Le client a changé d'avis
+O004551;P00916;1;Marseille;13/05/2024;Endommagé
+O025482;P00001;7;Marseille;19/01/2024;Mauvais article
+O021988;P00832;2;Marseille;29/12/2024;Pas comme décrit
+O031480;P00864;6;Lyon;11/05/2024;Le client a changé d'avis
+O012149;P00159;1;Paris;27/06/2024;Endommagé
+O023906;P00308;4;Lyon;22/11/2024;Le client a changé d'avis
+O017142;P00976;6;Paris;26/08/2024;Le client a changé d'avis
+O040567;P00796;8;Lyon;05/01/2025;Endommagé
+O006978;P00544;4;Paris;14/11/2024;Le client a changé d'avis
+O043555;P00453;3;Lyon;16/06/2024;Le client a changé d'avis
+O004627;P00185;1;Lyon;29/10/2024;Le client a changé d'avis
+O025519;P00171;6;Paris;15/04/2024;Pas comme décrit
+O007991;P00185;9;Paris;14/02/2024;Mauvais article
+O039213;P00774;6;Lyon;28/05/2024;Pas comme décrit
+O026331;P00398;2;Marseille;10/10/2024;Pas comme décrit
+O007802;P00399;7;Lyon;26/12/2024;Mauvais article
+O022054;P00408;4;Marseille;26/02/2024;Pas comme décrit
+O045832;P00644;8;Lyon;15/04/2024;Endommagé
+O011085;P00610;9;Lyon;13/11/2024;Le client a changé d'avis
+O041888;P00669;7;Lyon;19/05/2024;Endommagé
+O027784;P00831;1;Paris;05/03/2024;Le client a changé d'avis
+O016470;P00814;5;Paris;12/06/2024;Mauvais article
+O038337;P00551;9;Paris;11/04/2024;Endommagé
+O048866;P00929;2;Lyon;31/08/2024;Le client a changé d'avis
+O016788;P00633;3;Marseille;22/05/2024;Pas comme décrit
+O007391;P00995;5;Marseille;13/11/2024;Mauvais article
+O001990;P00201;6;Paris;20/06/2024;Mauvais article
+O042866;P00975;8;Lyon;25/12/2024;Mauvais article
+O005033;P00621;3;Paris;06/09/2024;Mauvais article
+O019134;P00981;5;Paris;15/07/2024;Endommagé
+O036995;P00888;4;Marseille;02/07/2024;Mauvais article
+O002854;P00462;2;Marseille;27/06/2024;Mauvais article
+O004255;P00457;6;Lyon;02/09/2024;Mauvais article
+O000806;P00722;7;Marseille;16/06/2024;Endommagé
+O041838;P00030;6;Lyon;06/03/2024;Le client a changé d'avis
+O021586;P00915;5;Paris;07/01/2025;Endommagé
+O019689;P00481;3;Lyon;04/04/2024;Mauvais article
+O043172;P00848;2;Paris;20/01/2024;Pas comme décrit
+O026429;P00265;4;Lyon;11/10/2024;Le client a changé d'avis
+O038065;P00106;1;Marseille;04/01/2025;Le client a changé d'avis
+O031432;P00072;5;Paris;20/02/2024;Endommagé
+O021171;P00791;5;Marseille;16/01/2025;Pas comme décrit
+O010940;P00585;9;Marseille;14/10/2024;Pas comme décrit
+O008309;P00746;2;Marseille;21/03/2024;Endommagé
+O034343;P00059;3;Marseille;14/05/2024;Le client a changé d'avis
+O045245;P00277;6;Lyon;18/05/2024;Endommagé
+O042211;P00124;4;Marseille;02/01/2025;Endommagé
+O046025;P00654;9;Paris;15/04/2024;Pas comme décrit
+O006441;P00993;1;Paris;11/12/2024;Endommagé
+O031476;P00534;7;Paris;31/05/2024;Mauvais article
+O047931;P00276;7;Marseille;15/10/2024;Pas comme décrit
+O036983;P00027;9;Paris;14/11/2024;Le client a changé d'avis
+O037344;P00399;7;Paris;25/02/2024;Pas comme décrit
+O010668;P00828;4;Paris;19/01/2024;Mauvais article
+O043882;P00587;9;Marseille;03/11/2024;Le client a changé d'avis
+O044315;P00138;1;Paris;25/03/2024;Le client a changé d'avis
+O010303;P00131;8;Lyon;12/10/2024;Mauvais article
+O008854;P00554;5;Paris;28/01/2025;Pas comme décrit
+O001706;P00909;7;Marseille;08/04/2024;Endommagé
+O042788;P00630;4;Paris;07/03/2024;Pas comme décrit
+O037402;P00377;9;Paris;30/05/2024;Endommagé
+O042807;P00227;7;Lyon;19/10/2024;Le client a changé d'avis
+O035135;P00008;7;Paris;26/10/2024;Endommagé
+O046707;P00872;6;Paris;08/03/2024;Le client a changé d'avis
+O040630;P00912;1;Marseille;26/05/2024;Endommagé
+O007793;P00061;8;Paris;16/04/2024;Mauvais article
+O032204;P00622;4;Lyon;07/11/2024;Pas comme décrit
+O005455;P00521;5;Lyon;18/03/2024;Le client a changé d'avis
+O018751;P00227;2;Marseille;14/10/2024;Le client a changé d'avis
+O032439;P00964;4;Lyon;26/10/2024;Le client a changé d'avis
+O006898;P00608;9;Paris;19/03/2024;Endommagé
+O002579;P00020;4;Lyon;23/09/2024;Endommagé
+O045074;P00429;5;Paris;13/06/2024;Mauvais article
+O006667;P00124;6;Lyon;26/04/2024;Endommagé
+O025944;P00508;3;Marseille;19/06/2024;Le client a changé d'avis
+O035731;P00111;1;Marseille;20/11/2024;Mauvais article
+O044840;P00461;8;Paris;28/05/2024;Pas comme décrit
+O025942;P00839;7;Lyon;11/09/2024;Endommagé
+O032782;P00559;4;Lyon;13/12/2024;Le client a changé d'avis
+O001174;P00073;6;Marseille;02/08/2024;Pas comme décrit
+O013007;P00825;9;Paris;01/12/2024;Endommagé
+O035113;P01000;4;Paris;10/01/2025;Endommagé
+O002886;P00506;5;Marseille;24/08/2024;Endommagé
+O039907;P00059;8;Paris;16/06/2024;Endommagé
+O031586;P00425;5;Paris;23/01/2025;Mauvais article
+O031294;P00965;2;Paris;07/12/2024;Endommagé
+O028870;P00079;4;Lyon;04/07/2024;Pas comme décrit
+O019698;P00498;3;Lyon;10/05/2024;Mauvais article
+O004158;P00464;5;Marseille;05/07/2024;Le client a changé d'avis
+O010049;P00646;4;Lyon;12/03/2024;Mauvais article
+O030358;P00570;8;Paris;30/08/2024;Le client a changé d'avis
+O006903;P00985;7;Lyon;30/12/2024;Le client a changé d'avis
+O049644;P00542;1;Paris;21/12/2024;Pas comme décrit
+O039764;P00355;8;Paris;05/05/2024;Mauvais article
+O026789;P00517;6;Marseille;27/03/2024;Mauvais article
+O040845;P00505;3;Marseille;17/03/2024;Mauvais article
+O018529;P00695;9;Lyon;06/11/2024;Endommagé
+O040285;P00696;3;Marseille;10/12/2024;Pas comme décrit
+O036604;P00919;7;Marseille;27/05/2024;Endommagé
+O028685;P00964;1;Lyon;16/01/2025;Le client a changé d'avis
+O024040;P00284;4;Marseille;19/02/2024;Endommagé
+O008326;P00897;1;Marseille;28/11/2024;Endommagé
+O032292;P00571;7;Marseille;21/12/2024;Pas comme décrit
+O014860;P00071;3;Paris;19/06/2024;Mauvais article
+O000649;P00870;1;Lyon;03/06/2024;Pas comme décrit
+O030839;P00060;6;Marseille;11/02/2024;Endommagé
+O037338;P00080;3;Lyon;12/07/2024;Le client a changé d'avis
+O018218;P00869;1;Marseille;14/11/2024;Le client a changé d'avis
+O011073;P00461;8;Lyon;12/04/2024;Mauvais article
+O009365;P00170;6;Marseille;10/08/2024;Pas comme décrit
+O042843;P00385;7;Marseille;04/02/2024;Le client a changé d'avis
+O041027;P00576;2;Paris;12/12/2024;Pas comme décrit
+O009521;P00365;7;Lyon;14/02/2024;Mauvais article
+O038614;P00762;3;Paris;19/11/2024;Endommagé
+O027793;P00058;9;Lyon;02/05/2024;Mauvais article
+O026122;P00958;3;Marseille;24/06/2024;Endommagé
+O018556;P00917;5;Lyon;15/11/2024;Endommagé
+O017898;P00332;8;Lyon;22/02/2024;Le client a changé d'avis
+O016812;P00290;8;Marseille;27/07/2024;Pas comme décrit
+O046984;P00221;6;Lyon;25/07/2024;Le client a changé d'avis
+O038618;P00219;7;Lyon;13/08/2024;Mauvais article
+O036876;P00307;1;Marseille;26/09/2024;Pas comme décrit
+O010702;P00493;5;Lyon;21/07/2024;Le client a changé d'avis
+O030450;P00334;4;Paris;28/07/2024;Pas comme décrit
+O031469;P00400;8;Paris;23/06/2024;Pas comme décrit
+O011319;P00080;9;Paris;23/12/2024;Le client a changé d'avis
+O013962;P00047;7;Marseille;01/09/2024;Pas comme décrit
+O000487;P00771;1;Paris;02/03/2024;Le client a changé d'avis
+O048425;P00756;6;Lyon;07/02/2024;Le client a changé d'avis
+O045876;P00579;2;Lyon;18/11/2024;Le client a changé d'avis
+O000194;P00661;3;Paris;28/05/2024;Mauvais article
+O035204;P00977;7;Lyon;22/02/2024;Mauvais article
+O013510;P00331;1;Paris;04/09/2024;Endommagé
+O025621;P00849;2;Paris;27/11/2024;Le client a changé d'avis
+O045452;P00934;2;Lyon;08/02/2024;Le client a changé d'avis
+O014385;P00550;5;Marseille;19/03/2024;Mauvais article
+O043026;P00598;5;Marseille;26/10/2024;Mauvais article
+O037557;P00162;3;Paris;14/11/2024;Mauvais article
+O046204;P00943;4;Paris;02/10/2024;Mauvais article
+O040994;P00505;6;Paris;24/11/2024;Le client a changé d'avis
+O020362;P00600;9;Lyon;16/04/2024;Mauvais article
+O014048;P00720;8;Lyon;26/11/2024;Endommagé
+O036861;P00491;2;Paris;23/06/2024;Le client a changé d'avis
+O030357;P00156;8;Lyon;11/01/2025;Pas comme décrit
+O032345;P00738;4;Lyon;20/03/2024;Le client a changé d'avis
+O023665;P00471;8;Paris;30/03/2024;Pas comme décrit
+O041347;P00575;5;Marseille;28/06/2024;Pas comme décrit
+O049854;P00805;2;Marseille;14/11/2024;Pas comme décrit
+O012952;P00112;2;Marseille;20/02/2024;Endommagé
+O040197;P00794;7;Lyon;27/04/2024;Le client a changé d'avis
+O038593;P00405;3;Lyon;27/04/2024;Pas comme décrit
+O047664;P00994;4;Marseille;05/11/2024;Mauvais article
+O004912;P00458;4;Paris;15/01/2025;Pas comme décrit
+O000147;P00120;8;Paris;02/08/2024;Le client a changé d'avis
+O038075;P00511;3;Lyon;03/11/2024;Endommagé
+O004306;P00613;5;Marseille;15/01/2025;Endommagé
+O006190;P00973;4;Paris;18/08/2024;Pas comme décrit
+O003507;P00568;1;Paris;30/10/2024;Pas comme décrit
+O012339;P00770;7;Lyon;03/12/2024;Le client a changé d'avis
+O049682;P00604;7;Marseille;01/08/2024;Le client a changé d'avis
+O004362;P00218;9;Marseille;23/08/2024;Endommagé
+O042732;P00037;5;Marseille;02/06/2024;Le client a changé d'avis
+O033930;P00280;8;Paris;21/09/2024;Mauvais article
+O033460;P00215;6;Lyon;18/05/2024;Mauvais article
+O040627;P00602;3;Lyon;07/09/2024;Pas comme décrit
+O037121;P00501;2;Lyon;14/07/2024;Mauvais article
+O033136;P00337;9;Paris;24/05/2024;Mauvais article
+O000933;P00659;4;Lyon;27/05/2024;Mauvais article
+O001189;P00360;6;Paris;04/03/2024;Le client a changé d'avis
+O030126;P00962;1;Marseille;11/02/2024;Le client a changé d'avis
+O045534;P00874;5;Lyon;26/05/2024;Mauvais article
+O032384;P00922;4;Lyon;20/08/2024;Le client a changé d'avis
+O015897;P00672;4;Marseille;01/10/2024;Mauvais article
+O046649;P00387;9;Lyon;21/09/2024;Endommagé
+O007453;P00858;3;Marseille;10/01/2025;Pas comme décrit
+O043309;P00701;2;Paris;29/07/2024;Le client a changé d'avis
+O023959;P00355;5;Paris;07/10/2024;Endommagé
+O035179;P00031;3;Lyon;30/03/2024;Le client a changé d'avis
+O044541;P00666;2;Paris;11/06/2024;Le client a changé d'avis
+O007256;P00717;5;Marseille;19/04/2024;Pas comme décrit
+O012590;P00329;8;Paris;02/11/2024;Endommagé
+O010823;P00537;3;Lyon;10/02/2024;Endommagé
+O021095;P00974;5;Marseille;28/12/2024;Endommagé
+O038145;P00715;5;Marseille;28/05/2024;Le client a changé d'avis
+O047184;P00710;6;Marseille;21/11/2024;Mauvais article
+O003324;P00217;8;Paris;08/05/2024;Le client a changé d'avis
+O018944;P00994;9;Paris;03/05/2024;Pas comme décrit
+O019937;P00773;3;Marseille;27/01/2024;Pas comme décrit
+O046075;P00301;6;Marseille;06/03/2024;Endommagé
+O007894;P00514;4;Paris;04/06/2024;Mauvais article
+O012121;P00083;3;Paris;20/12/2024;Endommagé
+O028821;P00522;8;Marseille;15/10/2024;Pas comme décrit
+O041997;P00216;4;Marseille;01/07/2024;Mauvais article
+O031887;P00091;7;Lyon;19/07/2024;Endommagé
+O001094;P00588;6;Marseille;28/07/2024;Le client a changé d'avis
+O010579;P00727;9;Paris;26/07/2024;Le client a changé d'avis
+O033270;P00577;1;Marseille;23/06/2024;Pas comme décrit
+O036823;P00643;2;Marseille;15/09/2024;Mauvais article
+O008125;P00358;1;Lyon;28/12/2024;Pas comme décrit
+O047380;P00935;9;Marseille;25/10/2024;Pas comme décrit
+O023756;P00946;6;Lyon;24/11/2024;Pas comme décrit
+O005179;P00421;8;Lyon;04/03/2024;Endommagé
+O047278;P00726;6;Lyon;27/01/2025;Endommagé
+O007621;P00758;1;Lyon;04/07/2024;Pas comme décrit
+O006809;P00137;1;Paris;16/01/2025;Le client a changé d'avis
+O017249;P00522;1;Paris;21/04/2024;Endommagé
+O018863;P00849;9;Lyon;22/03/2024;Pas comme décrit
+O046871;P00451;3;Lyon;26/09/2024;Pas comme décrit
+O026461;P00531;2;Lyon;20/06/2024;Le client a changé d'avis
+O003553;P00187;8;Lyon;27/04/2024;Le client a changé d'avis
+O034288;P00776;8;Lyon;29/02/2024;Mauvais article
+O047327;P00577;3;Marseille;22/09/2024;Le client a changé d'avis
+O028533;P00289;1;Lyon;13/06/2024;Pas comme décrit
+O004548;P00789;8;Lyon;22/05/2024;Endommagé
+O015497;P00671;9;Marseille;19/12/2024;Mauvais article
+O000521;P00386;8;Paris;29/09/2024;Le client a changé d'avis
+O031277;P00372;5;Lyon;03/09/2024;Le client a changé d'avis
+O011384;P00434;4;Marseille;22/10/2024;Le client a changé d'avis
+O016513;P00122;8;Marseille;20/06/2024;Pas comme décrit
+O024457;P00368;7;Paris;01/04/2024;Le client a changé d'avis
+O022254;P00475;7;Lyon;12/10/2024;Endommagé
+O039442;P00905;5;Lyon;20/11/2024;Pas comme décrit
+O022057;P00444;3;Lyon;01/09/2024;Pas comme décrit
+O035936;P00925;1;Paris;29/08/2024;Pas comme décrit
+O018739;P00819;5;Lyon;19/09/2024;Le client a changé d'avis
+O045337;P00590;4;Marseille;31/05/2024;Pas comme décrit
+O028060;P00833;1;Marseille;26/01/2025;Endommagé
+O046040;P00656;6;Marseille;17/05/2024;Le client a changé d'avis
+O028498;P00577;5;Lyon;03/10/2024;Pas comme décrit
+O041992;P00685;6;Lyon;04/11/2024;Pas comme décrit
+O027409;P00127;1;Paris;11/01/2025;Pas comme décrit
+O041440;P00698;4;Lyon;31/05/2024;Mauvais article
+O036068;P00583;9;Paris;31/05/2024;Mauvais article
+O023577;P00765;2;Paris;08/10/2024;Le client a changé d'avis
+O018172;P00361;1;Paris;05/11/2024;Pas comme décrit
+O002132;P00125;6;Paris;15/06/2024;Endommagé
+O048362;P00357;7;Marseille;08/05/2024;Le client a changé d'avis
+O045797;P00123;9;Marseille;07/11/2024;Pas comme décrit
+O043885;P00415;5;Lyon;23/10/2024;Endommagé
+O023494;P00447;1;Paris;24/12/2024;Le client a changé d'avis
+O043890;P00243;5;Paris;24/10/2024;Endommagé
+O030857;P00247;2;Marseille;14/06/2024;Pas comme décrit
+O026932;P00392;1;Marseille;22/07/2024;Mauvais article
+O015600;P00646;7;Paris;25/07/2024;Le client a changé d'avis
+O048145;P00627;8;Marseille;22/02/2024;Mauvais article
+O020400;P00869;1;Paris;14/12/2024;Endommagé
+O035161;P00930;6;Marseille;01/12/2024;Le client a changé d'avis
+O025790;P00661;3;Paris;25/05/2024;Pas comme décrit
+O035111;P00326;2;Marseille;26/07/2024;Le client a changé d'avis
+O009279;P00117;8;Paris;21/08/2024;Pas comme décrit
+O049253;P00136;9;Marseille;09/07/2024;Le client a changé d'avis
+O016532;P00324;3;Paris;21/02/2024;Le client a changé d'avis
+O033247;P00124;8;Paris;10/12/2024;Pas comme décrit
+O043346;P00527;7;Lyon;19/05/2024;Pas comme décrit
+O025596;P00791;6;Marseille;28/09/2024;Endommagé
+O025620;P00546;7;Paris;01/02/2024;Endommagé
+O031511;P00237;6;Paris;16/11/2024;Mauvais article
+O002313;P00773;2;Lyon;08/02/2024;Mauvais article
+O003070;P00361;8;Lyon;01/08/2024;Le client a changé d'avis
+O016492;P00685;7;Lyon;12/04/2024;Le client a changé d'avis
+O012589;P00508;3;Lyon;20/07/2024;Endommagé
+O022996;P00316;6;Paris;28/10/2024;Le client a changé d'avis
+O045678;P00448;8;Lyon;21/05/2024;Endommagé
+O011203;P00627;6;Paris;14/06/2024;Le client a changé d'avis
+O013029;P00878;1;Lyon;18/04/2024;Le client a changé d'avis
+O038130;P00278;6;Marseille;27/08/2024;Pas comme décrit
+O004210;P00736;6;Paris;24/04/2024;Le client a changé d'avis
+O049151;P00406;7;Paris;19/01/2024;Endommagé
+O026637;P00982;8;Lyon;16/07/2024;Pas comme décrit
+O013761;P00081;4;Lyon;01/08/2024;Le client a changé d'avis
+O013645;P00174;8;Paris;11/04/2024;Endommagé
+O038035;P00191;8;Lyon;24/05/2024;Endommagé
+O040576;P00455;1;Marseille;28/07/2024;Pas comme décrit
+O026370;P00173;1;Paris;17/11/2024;Le client a changé d'avis
+O041904;P00033;4;Marseille;11/01/2025;Endommagé
+O029592;P00966;8;Marseille;26/12/2024;Pas comme décrit
+O027939;P00912;7;Lyon;10/11/2024;Mauvais article
+O028165;P00171;4;Paris;28/04/2024;Pas comme décrit
+O026333;P00125;3;Lyon;10/05/2024;Mauvais article
+O025173;P00284;3;Paris;18/08/2024;Endommagé
+O022362;P00167;8;Paris;06/09/2024;Mauvais article
+O036558;P00243;6;Lyon;16/03/2024;Endommagé
+O000422;P00080;2;Marseille;24/10/2024;Endommagé
+O005657;P00939;7;Marseille;27/12/2024;Mauvais article
+O022735;P00262;9;Marseille;19/11/2024;Le client a changé d'avis
+O023457;P00966;5;Paris;01/11/2024;Pas comme décrit
+O043969;P00573;4;Paris;29/10/2024;Le client a changé d'avis
+O029531;P00761;7;Paris;02/06/2024;Endommagé
+O024902;P00718;2;Lyon;25/12/2024;Mauvais article
+O034129;P00219;1;Marseille;27/11/2024;Endommagé
+O036378;P00988;7;Paris;18/06/2024;Le client a changé d'avis
+O036131;P00371;7;Paris;15/06/2024;Endommagé
+O042547;P00698;3;Paris;02/07/2024;Endommagé
+O037698;P00946;8;Lyon;11/01/2025;Le client a changé d'avis
+O037863;P00225;3;Marseille;08/03/2024;Endommagé
+O027705;P00301;7;Lyon;08/05/2024;Mauvais article
+O000606;P00640;4;Paris;08/08/2024;Endommagé
+O020084;P00336;5;Lyon;25/07/2024;Pas comme décrit
+O047869;P00004;3;Lyon;12/05/2024;Le client a changé d'avis
+O048018;P00140;8;Paris;12/05/2024;Endommagé
+O043940;P00650;9;Lyon;09/11/2024;Le client a changé d'avis
+O016112;P00904;8;Paris;10/02/2024;Endommagé
+O025636;P00483;7;Lyon;06/12/2024;Le client a changé d'avis
+O047717;P00703;7;Marseille;29/06/2024;Mauvais article
+O016582;P00071;6;Lyon;15/05/2024;Le client a changé d'avis
+O012506;P00257;3;Lyon;29/02/2024;Le client a changé d'avis
+O013532;P00974;4;Paris;25/09/2024;Endommagé
+O014987;P00603;7;Marseille;16/04/2024;Le client a changé d'avis
+O003179;P00278;2;Marseille;18/01/2024;Mauvais article
+O017927;P00647;4;Lyon;04/06/2024;Pas comme décrit
+O010544;P00662;9;Lyon;02/08/2024;Endommagé
+O000882;P00699;5;Marseille;03/03/2024;Mauvais article
+O023992;P00682;7;Marseille;12/03/2024;Mauvais article
+O029931;P00276;2;Paris;20/05/2024;Le client a changé d'avis
+O009501;P00145;5;Lyon;07/09/2024;Endommagé
+O046148;P00305;9;Marseille;06/09/2024;Endommagé
+O001163;P00014;6;Lyon;29/04/2024;Pas comme décrit
+O021564;P00335;6;Marseille;03/12/2024;Pas comme décrit
+O049618;P00335;9;Marseille;19/06/2024;Pas comme décrit
+O039361;P00336;8;Lyon;27/05/2024;Pas comme décrit
+O044150;P00561;3;Paris;05/04/2024;Mauvais article
+O013869;P00251;1;Paris;20/05/2024;Pas comme décrit
+O042756;P00447;1;Lyon;24/05/2024;Pas comme décrit
+O019804;P00369;4;Marseille;02/08/2024;Endommagé
+O045424;P00152;3;Paris;15/09/2024;Pas comme décrit
+O016170;P00064;5;Lyon;30/09/2024;Mauvais article
+O036284;P00219;6;Lyon;27/01/2025;Pas comme décrit
+O005313;P00871;2;Marseille;28/05/2024;Le client a changé d'avis
+O025810;P00124;7;Marseille;25/12/2024;Pas comme décrit
+O046516;P00408;8;Marseille;21/12/2024;Pas comme décrit
+O005198;P00035;9;Paris;04/10/2024;Pas comme décrit
+O004760;P00535;4;Paris;12/09/2024;Mauvais article
+O025094;P00031;7;Lyon;06/09/2024;Le client a changé d'avis
+O007768;P00476;7;Marseille;06/02/2024;Endommagé
+O028055;P00805;7;Marseille;23/12/2024;Endommagé
+O032054;P00522;2;Paris;07/11/2024;Pas comme décrit
+O024291;P00516;8;Paris;01/09/2024;Le client a changé d'avis
+O011124;P00478;1;Paris;10/11/2024;Pas comme décrit
+O049287;P00612;3;Paris;10/04/2024;Endommagé
+O020671;P00020;9;Lyon;13/12/2024;Le client a changé d'avis
+O029133;P00589;9;Paris;21/06/2024;Pas comme décrit
+O040654;P00371;7;Marseille;28/12/2024;Pas comme décrit
+O008838;P00369;7;Paris;31/07/2024;Mauvais article
+O041917;P00228;4;Marseille;14/09/2024;Le client a changé d'avis
+O013483;P00891;8;Paris;11/02/2024;Pas comme décrit
+O010755;P00830;6;Marseille;18/05/2024;Pas comme décrit
+O021997;P00597;6;Paris;08/05/2024;Pas comme décrit
+O017075;P00373;7;Paris;03/06/2024;Endommagé
+O045065;P00375;7;Paris;15/04/2024;Endommagé
+O021454;P00059;9;Lyon;30/05/2024;Endommagé
+O029542;P00463;6;Paris;15/09/2024;Mauvais article
+O001542;P00070;3;Lyon;19/05/2024;Mauvais article
+O016026;P00605;6;Marseille;20/06/2024;Mauvais article
+O043157;P00265;4;Paris;02/02/2024;Pas comme décrit
+O020952;P00563;8;Marseille;11/04/2024;Endommagé
+O014255;P00470;5;Paris;26/10/2024;Endommagé
+O041887;P00529;5;Lyon;24/06/2024;Mauvais article
+O016568;P00610;3;Paris;31/01/2025;Mauvais article
+O021409;P00661;5;Marseille;22/10/2024;Mauvais article
+O038853;P00761;5;Paris;16/04/2024;Pas comme décrit
+O014687;P00406;3;Lyon;26/10/2024;Le client a changé d'avis
+O032743;P00812;2;Paris;14/01/2025;Pas comme décrit
+O014362;P00159;2;Lyon;12/04/2024;Mauvais article
+O012884;P00553;8;Marseille;23/08/2024;Mauvais article
+O032703;P00607;5;Marseille;05/08/2024;Endommagé
+O025932;P00573;2;Paris;19/07/2024;Mauvais article
+O037397;P00205;4;Marseille;02/05/2024;Le client a changé d'avis
+O018544;P00019;6;Paris;13/10/2024;Le client a changé d'avis
+O012018;P00332;1;Marseille;29/04/2024;Mauvais article
+O039212;P00216;3;Lyon;14/07/2024;Pas comme décrit
+O025426;P00598;8;Lyon;26/03/2024;Mauvais article
+O013737;P00568;6;Marseille;31/05/2024;Pas comme décrit
+O024649;P00295;6;Marseille;15/06/2024;Endommagé
+O006426;P00816;3;Lyon;31/03/2024;Mauvais article
+O028690;P00355;5;Lyon;08/02/2025;Le client a changé d'avis
+O037774;P00197;9;Lyon;01/05/2024;Le client a changé d'avis
+O032270;P00077;7;Marseille;24/06/2024;Endommagé
+O005765;P00789;6;Paris;08/05/2024;Le client a changé d'avis
+O008076;P00568;8;Lyon;29/11/2024;Pas comme décrit
+O030119;P00904;2;Marseille;12/09/2024;Pas comme décrit
+O046032;P00789;6;Paris;16/07/2024;Endommagé
+O011976;P00191;8;Paris;05/01/2025;Le client a changé d'avis
+O037753;P00228;7;Marseille;31/03/2024;Pas comme décrit
+O030065;P00533;1;Marseille;11/08/2024;Endommagé
+O014714;P00775;3;Lyon;21/06/2024;Endommagé
+O017102;P00372;4;Paris;22/10/2024;Mauvais article
+O028101;P00948;3;Marseille;06/02/2025;Pas comme décrit
+O019042;P00470;4;Paris;26/10/2024;Mauvais article
+O036779;P00765;8;Lyon;06/03/2024;Endommagé
+O045265;P00637;6;Lyon;26/07/2024;Le client a changé d'avis
+O044115;P00902;6;Paris;12/07/2024;Endommagé
+O029904;P00585;3;Marseille;24/05/2024;Le client a changé d'avis
+O031391;P00420;9;Marseille;07/03/2024;Mauvais article
+O000624;P00976;1;Marseille;15/08/2024;Endommagé
+O011707;P00056;6;Marseille;21/06/2024;Endommagé
+O038475;P00813;8;Paris;17/08/2024;Endommagé
+O044367;P00230;9;Lyon;05/08/2024;Le client a changé d'avis
+O045686;P00557;7;Lyon;20/02/2024;Mauvais article
+O020873;P00296;2;Paris;11/11/2024;Pas comme décrit
+O021680;P00530;1;Paris;03/11/2024;Mauvais article
+O011265;P00408;6;Marseille;28/06/2024;Mauvais article
+O033384;P00139;2;Paris;16/05/2024;Mauvais article
+O049387;P00185;4;Marseille;09/07/2024;Endommagé
+O000931;P00377;8;Lyon;05/12/2024;Le client a changé d'avis
+O001946;P00831;5;Marseille;09/05/2024;Pas comme décrit
+O019438;P00421;7;Marseille;01/11/2024;Le client a changé d'avis
+O033919;P00989;4;Paris;23/06/2024;Pas comme décrit
+O008273;P00929;9;Lyon;12/04/2024;Mauvais article
+O012559;P00186;8;Marseille;02/05/2024;Endommagé
+O043073;P00836;8;Paris;21/12/2024;Pas comme décrit
+O004519;P00272;5;Paris;27/03/2024;Le client a changé d'avis
+O006551;P00663;3;Paris;08/06/2024;Endommagé
+O039628;P00864;5;Paris;13/10/2024;Pas comme décrit
+O021443;P00922;6;Lyon;02/05/2024;Le client a changé d'avis
+O042092;P00910;7;Lyon;25/02/2024;Mauvais article
+O041271;P00834;4;Marseille;06/11/2024;Mauvais article
+O007335;P00680;7;Marseille;16/03/2024;Le client a changé d'avis
+O017437;P00362;6;Lyon;19/12/2024;Mauvais article
+O030725;P00048;9;Paris;25/04/2024;Pas comme décrit
+O003101;P00565;6;Lyon;31/01/2024;Pas comme décrit
+O007659;P00410;9;Marseille;22/12/2024;Pas comme décrit
+O027329;P00959;5;Lyon;18/01/2025;Pas comme décrit
+O011184;P00955;4;Lyon;08/08/2024;Endommagé
+O007984;P00719;4;Lyon;16/12/2024;Le client a changé d'avis
+O030049;P00738;3;Lyon;11/11/2024;Mauvais article
+O030660;P00192;3;Paris;15/08/2024;Le client a changé d'avis
+O012533;P00398;8;Marseille;29/12/2024;Pas comme décrit
+O049243;P00212;8;Marseille;26/03/2024;Le client a changé d'avis
+O006127;P00450;4;Paris;25/07/2024;Mauvais article
+O000797;P00567;8;Paris;14/03/2024;Endommagé
+O049146;P00033;1;Lyon;06/04/2024;Mauvais article
+O003063;P00153;4;Lyon;22/12/2024;Endommagé
+O020799;P00530;6;Paris;20/05/2024;Mauvais article
+O022089;P00575;3;Paris;09/10/2024;Mauvais article
+O008049;P00478;6;Marseille;02/10/2024;Endommagé
+O032192;P00080;1;Marseille;26/06/2024;Mauvais article
+O015106;P00956;4;Paris;06/09/2024;Mauvais article
+O026177;P00235;8;Paris;06/10/2024;Le client a changé d'avis
+O014841;P00873;6;Paris;18/05/2024;Endommagé
+O011053;P00250;4;Marseille;06/03/2024;Pas comme décrit
+O017994;P00937;5;Lyon;12/02/2024;Endommagé
+O026205;P00706;5;Marseille;02/09/2024;Mauvais article
+O036665;P00378;2;Paris;30/10/2024;Le client a changé d'avis
+O024090;P00067;8;Marseille;01/06/2024;Endommagé
+O020913;P00551;1;Marseille;31/01/2024;Pas comme décrit
+O030216;P00661;4;Marseille;26/10/2024;Pas comme décrit
+O023330;P00082;8;Lyon;16/12/2024;Mauvais article
+O042456;P00606;6;Lyon;03/07/2024;Pas comme décrit
+O017882;P00020;5;Marseille;29/10/2024;Pas comme décrit
+O016279;P00589;4;Lyon;31/03/2024;Mauvais article
+O012953;P00406;4;Paris;18/06/2024;Mauvais article
+O007947;P00046;3;Paris;04/04/2024;Le client a changé d'avis
+O043028;P00954;4;Lyon;28/09/2024;Mauvais article
+O042996;P00191;3;Paris;06/09/2024;Mauvais article
+O020072;P00838;5;Lyon;21/03/2024;Mauvais article
+O049729;P00706;1;Paris;11/09/2024;Endommagé
+O001839;P00273;6;Lyon;13/12/2024;Endommagé
+O028804;P00581;4;Marseille;02/03/2024;Mauvais article
+O043235;P00528;3;Paris;02/11/2024;Le client a changé d'avis
+O028417;P00914;7;Marseille;03/09/2024;Pas comme décrit
+O026465;P00441;5;Paris;24/12/2024;Mauvais article
+O034234;P00593;4;Lyon;12/02/2024;Mauvais article
+O012199;P00032;7;Lyon;18/06/2024;Pas comme décrit
+O003864;P00809;4;Marseille;06/02/2024;Pas comme décrit
+O029224;P00920;4;Lyon;18/01/2024;Le client a changé d'avis
+O033704;P00633;4;Lyon;24/11/2024;Mauvais article
+O043711;P00889;1;Paris;25/02/2024;Le client a changé d'avis
+O047534;P00066;5;Paris;25/04/2024;Endommagé
+O031915;P00931;1;Lyon;22/05/2024;Pas comme décrit
+O046716;P00029;2;Marseille;23/09/2024;Pas comme décrit
+O024315;P00766;6;Paris;13/06/2024;Le client a changé d'avis
+O001236;P00051;1;Paris;22/03/2024;Pas comme décrit
+O030881;P00138;3;Lyon;24/06/2024;Endommagé
+O000257;P00575;5;Paris;02/05/2024;Endommagé
+O046905;P00293;6;Lyon;16/03/2024;Pas comme décrit
+O041897;P00335;3;Paris;13/11/2024;Endommagé
+O043453;P00158;7;Marseille;26/03/2024;Pas comme décrit
+O003269;P00377;3;Marseille;13/02/2024;Le client a changé d'avis
+O046092;P00594;9;Lyon;06/08/2024;Pas comme décrit
+O014975;P00713;2;Lyon;27/09/2024;Le client a changé d'avis
+O007109;P00716;2;Paris;22/10/2024;Endommagé
+O049409;P00008;8;Lyon;06/06/2024;Mauvais article
+O015186;P00145;4;Paris;05/12/2024;Le client a changé d'avis
+O037350;P00982;2;Paris;23/08/2024;Endommagé
+O030844;P00492;9;Lyon;18/03/2024;Pas comme décrit
+O010989;P00542;8;Paris;26/09/2024;Pas comme décrit
+O004391;P00949;3;Lyon;13/05/2024;Endommagé
+O048525;P00592;4;Lyon;30/11/2024;Pas comme décrit
+O047853;P00091;1;Lyon;14/04/2024;Mauvais article
+O001195;P00782;2;Paris;03/03/2024;Pas comme décrit
+O030996;P00298;4;Marseille;12/11/2024;Pas comme décrit
+O017952;P00701;8;Paris;15/12/2024;Pas comme décrit
+O000814;P00686;9;Marseille;20/11/2024;Pas comme décrit
+O047013;P00136;1;Lyon;18/07/2024;Endommagé
+O040336;P00610;7;Paris;18/10/2024;Pas comme décrit
+O044140;P00587;2;Lyon;04/03/2024;Mauvais article
+O032057;P00004;7;Lyon;08/02/2024;Endommagé
+O040263;P00577;8;Paris;22/09/2024;Endommagé
+O045137;P00607;8;Paris;28/06/2024;Le client a changé d'avis
+O017276;P00505;7;Paris;23/06/2024;Le client a changé d'avis
+O028950;P00238;7;Marseille;24/05/2024;Pas comme décrit
+O044988;P00408;7;Lyon;06/08/2024;Mauvais article
+O002951;P00217;6;Lyon;01/09/2024;Pas comme décrit
+O047267;P00518;9;Marseille;09/11/2024;Endommagé
+O030439;P00815;3;Lyon;02/01/2025;Pas comme décrit
+O038622;P00102;6;Lyon;03/11/2024;Pas comme décrit
+O011669;P00180;7;Marseille;28/12/2024;Pas comme décrit
+O004331;P00832;7;Lyon;29/02/2024;Mauvais article
+O016968;P00617;5;Marseille;19/11/2024;Mauvais article
+O040335;P00556;9;Lyon;13/02/2024;Le client a changé d'avis
+O036590;P00882;1;Paris;30/01/2024;Endommagé
+O033207;P00582;1;Lyon;24/06/2024;Le client a changé d'avis
+O001772;P00170;4;Lyon;16/01/2025;Endommagé
+O039451;P00103;5;Lyon;15/01/2025;Pas comme décrit
+O018941;P00406;4;Paris;08/02/2024;Le client a changé d'avis
+O010401;P00094;3;Paris;27/05/2024;Endommagé
+O007344;P00064;9;Lyon;25/10/2024;Pas comme décrit
+O041922;P00983;8;Marseille;20/02/2024;Pas comme décrit
+O024528;P00693;5;Paris;19/11/2024;Le client a changé d'avis
+O043573;P00071;3;Marseille;25/06/2024;Endommagé
+O037590;P00919;1;Marseille;25/11/2024;Pas comme décrit
+O013528;P00220;6;Paris;12/08/2024;Le client a changé d'avis
+O030920;P00494;4;Paris;30/03/2024;Pas comme décrit
+O017834;P00546;3;Paris;24/06/2024;Le client a changé d'avis
+O033784;P00503;8;Lyon;08/12/2024;Pas comme décrit
+O005405;P00990;4;Paris;06/05/2024;Le client a changé d'avis
+O038898;P00152;1;Marseille;20/01/2024;Le client a changé d'avis
+O005930;P00242;2;Marseille;26/12/2024;Pas comme décrit
+O001769;P00280;3;Marseille;23/06/2024;Endommagé
+O003958;P00742;5;Lyon;20/02/2024;Le client a changé d'avis
+O012893;P00130;9;Marseille;20/02/2024;Endommagé
+O040076;P00697;2;Lyon;23/07/2024;Pas comme décrit
+O009551;P00442;7;Paris;30/10/2024;Pas comme décrit
+O016630;P00848;8;Lyon;16/04/2024;Pas comme décrit
+O014911;P00395;8;Marseille;08/06/2024;Le client a changé d'avis
+O018100;P00065;6;Marseille;21/12/2024;Endommagé
+O036690;P00696;9;Lyon;06/12/2024;Mauvais article
+O048463;P00382;8;Lyon;10/04/2024;Endommagé
+O037866;P00969;7;Paris;11/09/2024;Endommagé
+O018695;P00892;2;Lyon;13/08/2024;Endommagé
+O003755;P00236;4;Paris;29/02/2024;Mauvais article
+O045925;P00986;5;Paris;21/10/2024;Endommagé
+O004850;P00367;3;Marseille;31/10/2024;Mauvais article
+O008040;P00810;6;Paris;19/02/2024;Le client a changé d'avis
+O044585;P00927;6;Marseille;24/12/2024;Pas comme décrit
+O030012;P00711;3;Marseille;29/06/2024;Le client a changé d'avis
+O033340;P00174;5;Lyon;11/10/2024;Pas comme décrit
+O017170;P00725;9;Paris;29/05/2024;Mauvais article
+O033458;P00982;6;Paris;24/05/2024;Le client a changé d'avis
+O007467;P00691;2;Lyon;02/03/2024;Mauvais article
+O041443;P00070;7;Paris;20/09/2024;Endommagé
+O037281;P00948;3;Marseille;19/10/2024;Mauvais article
+O015592;P00933;7;Lyon;06/02/2024;Pas comme décrit
+O024605;P00178;7;Marseille;02/11/2024;Pas comme décrit
+O012167;P00336;9;Paris;07/07/2024;Endommagé
+O048001;P00781;5;Paris;29/11/2024;Endommagé
+O032181;P00819;5;Lyon;07/03/2024;Le client a changé d'avis
+O033995;P00512;4;Lyon;01/02/2024;Pas comme décrit
+O033944;P00123;3;Paris;01/08/2024;Endommagé
+O034867;P00211;6;Paris;30/12/2024;Le client a changé d'avis
+O009021;P00824;3;Marseille;14/09/2024;Mauvais article
+O034355;P00989;9;Lyon;11/01/2025;Endommagé
+O015101;P00441;5;Lyon;22/08/2024;Mauvais article
+O003551;P00823;7;Lyon;18/05/2024;Endommagé
+O015376;P00863;1;Paris;21/09/2024;Pas comme décrit
+O020327;P00507;2;Marseille;19/07/2024;Mauvais article
+O014681;P00201;7;Paris;27/02/2024;Le client a changé d'avis
+O001382;P00972;4;Marseille;06/03/2024;Le client a changé d'avis
+O034895;P00519;8;Paris;08/12/2024;Endommagé
+O047301;P00564;6;Marseille;15/10/2024;Le client a changé d'avis
+O039005;P00051;3;Lyon;01/06/2024;Pas comme décrit
+O021258;P00714;1;Paris;02/08/2024;Endommagé
+O000391;P00658;1;Lyon;07/10/2024;Mauvais article
+O029381;P00602;5;Marseille;06/11/2024;Pas comme décrit
+O009457;P00086;3;Marseille;27/05/2024;Mauvais article
+O032644;P00028;8;Marseille;02/11/2024;Mauvais article
+O015977;P00214;3;Paris;15/01/2025;Le client a changé d'avis
+O031771;P00612;8;Lyon;13/08/2024;Mauvais article
+O026274;P00465;4;Marseille;05/11/2024;Mauvais article
+O015623;P00130;9;Marseille;30/07/2024;Le client a changé d'avis
+O009170;P00232;3;Lyon;07/12/2024;Le client a changé d'avis
+O043982;P00663;6;Marseille;01/02/2024;Mauvais article
+O047226;P00053;5;Lyon;08/09/2024;Pas comme décrit
+O032986;P00101;9;Lyon;20/04/2024;Endommagé
+O045365;P00018;9;Paris;25/01/2024;Endommagé
+O035633;P00105;3;Lyon;22/01/2024;Endommagé
+O010198;P00265;8;Marseille;18/12/2024;Endommagé
+O039123;P00595;6;Paris;16/07/2024;Pas comme décrit
+O039808;P00352;2;Paris;10/07/2024;Pas comme décrit
+O036509;P00205;3;Marseille;19/10/2024;Endommagé
+O008937;P00452;7;Lyon;23/04/2024;Le client a changé d'avis
+O027480;P00212;2;Marseille;15/06/2024;Pas comme décrit
+O047783;P00232;8;Paris;22/04/2024;Le client a changé d'avis
+O027718;P00562;7;Lyon;23/06/2024;Endommagé
+O017223;P00719;9;Marseille;31/10/2024;Endommagé
+O021675;P00333;9;Marseille;26/05/2024;Endommagé
+O019255;P00446;1;Paris;14/05/2024;Mauvais article
+O016992;P00329;1;Lyon;21/01/2025;Pas comme décrit
+O033050;P00669;1;Paris;12/09/2024;Pas comme décrit
+O042643;P00283;9;Paris;24/03/2024;Le client a changé d'avis
+O013229;P00759;8;Paris;03/07/2024;Pas comme décrit
+O039076;P00171;2;Lyon;28/03/2024;Le client a changé d'avis
+O011629;P00978;5;Marseille;14/09/2024;Endommagé
+O015710;P00962;2;Lyon;17/10/2024;Endommagé
+O017449;P00602;8;Lyon;13/08/2024;Mauvais article
+O021318;P00062;4;Paris;29/03/2024;Mauvais article
+O046997;P00009;1;Marseille;29/08/2024;Mauvais article
+O020754;P00981;6;Paris;14/09/2024;Pas comme décrit
+O018150;P00012;5;Lyon;16/01/2025;Endommagé
+O005006;P00292;7;Marseille;25/09/2024;Le client a changé d'avis
+O048660;P00517;4;Marseille;22/11/2024;Le client a changé d'avis
+O018606;P00415;2;Marseille;23/06/2024;Le client a changé d'avis
+O010979;P00953;6;Lyon;12/03/2024;Pas comme décrit
+O013079;P00795;8;Marseille;28/06/2024;Endommagé
+O003935;P00244;5;Paris;24/09/2024;Pas comme décrit
+O000297;P00610;4;Paris;25/05/2024;Le client a changé d'avis
+O017293;P00760;5;Paris;17/03/2024;Pas comme décrit
+O043691;P00198;2;Marseille;02/09/2024;Endommagé
+O033093;P00816;4;Lyon;24/03/2024;Pas comme décrit
+O015393;P00319;1;Lyon;09/01/2025;Pas comme décrit
+O049162;P00544;7;Marseille;13/11/2024;Endommagé
+O030464;P00167;1;Lyon;30/12/2024;Endommagé
+O004915;P00541;8;Marseille;14/09/2024;Pas comme décrit
+O006097;P00846;8;Paris;22/11/2024;Mauvais article
+O026325;P00708;9;Paris;01/03/2024;Mauvais article
+O045382;P00250;6;Marseille;29/12/2024;Mauvais article
+O046020;P00832;8;Lyon;27/06/2024;Le client a changé d'avis
+O001326;P00913;3;Paris;04/08/2024;Pas comme décrit
+O041902;P00380;4;Marseille;01/10/2024;Mauvais article
+O040741;P00621;6;Paris;21/08/2024;Le client a changé d'avis
+O007731;P00161;4;Marseille;30/10/2024;Endommagé
+O001582;P00914;1;Lyon;06/04/2024;Pas comme décrit
+O040891;P00753;2;Lyon;20/02/2024;Endommagé
+O002372;P00147;1;Paris;05/11/2024;Mauvais article
+O030561;P00419;2;Paris;20/08/2024;Le client a changé d'avis
+O011324;P00481;2;Lyon;21/12/2024;Pas comme décrit
+O009616;P00417;1;Paris;29/09/2024;Endommagé
+O018998;P00348;7;Marseille;13/08/2024;Le client a changé d'avis
+O045379;P00806;3;Lyon;09/09/2024;Pas comme décrit
+O001107;P00744;7;Marseille;09/11/2024;Pas comme décrit
+O005708;P00228;8;Marseille;16/09/2024;Pas comme décrit
+O046857;P00205;5;Paris;18/05/2024;Le client a changé d'avis
+O025641;P00437;3;Lyon;08/05/2024;Pas comme décrit
+O018032;P00374;1;Paris;02/12/2024;Pas comme décrit
+O002454;P00945;1;Paris;22/02/2024;Endommagé
+O044584;P00551;2;Lyon;29/07/2024;Le client a changé d'avis
+O027030;P00970;8;Lyon;20/05/2024;Endommagé
+O025408;P00636;7;Lyon;19/03/2024;Mauvais article
+O000906;P00126;4;Marseille;14/09/2024;Endommagé
+O018519;P00781;4;Paris;02/07/2024;Pas comme décrit
+O030212;P00598;7;Paris;07/03/2024;Pas comme décrit
+O047531;P00914;7;Paris;02/10/2024;Le client a changé d'avis
+O030942;P00518;4;Marseille;01/03/2024;Endommagé
+O017722;P00900;7;Marseille;11/12/2024;Pas comme décrit
+O009325;P00216;1;Paris;19/12/2024;Le client a changé d'avis
+O039128;P00130;8;Marseille;13/12/2024;Mauvais article
+O010601;P00647;7;Paris;05/06/2024;Pas comme décrit
+O017517;P00598;5;Paris;17/07/2024;Le client a changé d'avis
+O012147;P00855;7;Lyon;01/07/2024;Le client a changé d'avis
+O020961;P00790;5;Marseille;08/06/2024;Le client a changé d'avis
+O028309;P00422;7;Marseille;19/10/2024;Le client a changé d'avis
+O032449;P00364;3;Lyon;28/06/2024;Le client a changé d'avis
+O034275;P00170;5;Paris;26/10/2024;Endommagé
+O026218;P00737;6;Paris;24/01/2025;Endommagé
+O036763;P00653;4;Lyon;11/04/2024;Le client a changé d'avis
+O034354;P00571;9;Marseille;26/12/2024;Le client a changé d'avis
+O046929;P00772;3;Paris;18/04/2024;Mauvais article
+O037605;P00756;4;Paris;03/10/2024;Endommagé
+O030371;P00872;3;Paris;01/10/2024;Mauvais article
+O034758;P00340;1;Paris;05/05/2024;Pas comme décrit
+O037981;P00386;7;Lyon;28/07/2024;Mauvais article
+O040245;P00369;8;Paris;18/01/2025;Le client a changé d'avis
+O044847;P00743;6;Marseille;15/09/2024;Mauvais article
+O014866;P00041;9;Marseille;02/08/2024;Pas comme décrit
+O014398;P00746;5;Marseille;15/07/2024;Endommagé
+O035115;P00367;5;Marseille;27/12/2024;Pas comme décrit
+O004753;P00393;7;Paris;02/03/2024;Pas comme décrit
+O045076;P00789;3;Paris;11/11/2024;Pas comme décrit
+O013837;P00321;3;Lyon;18/09/2024;Endommagé
+O030510;P00622;9;Marseille;13/07/2024;Le client a changé d'avis
+O000007;P00154;4;Lyon;11/10/2024;Pas comme décrit
+O041240;P00813;8;Marseille;01/05/2024;Pas comme décrit
+O011206;P00572;8;Marseille;30/04/2024;Pas comme décrit
+O029535;P00837;7;Marseille;02/09/2024;Pas comme décrit
+O015997;P00412;3;Lyon;01/03/2024;Pas comme décrit
+O041538;P00215;2;Marseille;01/11/2024;Endommagé
+O032112;P00344;8;Paris;05/04/2024;Pas comme décrit
+O008317;P00293;7;Lyon;27/02/2024;Endommagé
+O041474;P00370;6;Marseille;05/02/2024;Mauvais article
+O036879;P00616;9;Lyon;12/10/2024;Pas comme décrit
+O048957;P00970;6;Lyon;15/09/2024;Endommagé
+O011356;P00717;1;Lyon;22/02/2024;Endommagé
+O049725;P00660;4;Lyon;15/02/2024;Mauvais article
+O028768;P00275;9;Marseille;24/07/2024;Pas comme décrit
+O026598;P00127;8;Paris;26/08/2024;Endommagé
+O014453;P00900;3;Paris;24/05/2024;Mauvais article
+O028189;P00325;8;Marseille;05/05/2024;Pas comme décrit
+O028465;P00456;7;Marseille;18/10/2024;Mauvais article
+O001700;P00109;4;Paris;10/08/2024;Endommagé
+O041508;P00583;3;Marseille;18/03/2024;Pas comme décrit
+O014554;P00456;8;Lyon;31/10/2024;Le client a changé d'avis
+O008733;P00981;5;Marseille;26/08/2024;Endommagé
+O002070;P00459;3;Paris;27/10/2024;Mauvais article
+O044011;P00255;2;Marseille;16/07/2024;Pas comme décrit
+O000039;P00063;6;Paris;04/12/2024;Le client a changé d'avis
+O028591;P00356;6;Paris;25/04/2024;Mauvais article
+O028259;P00928;4;Paris;10/09/2024;Le client a changé d'avis
+O019251;P00670;4;Lyon;28/08/2024;Pas comme décrit
+O023019;P00914;6;Paris;30/10/2024;Mauvais article
+O046345;P00469;5;Marseille;17/02/2024;Le client a changé d'avis
+O000650;P00209;6;Paris;20/10/2024;Endommagé
+O003229;P00215;1;Marseille;28/08/2024;Le client a changé d'avis
+O043000;P00777;5;Lyon;01/07/2024;Pas comme décrit
+O018938;P00962;5;Paris;10/03/2024;Mauvais article
+O017255;P00320;8;Paris;28/02/2024;Le client a changé d'avis
+O020175;P00677;7;Paris;31/08/2024;Pas comme décrit
+O046444;P00840;7;Marseille;04/01/2025;Endommagé
+O042607;P00793;1;Marseille;19/10/2024;Le client a changé d'avis
+O031201;P00526;6;Marseille;11/01/2025;Endommagé
+O025813;P00332;1;Paris;17/02/2024;Le client a changé d'avis
+O027082;P00725;3;Lyon;08/09/2024;Endommagé
+O032189;P00113;4;Paris;29/07/2024;Le client a changé d'avis
+O029418;P00156;5;Lyon;10/05/2024;Le client a changé d'avis
+O020271;P00432;3;Marseille;11/10/2024;Endommagé
+O021674;P00295;3;Marseille;31/05/2024;Pas comme décrit
+O043069;P00937;5;Marseille;06/01/2025;Le client a changé d'avis
+O019824;P00769;6;Paris;07/06/2024;Pas comme décrit
+O040174;P00580;6;Lyon;23/10/2024;Mauvais article
+O002669;P00623;1;Lyon;13/12/2024;Endommagé
+O009398;P00135;4;Marseille;20/07/2024;Pas comme décrit
+O008721;P00486;1;Lyon;18/07/2024;Mauvais article
+O048553;P00490;8;Lyon;13/05/2024;Mauvais article
+O042197;P00799;3;Paris;15/12/2024;Le client a changé d'avis
+O047784;P00927;7;Marseille;27/08/2024;Le client a changé d'avis
+O021195;P00386;1;Lyon;31/10/2024;Le client a changé d'avis
+O013507;P00108;1;Lyon;07/03/2024;Mauvais article
+O033925;P00775;4;Marseille;03/09/2024;Le client a changé d'avis
+O024758;P00146;4;Paris;30/04/2024;Pas comme décrit
+O028875;P01000;9;Marseille;23/03/2024;Pas comme décrit
+O031147;P00202;1;Lyon;28/06/2024;Mauvais article
+O014144;P00865;3;Paris;01/02/2024;Pas comme décrit
+O046272;P00032;7;Marseille;26/03/2024;Mauvais article
+O033979;P00476;5;Paris;29/04/2024;Mauvais article
+O004939;P00478;6;Marseille;17/04/2024;Le client a changé d'avis
+O014873;P00279;1;Lyon;26/08/2024;Endommagé
+O026666;P00807;8;Paris;02/03/2024;Pas comme décrit
+O019567;P00044;1;Marseille;19/04/2024;Pas comme décrit
+O040208;P00632;5;Lyon;20/10/2024;Endommagé
+O019739;P00805;5;Paris;20/06/2024;Endommagé
+O030633;P00034;7;Lyon;13/06/2024;Mauvais article
+O010074;P00488;9;Lyon;07/07/2024;Pas comme décrit
+O006847;P00980;7;Lyon;31/07/2024;Pas comme décrit
+O031703;P00640;2;Paris;04/05/2024;Pas comme décrit
+O017773;P00426;4;Lyon;11/01/2025;Le client a changé d'avis
+O030229;P00078;1;Lyon;31/01/2024;Le client a changé d'avis
+O049779;P00620;1;Paris;04/01/2025;Endommagé
+O039619;P00748;7;Marseille;27/09/2024;Mauvais article
+O032421;P00278;5;Lyon;20/12/2024;Le client a changé d'avis
+O001227;P00866;5;Marseille;13/08/2024;Endommagé
+O038448;P00315;1;Marseille;25/09/2024;Endommagé
+O011064;P00620;9;Marseille;16/12/2024;Pas comme décrit
+O042021;P00966;9;Marseille;25/01/2025;Le client a changé d'avis
+O025309;P00766;6;Paris;15/04/2024;Le client a changé d'avis
+O031417;P00295;1;Lyon;25/12/2024;Le client a changé d'avis
+O029767;P00793;9;Marseille;12/09/2024;Le client a changé d'avis
+O046237;P00107;5;Marseille;01/05/2024;Pas comme décrit
+O036653;P00719;5;Lyon;24/09/2024;Mauvais article
+O035495;P00390;6;Marseille;24/02/2024;Endommagé
+O007959;P00118;8;Paris;05/01/2025;Mauvais article
+O047925;P00274;2;Paris;05/10/2024;Pas comme décrit
+O046772;P00413;6;Paris;06/04/2024;Endommagé
+O048134;P00332;1;Marseille;27/12/2024;Mauvais article
+O009714;P00088;9;Lyon;19/03/2024;Pas comme décrit
+O016834;P00417;7;Marseille;18/05/2024;Endommagé
+O013588;P00038;8;Marseille;29/09/2024;Endommagé
+O026519;P00962;9;Marseille;31/08/2024;Pas comme décrit
+O047222;P00601;5;Paris;28/10/2024;Endommagé
+O040936;P00898;5;Paris;18/01/2025;Mauvais article
+O028333;P00718;2;Paris;13/11/2024;Le client a changé d'avis
+O008185;P00685;2;Lyon;15/01/2025;Mauvais article
+O017551;P00783;9;Paris;10/08/2024;Endommagé
+O029147;P00325;5;Paris;07/01/2025;Endommagé
+O027933;P00871;2;Lyon;03/11/2024;Mauvais article
+O020583;P00341;4;Paris;13/12/2024;Le client a changé d'avis
+O032900;P00767;8;Paris;25/03/2024;Le client a changé d'avis
+O023099;P00445;4;Paris;06/07/2024;Mauvais article
+O023262;P00409;8;Marseille;14/02/2024;Mauvais article
+O048169;P00138;5;Paris;01/11/2024;Mauvais article
+O045161;P00670;5;Paris;11/04/2024;Pas comme décrit
+O002078;P00307;5;Lyon;25/02/2024;Le client a changé d'avis
+O000200;P00300;7;Paris;16/11/2024;Endommagé
+O028062;P00299;4;Paris;27/04/2024;Mauvais article
+O040176;P00506;8;Paris;31/01/2025;Mauvais article
+O005077;P00979;6;Paris;17/02/2024;Pas comme décrit
+O020516;P00601;6;Lyon;10/03/2024;Pas comme décrit
+O042244;P00604;7;Marseille;03/09/2024;Mauvais article
+O046353;P00784;1;Marseille;01/06/2024;Endommagé
+O026978;P00788;1;Marseille;13/11/2024;Endommagé
+O029701;P00058;3;Paris;26/11/2024;Pas comme décrit
+O024406;P00501;6;Paris;02/03/2024;Pas comme décrit
+O027006;P00152;9;Lyon;05/07/2024;Le client a changé d'avis
+O025811;P00701;4;Marseille;02/03/2024;Le client a changé d'avis
+O048778;P00904;3;Lyon;05/08/2024;Le client a changé d'avis
+O049795;P00830;2;Paris;17/07/2024;Mauvais article
+O002883;P00733;9;Paris;07/02/2024;Mauvais article
+O037153;P00038;4;Paris;07/09/2024;Le client a changé d'avis
+O001475;P00054;6;Paris;05/05/2024;Pas comme décrit
+O011305;P00949;6;Marseille;30/03/2024;Le client a changé d'avis
+O047707;P00099;6;Marseille;25/05/2024;Pas comme décrit
+O025681;P00805;4;Marseille;19/10/2024;Le client a changé d'avis
+O048277;P00335;6;Paris;05/07/2024;Mauvais article
+O005690;P00045;7;Lyon;05/01/2025;Endommagé
+O016409;P00048;9;Lyon;01/12/2024;Le client a changé d'avis
+O021405;P00105;3;Paris;25/06/2024;Endommagé
+O031289;P00091;8;Paris;14/01/2025;Endommagé
+O035802;P00455;5;Paris;06/12/2024;Pas comme décrit
+O020860;P00020;8;Lyon;15/11/2024;Endommagé
+O043508;P00470;3;Marseille;19/11/2024;Mauvais article
+O046281;P00231;1;Marseille;02/05/2024;Mauvais article
+O048060;P00965;6;Lyon;04/04/2024;Endommagé
+O009713;P00511;5;Paris;02/11/2024;Le client a changé d'avis
+O038338;P00300;9;Marseille;10/11/2024;Pas comme décrit
+O040973;P00599;4;Lyon;24/07/2024;Mauvais article
+O017890;P00050;3;Lyon;30/04/2024;Endommagé
+O045067;P00919;1;Marseille;01/06/2024;Pas comme décrit
+O039009;P00749;3;Lyon;07/12/2024;Mauvais article
+O002814;P00860;1;Lyon;27/08/2024;Le client a changé d'avis
+O026972;P00207;8;Paris;02/08/2024;Pas comme décrit
+O049306;P00845;9;Marseille;07/10/2024;Endommagé
+O002461;P00090;5;Paris;14/10/2024;Le client a changé d'avis
+O029797;P00928;2;Marseille;03/10/2024;Mauvais article
+O009617;P00197;3;Marseille;18/05/2024;Mauvais article
+O015025;P00223;9;Lyon;26/09/2024;Endommagé
+O019530;P00354;4;Lyon;09/04/2024;Pas comme décrit
+O005338;P00294;6;Marseille;01/02/2025;Mauvais article
+O029584;P00457;3;Lyon;11/02/2024;Endommagé
+O032742;P00493;1;Paris;06/03/2024;Endommagé
+O020654;P00073;4;Marseille;23/06/2024;Mauvais article
+O008294;P00644;9;Marseille;01/11/2024;Pas comme décrit
+O022660;P00861;5;Paris;06/07/2024;Mauvais article
+O018774;P00655;7;Marseille;08/02/2024;Le client a changé d'avis
+O031237;P00012;1;Paris;04/09/2024;Mauvais article
+O021470;P00973;1;Marseille;18/02/2024;Endommagé
+O007615;P00069;1;Marseille;24/01/2025;Le client a changé d'avis
+O044520;P00345;2;Marseille;09/12/2024;Pas comme décrit
+O036425;P00106;5;Paris;02/04/2024;Pas comme décrit
+O002273;P00168;3;Marseille;04/05/2024;Endommagé
+O044399;P00643;9;Marseille;18/03/2024;Le client a changé d'avis
+O012083;P00293;3;Lyon;25/05/2024;Mauvais article
+O049130;P00075;8;Marseille;14/07/2024;Le client a changé d'avis
+O007008;P00210;9;Paris;23/04/2024;Pas comme décrit
+O029636;P00458;2;Marseille;27/06/2024;Mauvais article
+O000762;P00525;9;Paris;24/01/2025;Pas comme décrit
+O022762;P00313;8;Marseille;17/02/2024;Endommagé
+O043668;P00585;8;Paris;25/07/2024;Pas comme décrit
+O049903;P00825;6;Paris;19/03/2024;Le client a changé d'avis
+O006339;P00739;6;Paris;12/01/2025;Le client a changé d'avis
+O035012;P00108;3;Lyon;30/08/2024;Pas comme décrit
+O025968;P00862;3;Marseille;22/07/2024;Mauvais article
+O026242;P00811;8;Paris;13/04/2024;Mauvais article
+O005203;P00408;8;Paris;26/11/2024;Mauvais article
+O035082;P00103;6;Marseille;29/04/2024;Pas comme décrit
+O000388;P00996;7;Marseille;11/09/2024;Pas comme décrit
+O002570;P00992;4;Lyon;22/08/2024;Mauvais article
+O042690;P00215;5;Paris;11/05/2024;Pas comme décrit
+O047764;P00366;8;Lyon;12/05/2024;Pas comme décrit
+O036123;P00300;9;Lyon;02/07/2024;Pas comme décrit
+O014418;P00260;4;Paris;14/05/2024;Pas comme décrit
+O027842;P00540;2;Marseille;24/03/2024;Pas comme décrit
+O008914;P00543;6;Marseille;05/09/2024;Endommagé
+O001590;P00109;5;Lyon;13/08/2024;Endommagé
+O004096;P00664;7;Lyon;25/01/2024;Mauvais article
+O002087;P00492;9;Paris;02/11/2024;Pas comme décrit
+O001912;P00141;4;Lyon;08/01/2025;Endommagé
+O032003;P00581;6;Marseille;02/11/2024;Endommagé
+O024981;P00990;8;Marseille;26/11/2024;Pas comme décrit
+O014032;P00345;9;Lyon;14/12/2024;Le client a changé d'avis
+O048882;P00702;9;Lyon;19/06/2024;Le client a changé d'avis
+O036102;P00130;5;Lyon;21/01/2025;Mauvais article
+O014433;P00663;5;Marseille;18/05/2024;Mauvais article
+O042009;P00718;5;Lyon;10/04/2024;Pas comme décrit
+O017641;P00151;7;Marseille;08/12/2024;Pas comme décrit
+O042703;P00494;9;Paris;01/09/2024;Pas comme décrit
+O048154;P00347;5;Marseille;17/07/2024;Le client a changé d'avis
+O045167;P00922;8;Paris;03/11/2024;Le client a changé d'avis
+O004272;P00633;1;Lyon;10/06/2024;Mauvais article
+O028082;P00047;7;Paris;03/10/2024;Endommagé
+O029106;P00606;5;Lyon;31/07/2024;Mauvais article
+O046196;P00793;7;Lyon;05/07/2024;Mauvais article
+O041436;P00726;4;Lyon;17/10/2024;Le client a changé d'avis
+O048528;P00492;1;Lyon;21/09/2024;Mauvais article
+O022976;P00427;7;Marseille;07/12/2024;Endommagé
+O003275;P00590;8;Paris;05/01/2025;Le client a changé d'avis
+O030069;P00913;5;Marseille;11/11/2024;Endommagé
+O021277;P00888;7;Lyon;28/10/2024;Mauvais article
+O036279;P00991;4;Paris;29/05/2024;Endommagé
+O030739;P00567;4;Lyon;18/07/2024;Le client a changé d'avis
+O031683;P00138;8;Marseille;25/06/2024;Le client a changé d'avis
+O009330;P00604;9;Marseille;07/12/2024;Endommagé
+O007750;P00463;2;Marseille;28/02/2024;Le client a changé d'avis
+O026134;P00349;7;Lyon;15/10/2024;Endommagé
+O009585;P00897;6;Paris;13/03/2024;Mauvais article
+O039789;P00906;9;Paris;23/09/2024;Pas comme décrit
+O047265;P00976;1;Lyon;13/05/2024;Le client a changé d'avis
+O048891;P00255;6;Lyon;20/04/2024;Le client a changé d'avis
+O011902;P00760;6;Paris;12/11/2024;Le client a changé d'avis
+O006683;P00658;1;Lyon;14/07/2024;Endommagé
+O021996;P00254;6;Marseille;12/06/2024;Endommagé
+O022209;P00834;9;Paris;14/01/2025;Pas comme décrit
+O048610;P00261;4;Marseille;20/04/2024;Pas comme décrit
+O000674;P00814;5;Marseille;11/03/2024;Le client a changé d'avis
+O036683;P00087;1;Marseille;12/10/2024;Le client a changé d'avis
+O039508;P00880;7;Marseille;13/05/2024;Pas comme décrit
+O036955;P00315;5;Marseille;06/09/2024;Mauvais article
+O023839;P00401;3;Marseille;21/02/2024;Pas comme décrit
+O027198;P00279;4;Paris;22/02/2024;Mauvais article
+O007529;P00265;5;Lyon;05/01/2025;Endommagé
+O039966;P00322;8;Lyon;14/04/2024;Pas comme décrit
+O046230;P00903;4;Marseille;27/05/2024;Mauvais article
+O009762;P00908;4;Paris;25/12/2024;Le client a changé d'avis
+O037393;P00551;1;Lyon;23/04/2024;Le client a changé d'avis
+O026408;P00952;6;Marseille;24/08/2024;Mauvais article
+O035580;P00986;3;Paris;09/07/2024;Pas comme décrit
+O019267;P00423;5;Lyon;23/05/2024;Pas comme décrit
+O020996;P00139;2;Marseille;17/02/2024;Endommagé
+O012038;P00714;2;Paris;25/10/2024;Endommagé
+O033147;P00570;1;Marseille;30/09/2024;Endommagé
+O002482;P00242;5;Marseille;30/12/2024;Endommagé
+O021532;P00893;7;Lyon;14/07/2024;Mauvais article
+O019406;P00225;9;Marseille;27/03/2024;Pas comme décrit
+O019669;P00330;7;Marseille;15/09/2024;Pas comme décrit
+O000789;P00653;1;Lyon;24/05/2024;Pas comme décrit
+O022396;P00408;9;Paris;07/07/2024;Mauvais article
+O008617;P00531;7;Lyon;21/09/2024;Le client a changé d'avis
+O040787;P00972;7;Lyon;18/12/2024;Pas comme décrit
+O035760;P00570;3;Lyon;29/03/2024;Endommagé
+O031978;P00330;3;Lyon;28/12/2024;Le client a changé d'avis
+O005471;P00475;4;Paris;19/03/2024;Le client a changé d'avis
+O013513;P00298;1;Lyon;27/07/2024;Mauvais article
+O034839;P00354;6;Lyon;19/07/2024;Endommagé
+O019843;P00378;4;Marseille;14/02/2024;Endommagé
+O039142;P00338;7;Lyon;24/12/2024;Le client a changé d'avis
+O027584;P00626;7;Marseille;12/05/2024;Mauvais article
+O048233;P00284;3;Marseille;27/04/2024;Pas comme décrit
+O029132;P00544;7;Marseille;05/08/2024;Pas comme décrit
+O006038;P00939;6;Marseille;19/07/2024;Endommagé
+O047566;P00203;1;Lyon;27/05/2024;Endommagé
+O032823;P00240;3;Lyon;02/03/2024;Le client a changé d'avis
+O012565;P00257;5;Paris;16/09/2024;Le client a changé d'avis
+O022754;P00372;5;Lyon;30/01/2025;Le client a changé d'avis
+O006572;P00918;8;Marseille;31/07/2024;Endommagé
+O043722;P00937;7;Marseille;05/02/2024;Pas comme décrit
+O038954;P00631;4;Paris;11/06/2024;Pas comme décrit
+O006615;P00622;6;Marseille;24/02/2024;Mauvais article
+O019571;P00875;1;Lyon;23/03/2024;Endommagé
+O049860;P00962;6;Marseille;08/09/2024;Endommagé
+O007060;P00746;2;Lyon;09/08/2024;Mauvais article
+O030154;P00712;6;Lyon;10/11/2024;Mauvais article
+O008682;P00342;4;Lyon;25/01/2024;Pas comme décrit
+O003011;P00426;2;Paris;25/10/2024;Le client a changé d'avis
+O035782;P00948;1;Lyon;26/11/2024;Le client a changé d'avis
+O040522;P00011;4;Marseille;16/03/2024;Pas comme décrit
+O031456;P00422;4;Lyon;18/04/2024;Pas comme décrit
+O045050;P00733;8;Paris;23/02/2024;Mauvais article
+O041936;P00729;9;Marseille;19/07/2024;Pas comme décrit
+O003151;P00377;1;Marseille;19/02/2024;Endommagé
+O020200;P00543;2;Lyon;10/10/2024;Le client a changé d'avis
+O048494;P00577;7;Marseille;25/07/2024;Mauvais article
+O010788;P00422;9;Marseille;10/04/2024;Pas comme décrit
+O046499;P00203;9;Lyon;29/07/2024;Endommagé
+O027158;P00778;9;Lyon;07/10/2024;Mauvais article
+O041193;P00650;5;Marseille;30/05/2024;Le client a changé d'avis
+O046103;P00955;7;Lyon;30/01/2024;Pas comme décrit
+O025706;P00985;4;Lyon;25/10/2024;Pas comme décrit
+O044296;P00878;3;Lyon;15/01/2025;Pas comme décrit
+O024180;P00900;5;Marseille;06/06/2024;Endommagé
+O022649;P00650;6;Marseille;20/01/2025;Le client a changé d'avis
+O024613;P00767;4;Marseille;26/08/2024;Endommagé
+O001330;P00295;3;Marseille;22/03/2024;Endommagé
+O010923;P00618;1;Marseille;05/11/2024;Pas comme décrit
+O007298;P00429;5;Marseille;03/07/2024;Le client a changé d'avis
+O013446;P00076;1;Paris;09/03/2024;Endommagé
+O021332;P00592;2;Paris;14/12/2024;Le client a changé d'avis
+O006587;P00408;4;Marseille;21/11/2024;Le client a changé d'avis
+O026884;P00296;4;Marseille;31/03/2024;Mauvais article
+O011865;P00288;2;Paris;17/02/2024;Endommagé
+O012005;P00296;2;Marseille;14/02/2024;Le client a changé d'avis
+O042475;P00896;4;Lyon;08/03/2024;Le client a changé d'avis
+O026335;P00869;3;Lyon;16/10/2024;Mauvais article
+O046113;P00613;5;Marseille;27/03/2024;Le client a changé d'avis
+O006289;P00811;2;Marseille;24/08/2024;Pas comme décrit
+O037601;P00647;6;Lyon;10/12/2024;Pas comme décrit
+O004532;P00694;3;Marseille;11/12/2024;Le client a changé d'avis
+O041568;P00699;2;Paris;04/06/2024;Le client a changé d'avis
+O035452;P00813;5;Marseille;09/08/2024;Mauvais article
+O028053;P00233;1;Paris;06/04/2024;Le client a changé d'avis
+O029371;P00060;3;Paris;13/10/2024;Le client a changé d'avis
+O001206;P00460;5;Paris;11/07/2024;Endommagé
+O025590;P00671;2;Marseille;24/11/2024;Endommagé
+O023100;P00659;1;Marseille;09/12/2024;Le client a changé d'avis
+O010756;P00714;3;Lyon;04/07/2024;Mauvais article
+O004805;P00119;6;Lyon;04/05/2024;Mauvais article
+O032049;P00540;4;Paris;23/05/2024;Le client a changé d'avis
+O038790;P00762;2;Lyon;31/01/2025;Pas comme décrit
+O022819;P00538;3;Paris;24/05/2024;Pas comme décrit
+O006323;P00207;7;Paris;19/03/2024;Le client a changé d'avis
+O027744;P00224;6;Lyon;23/09/2024;Endommagé
+O021510;P00151;6;Lyon;04/09/2024;Pas comme décrit
+O025867;P00969;7;Lyon;17/06/2024;Le client a changé d'avis
+O010346;P00848;1;Marseille;30/08/2024;Le client a changé d'avis
+O022053;P00852;1;Lyon;23/07/2024;Pas comme décrit
+O043929;P00668;2;Paris;17/03/2024;Le client a changé d'avis
+O031563;P00024;9;Paris;10/11/2024;Mauvais article
+O024004;P00688;5;Lyon;02/02/2025;Mauvais article
+O049552;P00999;8;Lyon;19/11/2024;Endommagé
+O037016;P00412;4;Paris;13/11/2024;Mauvais article
+O026863;P00783;4;Marseille;15/03/2024;Le client a changé d'avis
+O032207;P00156;2;Marseille;05/06/2024;Le client a changé d'avis
+O042834;P00839;1;Marseille;25/02/2024;Mauvais article
+O033943;P00915;7;Paris;09/01/2025;Pas comme décrit
+O019556;P00408;1;Marseille;29/08/2024;Endommagé
+O041776;P00924;7;Lyon;18/10/2024;Pas comme décrit
+O002350;P00342;3;Paris;23/06/2024;Mauvais article
+O029211;P00825;3;Marseille;17/10/2024;Pas comme décrit
+O020184;P00134;7;Marseille;25/07/2024;Le client a changé d'avis
+O046455;P00904;8;Marseille;19/01/2025;Pas comme décrit
+O017520;P00418;5;Lyon;31/10/2024;Mauvais article
+O048804;P00863;7;Lyon;29/11/2024;Endommagé
+O047513;P00823;4;Paris;28/04/2024;Endommagé
+O003327;P00449;3;Lyon;28/06/2024;Le client a changé d'avis
+O026622;P00068;4;Lyon;09/07/2024;Pas comme décrit
+O014038;P00382;4;Marseille;18/08/2024;Mauvais article
+O044372;P00777;5;Paris;17/02/2024;Pas comme décrit
+O043634;P00782;1;Paris;24/12/2024;Pas comme décrit
+O017164;P00776;2;Paris;27/03/2024;Le client a changé d'avis
+O039633;P01000;4;Paris;06/11/2024;Pas comme décrit
+O020986;P00655;2;Paris;18/01/2025;Pas comme décrit
+O005817;P00849;4;Paris;14/07/2024;Endommagé
+O027455;P00748;2;Marseille;11/08/2024;Endommagé
+O027843;P00212;7;Marseille;16/09/2024;Pas comme décrit
+O013559;P00546;6;Lyon;11/08/2024;Endommagé
+O021627;P00727;2;Lyon;13/06/2024;Le client a changé d'avis
+O045820;P00070;6;Marseille;13/10/2024;Le client a changé d'avis
+O009238;P00405;7;Paris;02/11/2024;Le client a changé d'avis
+O031679;P00739;1;Lyon;17/11/2024;Mauvais article
+O044944;P00366;7;Paris;01/03/2024;Le client a changé d'avis
+O041742;P00380;9;Lyon;23/08/2024;Pas comme décrit
+O027131;P00055;2;Paris;23/11/2024;Pas comme décrit
+O006852;P00710;1;Marseille;18/03/2024;Mauvais article
+O000310;P00809;1;Lyon;03/04/2024;Endommagé
+O029971;P00077;9;Marseille;23/11/2024;Pas comme décrit
+O028461;P00625;1;Marseille;10/11/2024;Le client a changé d'avis
+O036230;P00721;7;Paris;23/02/2024;Endommagé
+O025133;P00616;1;Lyon;12/07/2024;Le client a changé d'avis
+O007728;P00690;6;Marseille;19/10/2024;Mauvais article
+O039947;P00975;9;Lyon;14/05/2024;Pas comme décrit
+O049116;P00693;3;Lyon;01/01/2025;Endommagé
+O002688;P00098;9;Lyon;12/06/2024;Le client a changé d'avis
+O013388;P00868;8;Marseille;24/02/2024;Endommagé
+O048544;P00568;5;Paris;10/12/2024;Endommagé
+O041014;P00521;2;Lyon;10/10/2024;Pas comme décrit
+O007136;P00781;3;Paris;10/08/2024;Mauvais article
+O031884;P00893;5;Marseille;01/11/2024;Le client a changé d'avis
+O030776;P00762;2;Marseille;17/10/2024;Pas comme décrit
+O012629;P00128;3;Marseille;26/06/2024;Mauvais article
+O048774;P00529;5;Lyon;22/06/2024;Endommagé
+O035273;P00445;6;Marseille;27/01/2025;Le client a changé d'avis
+O026669;P00149;5;Lyon;24/09/2024;Pas comme décrit
+O002232;P00722;6;Lyon;04/08/2024;Pas comme décrit
+O025429;P00446;9;Marseille;09/03/2024;Pas comme décrit
+O015441;P00923;2;Lyon;20/12/2024;Pas comme décrit
+O002518;P00891;6;Lyon;20/05/2024;Le client a changé d'avis
+O021989;P00002;8;Lyon;05/10/2024;Le client a changé d'avis
+O019742;P00683;9;Lyon;30/11/2024;Pas comme décrit
+O026195;P00956;9;Marseille;27/08/2024;Endommagé
+O012098;P00508;7;Paris;20/10/2024;Pas comme décrit
+O034812;P00116;4;Lyon;16/10/2024;Le client a changé d'avis
+O033971;P00047;8;Paris;09/11/2024;Mauvais article
+O024357;P00382;3;Paris;14/02/2024;Endommagé
+O033864;P00662;1;Lyon;20/02/2024;Mauvais article
+O017921;P00727;2;Paris;26/08/2024;Mauvais article
+O043452;P00278;7;Paris;06/01/2025;Le client a changé d'avis
+O029502;P00640;7;Lyon;27/09/2024;Pas comme décrit
+O038592;P00162;7;Lyon;13/08/2024;Le client a changé d'avis
+O002763;P00927;7;Paris;29/10/2024;Mauvais article
+O033828;P00779;7;Marseille;20/01/2025;Endommagé
+O029774;P00656;6;Paris;11/09/2024;Le client a changé d'avis
+O019575;P00257;1;Marseille;17/11/2024;Mauvais article
+O009765;P00774;7;Paris;26/11/2024;Le client a changé d'avis
+O031572;P00377;9;Marseille;18/09/2024;Endommagé
+O044310;P00066;4;Marseille;10/06/2024;Pas comme décrit
+O040925;P00133;2;Paris;07/01/2025;Le client a changé d'avis
+O012268;P00854;9;Lyon;25/09/2024;Le client a changé d'avis
+O033611;P00694;8;Paris;27/01/2025;Le client a changé d'avis
+O002023;P00063;8;Lyon;20/05/2024;Mauvais article
+O047835;P00312;4;Marseille;01/02/2025;Le client a changé d'avis
+O008075;P00831;3;Lyon;05/12/2024;Endommagé
+O007689;P00057;1;Paris;19/01/2025;Endommagé
+O012979;P00848;8;Lyon;21/08/2024;Pas comme décrit
+O020647;P00255;1;Lyon;24/09/2024;Mauvais article
+O042397;P00300;5;Lyon;16/07/2024;Endommagé
+O017126;P00604;6;Lyon;07/12/2024;Le client a changé d'avis
+O025468;P00392;9;Marseille;10/01/2025;Mauvais article
+O014848;P00248;1;Paris;27/07/2024;Le client a changé d'avis
+O016352;P00598;7;Paris;17/05/2024;Endommagé
+O014635;P00005;6;Marseille;04/03/2024;Mauvais article
+O023824;P00857;1;Lyon;08/09/2024;Endommagé
+O046714;P00159;4;Paris;19/08/2024;Endommagé
+O010904;P00553;1;Paris;17/09/2024;Le client a changé d'avis
+O029490;P00016;5;Paris;30/11/2024;Le client a changé d'avis
+O017563;P00678;4;Marseille;15/08/2024;Endommagé
+O041174;P00173;9;Lyon;09/09/2024;Endommagé
+O046696;P00762;3;Lyon;21/10/2024;Endommagé
+O008918;P00012;2;Marseille;08/09/2024;Endommagé
+O026539;P00130;4;Paris;14/06/2024;Pas comme décrit
+O026825;P00263;1;Paris;19/11/2024;Pas comme décrit
+O025560;P00633;8;Marseille;10/09/2024;Pas comme décrit
+O040179;P00704;2;Lyon;19/05/2024;Pas comme décrit
+O000815;P00243;2;Paris;01/02/2024;Mauvais article
+O026793;P00584;6;Paris;18/09/2024;Mauvais article
+O004716;P00888;9;Paris;21/05/2024;Mauvais article
+O023375;P00658;6;Lyon;05/07/2024;Mauvais article
+O042500;P00892;3;Marseille;18/04/2024;Pas comme décrit
+O037492;P00284;1;Marseille;19/04/2024;Le client a changé d'avis
+O028142;P00247;4;Marseille;20/02/2024;Pas comme décrit
+O021368;P00156;4;Marseille;13/01/2024;Mauvais article
+O011417;P00981;3;Paris;13/05/2024;Le client a changé d'avis
+O017407;P00919;5;Marseille;04/02/2025;Pas comme décrit
+O018788;P00036;1;Marseille;19/10/2024;Endommagé
+O037184;P00745;7;Paris;26/05/2024;Pas comme décrit
+O043377;P00375;6;Lyon;07/11/2024;Endommagé
+O040429;P00862;4;Lyon;25/10/2024;Le client a changé d'avis
+O024425;P00519;8;Lyon;28/11/2024;Endommagé
+O038359;P00680;1;Marseille;12/11/2024;Mauvais article
+O033001;P00603;4;Marseille;29/07/2024;Mauvais article
+O028394;P00302;5;Lyon;31/12/2024;Endommagé
+O031404;P00212;8;Paris;31/10/2024;Mauvais article
+O037969;P00439;4;Marseille;05/02/2024;Pas comme décrit
+O017934;P00668;3;Lyon;19/11/2024;Le client a changé d'avis
+O009308;P00374;4;Paris;01/12/2024;Pas comme décrit
+O038809;P00554;9;Marseille;05/04/2024;Le client a changé d'avis
+O017912;P00495;1;Paris;28/07/2024;Le client a changé d'avis
+O011476;P00983;7;Lyon;10/12/2024;Le client a changé d'avis
+O034063;P00062;1;Marseille;21/01/2025;Endommagé
+O029810;P00046;6;Marseille;21/12/2024;Endommagé
+O002437;P00410;3;Paris;03/08/2024;Mauvais article
+O048542;P00406;5;Lyon;19/10/2024;Endommagé
+O034556;P00269;3;Paris;06/10/2024;Le client a changé d'avis
+O049631;P00183;7;Lyon;13/10/2024;Mauvais article
+O028325;P00998;6;Lyon;20/12/2024;Le client a changé d'avis
+O004569;P00089;3;Paris;03/10/2024;Endommagé
+O049799;P00118;1;Lyon;18/09/2024;Mauvais article
+O020545;P00784;5;Paris;03/10/2024;Endommagé
+O000338;P00618;6;Marseille;14/06/2024;Mauvais article
+O001768;P00490;6;Paris;02/05/2024;Le client a changé d'avis
+O004042;P00665;5;Paris;02/03/2024;Mauvais article
+O030771;P00364;4;Paris;30/06/2024;Pas comme décrit
+O017385;P00900;6;Lyon;14/11/2024;Le client a changé d'avis
+O000568;P00497;1;Lyon;09/04/2024;Le client a changé d'avis
+O009758;P00725;5;Paris;09/01/2025;Le client a changé d'avis
+O029674;P00790;8;Marseille;07/06/2024;Le client a changé d'avis
+O001232;P00721;6;Paris;29/08/2024;Pas comme décrit
+O034722;P00093;9;Marseille;01/02/2025;Mauvais article
+O013282;P00155;6;Marseille;06/04/2024;Mauvais article
+O034578;P00650;9;Lyon;29/10/2024;Le client a changé d'avis
+O040571;P00298;6;Lyon;20/03/2024;Endommagé
+O013063;P00624;2;Marseille;22/06/2024;Pas comme décrit
+O006187;P00166;5;Lyon;08/10/2024;Mauvais article
+O024402;P00258;5;Lyon;22/05/2024;Le client a changé d'avis
+O022459;P00349;7;Marseille;15/12/2024;Le client a changé d'avis
+O025843;P00625;8;Marseille;01/05/2024;Le client a changé d'avis
+O049166;P00816;8;Marseille;24/11/2024;Endommagé
+O015270;P00513;8;Paris;12/10/2024;Pas comme décrit
+O000918;P00695;5;Lyon;19/02/2024;Endommagé
+O022156;P00328;7;Lyon;16/07/2024;Endommagé
+O007733;P00726;8;Lyon;10/04/2024;Mauvais article
+O007145;P00117;4;Marseille;16/12/2024;Endommagé
+O031623;P00544;7;Paris;23/06/2024;Pas comme décrit
+O025729;P00641;9;Lyon;22/04/2024;Le client a changé d'avis
+O012922;P00060;6;Marseille;24/07/2024;Le client a changé d'avis
+O037208;P00592;3;Lyon;22/08/2024;Endommagé
+O030285;P00032;5;Marseille;23/04/2024;Mauvais article
+O012612;P00693;6;Marseille;21/04/2024;Pas comme décrit
+O018804;P00810;6;Paris;20/05/2024;Le client a changé d'avis
+O016126;P00712;3;Lyon;24/07/2024;Endommagé
+O041767;P00549;3;Lyon;13/03/2024;Pas comme décrit
+O031259;P00278;3;Marseille;16/08/2024;Mauvais article
+O006991;P00455;2;Lyon;23/02/2024;Endommagé
+O031621;P00054;9;Paris;26/08/2024;Endommagé
+O025553;P00143;3;Paris;18/04/2024;Mauvais article
+O010731;P00609;2;Paris;08/03/2024;Mauvais article
+O005787;P00900;5;Marseille;28/06/2024;Endommagé
+O007741;P00467;3;Marseille;26/08/2024;Le client a changé d'avis
+O038186;P00504;4;Lyon;31/10/2024;Pas comme décrit
+O018520;P00964;3;Paris;10/09/2024;Endommagé
+O015545;P00112;8;Lyon;23/06/2024;Le client a changé d'avis
+O018143;P00027;1;Paris;11/12/2024;Pas comme décrit
+O033003;P00208;7;Marseille;26/07/2024;Le client a changé d'avis
+O048793;P00467;3;Marseille;03/04/2024;Pas comme décrit
+O012937;P00891;8;Marseille;05/10/2024;Endommagé
+O007687;P00723;8;Lyon;27/12/2024;Endommagé
+O020151;P00623;9;Lyon;17/03/2024;Mauvais article
+O033408;P00168;3;Paris;26/03/2024;Pas comme décrit
+O025128;P00829;5;Lyon;25/04/2024;Le client a changé d'avis
+O049521;P00089;1;Lyon;02/06/2024;Le client a changé d'avis
+O041351;P00791;7;Marseille;21/07/2024;Endommagé
+O032215;P00037;8;Marseille;18/07/2024;Pas comme décrit
+O048209;P00946;2;Paris;18/01/2025;Pas comme décrit
+O039688;P00512;2;Marseille;11/12/2024;Pas comme décrit
+O033819;P00916;3;Lyon;15/11/2024;Mauvais article
+O032279;P00123;2;Lyon;19/02/2024;Mauvais article
+O023120;P00153;6;Marseille;02/09/2024;Endommagé
+O021592;P00270;6;Marseille;17/05/2024;Pas comme décrit
+O047419;P00225;4;Paris;21/05/2024;Mauvais article
+O045805;P00117;2;Lyon;05/05/2024;Endommagé
+O046972;P00589;1;Lyon;03/05/2024;Endommagé
+O013035;P00637;6;Lyon;02/02/2024;Endommagé
+O027756;P00311;9;Paris;23/11/2024;Le client a changé d'avis
+O022995;P00627;3;Paris;13/04/2024;Mauvais article
+O015412;P00348;1;Lyon;20/07/2024;Mauvais article
+O023051;P00990;1;Marseille;20/05/2024;Endommagé
+O033549;P00740;4;Paris;12/01/2025;Pas comme décrit
+O005464;P00370;9;Lyon;09/07/2024;Endommagé
+O043017;P00826;6;Paris;30/03/2024;Endommagé
+O049965;P00457;1;Marseille;29/02/2024;Le client a changé d'avis
+O032229;P00572;6;Marseille;03/05/2024;Le client a changé d'avis
+O004435;P00484;1;Marseille;10/02/2024;Endommagé
+O029343;P00376;3;Paris;05/03/2024;Le client a changé d'avis
+O041979;P00241;1;Lyon;15/06/2024;Le client a changé d'avis
+O020612;P00425;2;Marseille;24/02/2024;Endommagé
+O048872;P00667;7;Lyon;27/12/2024;Le client a changé d'avis
+O021257;P00259;7;Paris;30/06/2024;Mauvais article
+O003225;P00740;1;Paris;11/10/2024;Mauvais article
+O026809;P00010;2;Marseille;03/07/2024;Endommagé
+O030908;P00074;2;Marseille;26/04/2024;Pas comme décrit
+O040108;P00925;1;Lyon;27/10/2024;Endommagé
+O023795;P00610;5;Lyon;27/02/2024;Endommagé
+O010526;P00567;6;Lyon;02/12/2024;Endommagé
+O017400;P00315;7;Paris;01/05/2024;Mauvais article
+O034804;P00090;3;Lyon;22/12/2024;Mauvais article
+O018834;P00505;2;Marseille;30/11/2024;Pas comme décrit
+O018925;P00032;6;Paris;24/04/2024;Le client a changé d'avis
+O008223;P00917;4;Lyon;20/02/2024;Le client a changé d'avis
+O047259;P00222;7;Paris;27/03/2024;Mauvais article
+O025670;P00654;2;Paris;24/01/2024;Le client a changé d'avis
+O041201;P00517;2;Lyon;04/01/2025;Pas comme décrit
+O026292;P00974;9;Lyon;12/09/2024;Endommagé
+O043783;P00311;4;Paris;14/07/2024;Endommagé
+O005853;P00859;9;Marseille;29/06/2024;Pas comme décrit
+O016830;P00258;1;Paris;13/12/2024;Mauvais article
+O017446;P00369;1;Lyon;30/12/2024;Endommagé
+O044040;P00394;5;Marseille;15/12/2024;Le client a changé d'avis
+O002983;P00889;3;Paris;18/07/2024;Endommagé
+O032714;P00552;4;Lyon;17/11/2024;Pas comme décrit
+O031473;P00635;9;Paris;31/08/2024;Le client a changé d'avis
+O029944;P00980;8;Marseille;12/04/2024;Endommagé
+O036533;P00621;5;Marseille;16/07/2024;Mauvais article
+O036582;P00626;9;Lyon;30/08/2024;Endommagé
+O045338;P00676;7;Paris;02/01/2025;Endommagé
+O010213;P00990;3;Paris;30/01/2024;Mauvais article
+O036646;P00518;5;Paris;29/03/2024;Le client a changé d'avis
+O023053;P00462;2;Paris;26/02/2024;Endommagé
+O030063;P00931;1;Marseille;19/10/2024;Le client a changé d'avis
+O019704;P00910;3;Marseille;25/10/2024;Le client a changé d'avis
+O001820;P00386;4;Paris;30/06/2024;Le client a changé d'avis
+O007449;P00273;2;Marseille;28/12/2024;Pas comme décrit
+O015157;P00979;6;Lyon;29/03/2024;Pas comme décrit
+O010463;P00764;9;Lyon;28/09/2024;Endommagé
+O009298;P00069;6;Lyon;17/05/2024;Pas comme décrit
+O048096;P00488;4;Paris;21/03/2024;Mauvais article
+O025076;P00098;7;Lyon;28/09/2024;Pas comme décrit
+O028291;P00387;9;Lyon;10/04/2024;Pas comme décrit
+O007427;P00465;7;Marseille;25/06/2024;Mauvais article
+O026832;P00266;3;Lyon;06/10/2024;Le client a changé d'avis
+O035502;P00552;2;Paris;16/03/2024;Endommagé
+O031052;P00440;7;Lyon;26/11/2024;Le client a changé d'avis
+O034782;P00630;6;Paris;21/03/2024;Mauvais article
+O038261;P00981;5;Marseille;07/04/2024;Le client a changé d'avis
+O030681;P00907;8;Marseille;25/08/2024;Pas comme décrit
+O022577;P00928;5;Lyon;12/08/2024;Le client a changé d'avis
+O049388;P00259;2;Paris;16/08/2024;Endommagé
+O025118;P00785;4;Marseille;11/04/2024;Pas comme décrit
+O001931;P00596;3;Lyon;03/03/2024;Endommagé
+O036668;P00775;9;Lyon;22/02/2024;Mauvais article
+O009019;P00043;4;Marseille;26/03/2024;Endommagé
+O001044;P00056;2;Lyon;10/12/2024;Pas comme décrit
+O006290;P00708;6;Lyon;13/03/2024;Endommagé
+O037133;P00853;6;Lyon;15/08/2024;Pas comme décrit
+O002784;P00105;8;Lyon;06/05/2024;Endommagé
+O049979;P00395;6;Paris;16/04/2024;Le client a changé d'avis
+O004515;P00227;6;Lyon;09/09/2024;Mauvais article
+O040433;P00913;4;Paris;06/01/2025;Endommagé
+O040411;P00261;2;Marseille;04/08/2024;Pas comme décrit
+O010009;P00339;8;Marseille;29/05/2024;Pas comme décrit
+O010671;P00826;1;Lyon;06/04/2024;Mauvais article
+O003685;P00279;9;Marseille;31/03/2024;Mauvais article
+O012136;P00381;4;Marseille;05/06/2024;Le client a changé d'avis
+O006757;P00164;2;Paris;15/06/2024;Pas comme décrit
+O000663;P00477;2;Marseille;05/04/2024;Pas comme décrit
+O045666;P00226;3;Lyon;29/09/2024;Endommagé
+O009276;P00163;5;Marseille;12/11/2024;Endommagé
+O030867;P00636;4;Marseille;15/08/2024;Le client a changé d'avis
+O038773;P00097;8;Lyon;12/07/2024;Le client a changé d'avis
+O013879;P00515;6;Paris;09/03/2024;Endommagé
+O044194;P00012;6;Paris;24/12/2024;Mauvais article
+O010041;P00704;5;Paris;05/11/2024;Mauvais article
+O008584;P00087;6;Paris;02/10/2024;Endommagé
+O028645;P00750;4;Marseille;05/10/2024;Pas comme décrit
+O010085;P00607;8;Marseille;24/12/2024;Endommagé
+O033882;P00173;5;Lyon;27/06/2024;Mauvais article
+O018279;P00464;3;Lyon;31/03/2024;Endommagé
+O030922;P00663;9;Marseille;08/04/2024;Endommagé
+O030880;P00061;6;Paris;31/01/2025;Pas comme décrit
+O038264;P00797;3;Lyon;11/05/2024;Mauvais article
+O014377;P00049;8;Marseille;02/09/2024;Mauvais article
+O022948;P00427;3;Marseille;08/09/2024;Endommagé
+O024833;P00220;1;Marseille;23/08/2024;Le client a changé d'avis
+O031609;P00780;2;Paris;10/02/2024;Endommagé
+O027646;P00246;1;Marseille;01/02/2024;Le client a changé d'avis
+O007315;P00880;9;Paris;07/12/2024;Endommagé
+O026091;P00204;6;Marseille;31/12/2024;Le client a changé d'avis
+O039893;P00006;2;Lyon;25/11/2024;Pas comme décrit
+O020558;P00742;1;Paris;05/06/2024;Endommagé
+O010194;P00181;6;Lyon;15/11/2024;Mauvais article
+O031040;P00836;9;Marseille;17/08/2024;Pas comme décrit
+O036048;P00481;3;Lyon;11/07/2024;Le client a changé d'avis
+O009020;P00105;2;Lyon;20/02/2024;Mauvais article
+O024413;P00019;4;Paris;10/04/2024;Mauvais article
+O040509;P00552;9;Marseille;09/08/2024;Mauvais article
+O041816;P00812;9;Lyon;07/04/2024;Le client a changé d'avis
+O018312;P00336;5;Marseille;02/09/2024;Le client a changé d'avis
+O011943;P00392;6;Marseille;06/09/2024;Mauvais article
+O023751;P00897;5;Lyon;08/11/2024;Pas comme décrit
+O028073;P00107;7;Paris;05/01/2025;Le client a changé d'avis
+O005099;P00221;9;Lyon;25/08/2024;Pas comme décrit
+O042426;P00388;8;Paris;25/08/2024;Endommagé
+O046693;P00836;1;Marseille;29/06/2024;Endommagé
+O013764;P00923;5;Marseille;08/07/2024;Endommagé
+O024962;P00977;6;Marseille;19/09/2024;Le client a changé d'avis
+O004971;P00417;8;Lyon;20/07/2024;Mauvais article
+O020971;P00044;5;Lyon;21/01/2025;Endommagé
+O032267;P00656;1;Marseille;18/12/2024;Mauvais article
+O018175;P00016;2;Lyon;16/08/2024;Endommagé
+O031087;P00157;4;Marseille;06/06/2024;Mauvais article
+O016700;P00116;3;Lyon;15/10/2024;Mauvais article
+O014485;P00357;2;Lyon;10/04/2024;Pas comme décrit
+O002066;P00456;1;Lyon;11/02/2024;Endommagé
+O029474;P00770;9;Marseille;10/03/2024;Mauvais article
+O015666;P00596;8;Marseille;18/04/2024;Le client a changé d'avis
+O002016;P00932;2;Paris;30/12/2024;Pas comme décrit
+O035341;P00676;3;Marseille;04/11/2024;Endommagé
+O001630;P00737;9;Lyon;17/07/2024;Endommagé
+O009377;P00807;4;Lyon;20/01/2025;Pas comme décrit
+O026703;P00635;6;Paris;05/01/2025;Endommagé
+O035150;P00656;2;Lyon;19/10/2024;Endommagé
+O012117;P00396;5;Marseille;15/03/2024;Pas comme décrit
+O038289;P00243;2;Marseille;03/01/2025;Mauvais article
+O034507;P00550;5;Paris;25/08/2024;Mauvais article
+O012727;P00932;9;Paris;25/04/2024;Pas comme décrit
+O009129;P00543;9;Marseille;14/04/2024;Mauvais article
+O037864;P00242;4;Marseille;16/06/2024;Pas comme décrit
+O043386;P00779;8;Paris;23/05/2024;Mauvais article
+O002990;P00092;6;Marseille;27/08/2024;Mauvais article
+O013576;P00632;5;Paris;23/12/2024;Le client a changé d'avis
+O017730;P00568;7;Paris;11/06/2024;Mauvais article
+O023359;P00893;6;Paris;25/09/2024;Endommagé
+O020816;P00345;5;Paris;12/01/2025;Pas comme décrit
+O032695;P00798;2;Paris;08/07/2024;Mauvais article
+O035815;P00055;7;Paris;21/12/2024;Mauvais article
+O021406;P00103;4;Paris;01/12/2024;Pas comme décrit
+O037506;P00015;2;Marseille;11/04/2024;Mauvais article
+O011226;P00328;2;Paris;23/12/2024;Endommagé
+O020228;P00217;6;Lyon;10/06/2024;Mauvais article
+O034304;P00250;7;Paris;24/02/2024;Le client a changé d'avis
+O047452;P00832;5;Marseille;29/01/2025;Le client a changé d'avis
+O021008;P00806;5;Lyon;08/01/2025;Pas comme décrit
+O035966;P00313;3;Lyon;26/06/2024;Endommagé
+O039305;P00553;5;Paris;09/01/2025;Endommagé
+O022732;P00048;1;Paris;09/02/2024;Pas comme décrit
+O030074;P00765;5;Lyon;13/03/2024;Pas comme décrit
+O014912;P00786;9;Lyon;24/01/2025;Pas comme décrit
+O027532;P00225;2;Marseille;11/11/2024;Endommagé
+O011673;P00718;7;Lyon;28/10/2024;Pas comme décrit
+O007958;P00727;6;Marseille;27/07/2024;Le client a changé d'avis
+O007053;P00221;5;Lyon;27/07/2024;Endommagé
+O036654;P00869;8;Paris;07/04/2024;Pas comme décrit
+O021328;P00051;7;Paris;22/06/2024;Le client a changé d'avis
+O002380;P00322;7;Paris;20/03/2024;Le client a changé d'avis
+O044336;P00243;8;Marseille;27/07/2024;Le client a changé d'avis
+O016817;P00292;1;Paris;22/03/2024;Pas comme décrit
+O001787;P00812;9;Lyon;15/11/2024;Pas comme décrit
+O028626;P00592;9;Marseille;10/09/2024;Pas comme décrit
+O014926;P00729;6;Paris;03/08/2024;Mauvais article
+O041411;P00208;3;Marseille;26/06/2024;Mauvais article
+O007930;P00968;5;Paris;25/04/2024;Mauvais article
+O035956;P00667;3;Lyon;03/01/2025;Mauvais article
+O013084;P00891;7;Paris;19/04/2024;Le client a changé d'avis
+O028963;P00903;2;Marseille;31/08/2024;Mauvais article
+O002106;P00338;3;Marseille;28/03/2024;Le client a changé d'avis
+O006568;P00184;4;Lyon;18/12/2024;Pas comme décrit
+O012092;P00068;1;Marseille;10/07/2024;Pas comme décrit
+O024597;P00541;5;Paris;02/03/2024;Pas comme décrit
+O049930;P00127;2;Marseille;27/10/2024;Mauvais article
+O007333;P00678;2;Lyon;10/11/2024;Endommagé
+O023921;P00886;8;Marseille;29/02/2024;Mauvais article
+O036376;P00779;1;Marseille;25/06/2024;Mauvais article
+O007464;P00132;6;Marseille;03/09/2024;Endommagé
+O024485;P00218;6;Marseille;24/06/2024;Endommagé
+O012003;P00538;5;Marseille;09/10/2024;Pas comme décrit
+O021796;P00847;7;Marseille;16/05/2024;Mauvais article
+O048532;P00264;5;Paris;22/04/2024;Pas comme décrit
+O044427;P00907;6;Marseille;10/07/2024;Mauvais article
+O022549;P00396;1;Marseille;31/03/2024;Le client a changé d'avis
+O021300;P00306;2;Paris;17/03/2024;Le client a changé d'avis
+O033581;P00872;1;Lyon;28/04/2024;Pas comme décrit
+O021016;P00976;6;Lyon;25/11/2024;Mauvais article
+O017364;P00645;5;Lyon;11/06/2024;Pas comme décrit
+O019213;P00773;3;Marseille;20/12/2024;Mauvais article
+O018817;P00846;8;Marseille;23/03/2024;Pas comme décrit
+O049889;P00904;2;Marseille;04/04/2024;Endommagé
+O030639;P00188;2;Marseille;11/02/2024;Mauvais article
+O027125;P00363;9;Paris;30/12/2024;Pas comme décrit
+O044451;P00259;7;Lyon;26/09/2024;Endommagé
+O049219;P00025;3;Lyon;28/04/2024;Le client a changé d'avis
+O010766;P00491;9;Paris;21/05/2024;Mauvais article
+O002209;P00416;4;Marseille;19/03/2024;Mauvais article
+O042505;P00342;4;Paris;18/08/2024;Endommagé
+O030663;P00585;3;Lyon;26/11/2024;Le client a changé d'avis
+O047078;P00529;3;Lyon;17/08/2024;Le client a changé d'avis
+O015182;P00607;5;Marseille;16/03/2024;Le client a changé d'avis
+O020356;P00528;5;Marseille;06/03/2024;Mauvais article
+O016412;P00597;2;Lyon;05/10/2024;Le client a changé d'avis
+O018829;P00786;6;Paris;16/07/2024;Endommagé
+O008926;P00080;6;Marseille;26/11/2024;Endommagé
+O003292;P00025;8;Marseille;14/04/2024;Endommagé
+O023061;P00241;3;Paris;22/05/2024;Endommagé
+O028292;P00682;8;Paris;01/12/2024;Pas comme décrit
+O024520;P00995;7;Marseille;30/10/2024;Le client a changé d'avis
+O013535;P00025;5;Lyon;08/07/2024;Pas comme décrit
+O045397;P00127;4;Marseille;26/09/2024;Le client a changé d'avis
+O036315;P00386;7;Paris;23/03/2024;Mauvais article
+O047888;P00875;8;Paris;15/03/2024;Endommagé
+O007546;P00749;2;Marseille;31/05/2024;Le client a changé d'avis
+O029084;P00677;5;Lyon;10/09/2024;Mauvais article
+O010716;P00472;9;Paris;06/10/2024;Endommagé
+O017958;P00059;3;Marseille;06/08/2024;Mauvais article
+O025994;P00031;9;Marseille;06/12/2024;Mauvais article
+O014919;P00376;3;Marseille;27/10/2024;Mauvais article
+O038090;P00396;2;Paris;23/10/2024;Mauvais article
+O045023;P00456;4;Marseille;28/09/2024;Endommagé
+O019164;P00997;9;Paris;05/09/2024;Mauvais article
+O007439;P00505;9;Lyon;19/11/2024;Pas comme décrit
+O001539;P00414;3;Lyon;19/12/2024;Mauvais article
+O044989;P00735;5;Marseille;21/10/2024;Pas comme décrit
+O027376;P00245;4;Paris;05/02/2024;Pas comme décrit
+O024241;P00674;4;Lyon;19/12/2024;Le client a changé d'avis
+O030750;P00782;5;Paris;12/04/2024;Endommagé
+O035456;P00755;7;Paris;28/06/2024;Endommagé
+O005562;P00197;1;Paris;29/12/2024;Mauvais article
+O027032;P00806;7;Lyon;14/05/2024;Le client a changé d'avis
+O049155;P00288;1;Lyon;02/09/2024;Mauvais article
+O024166;P00178;8;Marseille;07/05/2024;Le client a changé d'avis
+O002664;P00700;3;Marseille;21/02/2024;Pas comme décrit
+O014673;P00970;8;Marseille;03/08/2024;Mauvais article
+O041757;P00084;3;Marseille;01/12/2024;Endommagé
+O022727;P00737;9;Paris;17/03/2024;Pas comme décrit
+O004245;P00272;2;Marseille;14/07/2024;Pas comme décrit
+O000408;P00706;2;Paris;26/01/2025;Le client a changé d'avis
+O031687;P00651;9;Marseille;18/09/2024;Endommagé
+O046625;P00043;7;Lyon;18/10/2024;Le client a changé d'avis
+O030463;P00099;6;Marseille;28/09/2024;Pas comme décrit
+O022416;P00124;7;Lyon;18/06/2024;Le client a changé d'avis
+O046828;P00624;9;Lyon;14/08/2024;Pas comme décrit
+O000647;P00666;4;Marseille;29/08/2024;Le client a changé d'avis
+O032444;P00721;2;Paris;21/01/2025;Mauvais article
+O041094;P00101;6;Marseille;05/01/2025;Pas comme décrit
+O011749;P00282;4;Lyon;16/05/2024;Pas comme décrit
+O027320;P00797;5;Paris;22/06/2024;Le client a changé d'avis
+O034586;P00005;4;Marseille;06/03/2024;Pas comme décrit
+O043035;P00370;2;Marseille;01/12/2024;Pas comme décrit
+O015206;P00322;6;Lyon;30/12/2024;Pas comme décrit
+O038189;P00098;3;Paris;19/12/2024;Le client a changé d'avis
+O036187;P00191;7;Lyon;14/12/2024;Pas comme décrit
+O019172;P00640;3;Lyon;29/08/2024;Le client a changé d'avis
+O038627;P00191;3;Marseille;26/11/2024;Mauvais article
+O004342;P00961;2;Paris;17/12/2024;Pas comme décrit
+O012647;P00405;3;Lyon;04/02/2025;Mauvais article
+O005963;P00202;1;Marseille;23/05/2024;Le client a changé d'avis
+O045098;P00915;5;Lyon;28/01/2025;Le client a changé d'avis
+O047034;P00772;9;Lyon;06/12/2024;Mauvais article
+O017766;P00987;1;Paris;18/08/2024;Mauvais article
+O045322;P00446;5;Marseille;05/01/2025;Le client a changé d'avis
+O027182;P00778;9;Lyon;19/09/2024;Endommagé
+O041017;P00247;1;Paris;17/06/2024;Endommagé
+O015661;P00133;1;Lyon;09/05/2024;Mauvais article
+O013312;P00540;3;Paris;28/10/2024;Mauvais article
+O007857;P00916;9;Marseille;17/10/2024;Endommagé
+O003675;P00428;2;Paris;04/05/2024;Pas comme décrit
+O012903;P00446;5;Marseille;06/11/2024;Endommagé
+O001463;P00020;5;Lyon;13/08/2024;Endommagé
+O022863;P00611;3;Paris;04/06/2024;Le client a changé d'avis
+O018833;P00308;9;Lyon;05/01/2025;Mauvais article
+O042541;P00887;9;Lyon;08/04/2024;Endommagé
+O035416;P00105;3;Paris;17/02/2024;Mauvais article
+O032564;P00268;9;Marseille;13/10/2024;Pas comme décrit
+O008007;P00831;9;Paris;24/02/2024;Mauvais article
+O011241;P00355;4;Marseille;14/12/2024;Mauvais article
+O013077;P00805;9;Paris;05/07/2024;Le client a changé d'avis
+O006696;P00915;5;Paris;09/09/2024;Le client a changé d'avis
+O047733;P00259;9;Marseille;07/06/2024;Endommagé
+O010468;P00785;6;Marseille;08/03/2024;Le client a changé d'avis
+O043334;P00414;6;Paris;29/10/2024;Le client a changé d'avis
+O001991;P00165;9;Marseille;23/01/2024;Mauvais article
+O027463;P00167;3;Lyon;26/06/2024;Endommagé
+O039454;P00182;7;Paris;15/01/2024;Endommagé
+O042445;P00715;3;Lyon;09/11/2024;Pas comme décrit
+O030282;P00262;6;Marseille;06/08/2024;Pas comme décrit
+O012162;P00343;3;Lyon;04/10/2024;Le client a changé d'avis
+O010129;P00054;1;Paris;28/11/2024;Le client a changé d'avis
+O021580;P00842;9;Lyon;13/03/2024;Mauvais article
+O047158;P00438;4;Paris;11/09/2024;Pas comme décrit
+O024216;P00381;6;Marseille;09/10/2024;Le client a changé d'avis
+O024889;P00263;6;Lyon;11/04/2024;Le client a changé d'avis
+O014217;P00487;9;Lyon;04/12/2024;Mauvais article
+O000999;P00466;4;Paris;12/03/2024;Pas comme décrit
+O015486;P00245;9;Paris;24/08/2024;Mauvais article
+O026831;P00459;2;Lyon;30/07/2024;Endommagé
+O020307;P00054;7;Marseille;30/12/2024;Pas comme décrit
+O020021;P00642;4;Paris;19/01/2025;Mauvais article
+O004932;P00920;6;Paris;17/01/2025;Pas comme décrit
+O041611;P00741;2;Paris;01/11/2024;Le client a changé d'avis
+O027055;P00366;1;Marseille;09/10/2024;Endommagé
+O047351;P00868;6;Marseille;03/07/2024;Pas comme décrit
+O038454;P00743;4;Marseille;14/08/2024;Le client a changé d'avis
+O002821;P00162;1;Marseille;12/02/2024;Mauvais article
+O032966;P00485;5;Lyon;28/11/2024;Pas comme décrit
+O045373;P00521;6;Lyon;04/04/2024;Endommagé
+O019217;P00867;8;Marseille;11/06/2024;Pas comme décrit
+O040392;P00404;1;Marseille;25/09/2024;Le client a changé d'avis
+O017885;P00981;6;Marseille;23/07/2024;Mauvais article
+O015584;P00969;2;Lyon;10/09/2024;Endommagé
+O038585;P00757;5;Marseille;28/01/2024;Pas comme décrit
+O038010;P00032;2;Marseille;08/02/2024;Endommagé
+O048826;P00239;5;Marseille;30/10/2024;Le client a changé d'avis
+O048885;P00966;3;Paris;24/02/2024;Mauvais article
+O011759;P00981;5;Lyon;13/04/2024;Endommagé
+O040148;P00644;6;Lyon;03/03/2024;Mauvais article
+O034885;P00341;5;Lyon;07/12/2024;Le client a changé d'avis
+O041587;P00198;7;Paris;31/01/2025;Le client a changé d'avis
+O046352;P00185;9;Lyon;15/04/2024;Mauvais article
+O019772;P00189;7;Marseille;20/03/2024;Endommagé
+O009956;P00687;2;Lyon;18/07/2024;Mauvais article
+O044610;P00620;6;Lyon;04/02/2024;Mauvais article
+O004529;P00033;3;Paris;09/02/2024;Pas comme décrit
+O016647;P00348;6;Lyon;20/06/2024;Le client a changé d'avis
+O029551;P00563;8;Paris;14/03/2024;Endommagé
+O004131;P00032;1;Lyon;07/05/2024;Le client a changé d'avis
+O044218;P00265;4;Marseille;06/10/2024;Endommagé
+O013943;P00685;6;Paris;15/04/2024;Pas comme décrit
+O046610;P00281;5;Lyon;23/06/2024;Endommagé
+O041670;P00360;7;Marseille;09/07/2024;Le client a changé d'avis
+O023946;P00469;4;Lyon;24/01/2025;Le client a changé d'avis
+O049270;P00383;5;Lyon;20/10/2024;Pas comme décrit
+O011548;P00938;5;Lyon;04/03/2024;Mauvais article
+O022329;P00205;7;Lyon;06/09/2024;Endommagé
+O046702;P00713;9;Lyon;01/03/2024;Mauvais article
+O029013;P00445;3;Lyon;23/05/2024;Le client a changé d'avis
+O047068;P00313;2;Paris;14/12/2024;Le client a changé d'avis
+O040575;P00531;6;Paris;15/09/2024;Mauvais article
+O007541;P00320;7;Marseille;31/01/2025;Le client a changé d'avis
+O022242;P00130;9;Lyon;06/07/2024;Le client a changé d'avis
+O037550;P00959;8;Paris;18/10/2024;Le client a changé d'avis
+O012913;P00085;3;Marseille;19/05/2024;Mauvais article
+O032081;P00099;2;Lyon;19/04/2024;Mauvais article
+O015272;P00479;6;Marseille;10/09/2024;Mauvais article
+O035246;P00885;2;Marseille;25/10/2024;Le client a changé d'avis
+O012455;P00276;9;Marseille;08/01/2025;Le client a changé d'avis
+O004737;P00902;3;Paris;21/12/2024;Endommagé
+O049079;P00817;7;Paris;01/01/2025;Mauvais article
+O001846;P00400;5;Paris;12/08/2024;Le client a changé d'avis
+O021028;P00861;8;Marseille;27/07/2024;Endommagé
+O045850;P00226;1;Lyon;03/01/2025;Le client a changé d'avis
+O004292;P00830;7;Lyon;12/10/2024;Endommagé
+O014301;P00702;2;Paris;20/06/2024;Le client a changé d'avis
+O012705;P00091;1;Marseille;10/09/2024;Le client a changé d'avis
+O020862;P00472;6;Lyon;10/11/2024;Mauvais article
+O025283;P00908;8;Marseille;17/04/2024;Pas comme décrit
+O011715;P00095;9;Paris;28/08/2024;Mauvais article
+O029368;P00225;7;Lyon;10/12/2024;Le client a changé d'avis
+O048198;P00350;9;Marseille;16/04/2024;Mauvais article
+O005927;P00387;4;Lyon;06/11/2024;Le client a changé d'avis
+O049590;P00306;6;Lyon;05/04/2024;Pas comme décrit
+O013984;P00836;3;Lyon;05/08/2024;Pas comme décrit
+O031748;P00892;1;Paris;31/05/2024;Mauvais article
+O007129;P00998;3;Marseille;04/12/2024;Le client a changé d'avis
+O015430;P00116;2;Lyon;21/11/2024;Le client a changé d'avis
+O039087;P00196;5;Lyon;06/02/2024;Pas comme décrit
+O001805;P00295;8;Marseille;02/08/2024;Pas comme décrit
+O027434;P00593;5;Lyon;15/04/2024;Le client a changé d'avis
+O009933;P00466;1;Paris;14/12/2024;Pas comme décrit
+O038353;P00789;7;Lyon;10/12/2024;Le client a changé d'avis
+O043651;P00198;5;Paris;08/10/2024;Mauvais article
+O043900;P00359;8;Paris;01/02/2024;Mauvais article
+O037461;P00427;3;Lyon;02/11/2024;Le client a changé d'avis
+O034949;P00562;7;Marseille;21/07/2024;Pas comme décrit
+O007971;P00246;7;Marseille;11/06/2024;Le client a changé d'avis
+O010525;P00816;2;Marseille;12/12/2024;Le client a changé d'avis
+O016088;P00094;7;Paris;21/05/2024;Endommagé
+O022681;P00144;1;Lyon;29/04/2024;Mauvais article
+O037755;P00081;3;Marseille;31/08/2024;Pas comme décrit
+O034768;P00145;3;Lyon;28/07/2024;Pas comme décrit
+O047067;P00140;3;Marseille;21/08/2024;Mauvais article
+O047754;P00052;8;Paris;08/12/2024;Pas comme décrit
+O007331;P00862;1;Marseille;12/02/2024;Le client a changé d'avis
+O003772;P00658;6;Marseille;06/12/2024;Mauvais article
+O005799;P00779;3;Lyon;03/11/2024;Mauvais article
+O047174;P00032;5;Lyon;24/11/2024;Endommagé
+O046820;P00555;4;Marseille;20/08/2024;Pas comme décrit
+O014095;P00462;3;Lyon;28/04/2024;Endommagé
+O033441;P00986;7;Marseille;08/07/2024;Le client a changé d'avis
+O020059;P00365;7;Lyon;18/07/2024;Endommagé
+O022720;P00845;4;Lyon;20/03/2024;Endommagé
+O016178;P00903;3;Paris;20/08/2024;Endommagé
+O035002;P00233;5;Paris;22/07/2024;Pas comme décrit
+O046860;P00651;9;Marseille;07/10/2024;Mauvais article
+O027959;P00868;8;Lyon;06/10/2024;Le client a changé d'avis
+O020928;P00328;1;Lyon;10/06/2024;Le client a changé d'avis
+O040609;P00226;7;Marseille;05/09/2024;Endommagé
+O041500;P00992;9;Lyon;06/05/2024;Mauvais article
+O015406;P00723;2;Lyon;12/07/2024;Pas comme décrit
+O040107;P00900;7;Paris;18/08/2024;Pas comme décrit
+O032441;P00609;3;Lyon;05/11/2024;Endommagé
+O040880;P00404;3;Paris;11/04/2024;Le client a changé d'avis
+O039877;P00915;1;Paris;25/02/2024;Le client a changé d'avis
+O033431;P00576;9;Paris;25/06/2024;Le client a changé d'avis
+O006733;P00497;3;Paris;24/06/2024;Mauvais article
+O010512;P00798;9;Marseille;17/02/2024;Mauvais article
+O042974;P00222;8;Paris;12/07/2024;Mauvais article
+O010607;P00068;8;Marseille;29/04/2024;Pas comme décrit
+O016130;P00662;6;Paris;09/11/2024;Le client a changé d'avis
+O041210;P00275;7;Paris;03/04/2024;Endommagé
+O032646;P00844;7;Paris;31/01/2025;Mauvais article
+O021076;P00609;2;Paris;12/09/2024;Mauvais article
+O009305;P00525;1;Paris;30/05/2024;Pas comme décrit
+O038676;P00296;5;Paris;27/03/2024;Le client a changé d'avis
+O020407;P00889;3;Paris;25/04/2024;Endommagé
+O030000;P00280;1;Lyon;25/12/2024;Mauvais article
+O048887;P00704;3;Lyon;05/01/2025;Le client a changé d'avis
+O046019;P00240;1;Marseille;08/07/2024;Mauvais article
+O044640;P00148;9;Paris;10/08/2024;Le client a changé d'avis
+O021423;P00505;5;Marseille;06/01/2025;Pas comme décrit
+O026048;P00783;1;Lyon;28/08/2024;Endommagé
+O007290;P00326;9;Paris;03/09/2024;Mauvais article
+O047408;P00359;9;Marseille;06/09/2024;Le client a changé d'avis
+O042265;P00766;2;Lyon;15/03/2024;Pas comme décrit
+O033029;P00828;1;Paris;24/05/2024;Le client a changé d'avis
+O010394;P00631;7;Lyon;14/09/2024;Pas comme décrit
+O038985;P00485;5;Lyon;08/06/2024;Pas comme décrit
+O006152;P00779;7;Paris;16/05/2024;Pas comme décrit
+O006100;P00328;1;Marseille;04/09/2024;Endommagé
+O043493;P00081;8;Marseille;23/08/2024;Mauvais article
+O020832;P00375;7;Lyon;17/11/2024;Endommagé
+O005270;P00229;5;Marseille;27/04/2024;Le client a changé d'avis
+O040095;P00776;8;Paris;23/05/2024;Mauvais article
+O048229;P00746;1;Paris;02/09/2024;Mauvais article
+O012276;P00269;7;Lyon;03/07/2024;Mauvais article
+O011625;P00630;4;Paris;03/02/2025;Endommagé
+O026263;P00347;2;Paris;09/11/2024;Endommagé
+O020405;P00391;5;Paris;10/11/2024;Pas comme décrit
+O043824;P00771;8;Paris;25/08/2024;Endommagé
+O000637;P00078;4;Marseille;08/07/2024;Endommagé
+O018291;P00659;3;Paris;04/06/2024;Pas comme décrit
+O040458;P00282;5;Paris;31/01/2024;Mauvais article
+O043616;P00530;2;Paris;13/07/2024;Endommagé
+O047442;P00428;8;Marseille;26/06/2024;Endommagé
+O016927;P00530;3;Paris;04/04/2024;Le client a changé d'avis
+O007327;P00246;3;Lyon;20/07/2024;Endommagé
+O010985;P00574;8;Paris;13/09/2024;Pas comme décrit
+O028648;P00607;1;Paris;01/03/2024;Mauvais article
+O021695;P00310;4;Lyon;04/11/2024;Endommagé
+O018010;P00177;3;Lyon;02/09/2024;Mauvais article
+O009560;P00666;2;Lyon;15/02/2024;Pas comme décrit
+O020413;P00195;4;Paris;25/11/2024;Pas comme décrit
+O031774;P00922;4;Marseille;12/09/2024;Pas comme décrit
+O022606;P00619;6;Paris;16/04/2024;Le client a changé d'avis
+O014155;P00808;8;Lyon;21/04/2024;Endommagé
+O033545;P00122;3;Marseille;22/06/2024;Endommagé
+O008332;P00789;6;Lyon;24/01/2025;Endommagé
+O003696;P00652;9;Marseille;10/10/2024;Pas comme décrit
+O026723;P00091;9;Paris;21/12/2024;Mauvais article
+O033052;P00459;3;Lyon;18/08/2024;Le client a changé d'avis
+O041248;P00581;1;Lyon;02/03/2024;Le client a changé d'avis
+O006113;P00693;1;Lyon;16/03/2024;Pas comme décrit
+O032151;P00207;6;Paris;11/04/2024;Mauvais article
+O029864;P00310;8;Paris;08/01/2025;Mauvais article
+O032685;P00134;3;Paris;17/06/2024;Mauvais article
+O039740;P00283;2;Marseille;12/08/2024;Mauvais article
+O048223;P00992;7;Lyon;30/09/2024;Mauvais article
+O034840;P00613;1;Marseille;21/11/2024;Pas comme décrit
+O026154;P00829;2;Paris;10/05/2024;Endommagé
+O007144;P00061;4;Paris;28/11/2024;Mauvais article
+O038213;P00066;4;Lyon;25/05/2024;Mauvais article
+O029125;P00983;2;Marseille;27/01/2025;Pas comme décrit
+O045449;P00731;2;Paris;04/03/2024;Mauvais article
+O033282;P00968;2;Marseille;09/08/2024;Mauvais article
+O045018;P00517;8;Marseille;25/08/2024;Endommagé
+O033907;P00135;9;Paris;14/02/2024;Endommagé
+O031058;P00504;2;Marseille;22/12/2024;Mauvais article
+O026844;P00747;6;Paris;02/05/2024;Mauvais article
+O036442;P00886;9;Lyon;14/10/2024;Mauvais article
+O032442;P00530;9;Lyon;25/11/2024;Mauvais article
+O000855;P00538;4;Lyon;28/01/2025;Pas comme décrit
+O016246;P00414;1;Paris;31/03/2024;Le client a changé d'avis
+O020466;P00129;9;Marseille;27/08/2024;Endommagé
+O045298;P00040;8;Paris;13/10/2024;Mauvais article
+O024078;P00531;2;Lyon;20/06/2024;Pas comme décrit
+O017872;P00916;8;Paris;18/08/2024;Mauvais article
+O048033;P00025;8;Lyon;24/11/2024;Mauvais article
+O001929;P00376;9;Lyon;13/06/2024;Le client a changé d'avis
+O006557;P00069;3;Marseille;11/09/2024;Le client a changé d'avis
+O029755;P00100;9;Paris;05/06/2024;Pas comme décrit
+O042903;P00020;6;Lyon;16/08/2024;Endommagé
+O000964;P00006;2;Lyon;16/05/2024;Pas comme décrit
+O009233;P00379;8;Marseille;07/12/2024;Endommagé
+O001170;P00345;5;Paris;11/09/2024;Le client a changé d'avis
+O027961;P00639;8;Marseille;02/06/2024;Pas comme décrit
+O014831;P00867;7;Marseille;25/11/2024;Endommagé
+O011992;P00188;9;Paris;19/10/2024;Endommagé
+O035967;P00198;6;Marseille;03/05/2024;Pas comme décrit
+O000077;P00350;5;Paris;10/02/2024;Le client a changé d'avis
+O009281;P00649;7;Lyon;31/12/2024;Mauvais article
+O044452;P00949;4;Lyon;04/10/2024;Le client a changé d'avis
+O028735;P00989;2;Lyon;25/04/2024;Pas comme décrit
+O017283;P00314;8;Lyon;26/10/2024;Pas comme décrit
+O021771;P00867;1;Lyon;25/04/2024;Endommagé
+O002433;P00896;3;Paris;19/07/2024;Mauvais article
+O016328;P00540;7;Marseille;25/06/2024;Endommagé
+O028880;P00047;7;Marseille;08/03/2024;Le client a changé d'avis
+O029768;P00148;5;Marseille;02/10/2024;Le client a changé d'avis
+O006179;P00695;8;Lyon;23/02/2024;Endommagé
+O043716;P00042;4;Marseille;15/04/2024;Mauvais article
+O003082;P00430;4;Lyon;15/05/2024;Pas comme décrit
+O021484;P00306;9;Lyon;05/05/2024;Mauvais article
+O009087;P00952;6;Marseille;18/10/2024;Le client a changé d'avis
+O012171;P00912;7;Lyon;12/03/2024;Le client a changé d'avis
+O017019;P00071;6;Paris;13/08/2024;Endommagé
+O013092;P00807;5;Paris;06/12/2024;Pas comme décrit
+O015028;P00084;4;Lyon;05/06/2024;Pas comme décrit
+O047995;P00028;6;Marseille;05/06/2024;Le client a changé d'avis
+O017080;P00922;6;Paris;01/12/2024;Pas comme décrit
+O026833;P00287;3;Paris;12/02/2024;Le client a changé d'avis
+O014557;P00680;2;Lyon;23/03/2024;Mauvais article
+O014138;P00856;7;Paris;06/06/2024;Mauvais article
+O045105;P00826;9;Paris;03/08/2024;Pas comme décrit
+O037379;P00670;2;Marseille;04/10/2024;Le client a changé d'avis
+O020669;P00116;4;Paris;29/03/2024;Le client a changé d'avis
+O004376;P00330;4;Lyon;24/12/2024;Endommagé
+O044302;P00619;2;Marseille;08/01/2025;Pas comme décrit
+O030469;P00463;1;Marseille;05/07/2024;Endommagé
+O039156;P00440;4;Marseille;24/04/2024;Le client a changé d'avis
+O037365;P00097;7;Lyon;01/04/2024;Mauvais article
+O039431;P00836;3;Marseille;28/07/2024;Mauvais article
+O004580;P00894;6;Paris;30/03/2024;Le client a changé d'avis
+O037449;P00080;8;Marseille;11/07/2024;Endommagé
+O009707;P00214;7;Lyon;21/07/2024;Le client a changé d'avis
+O048423;P00934;5;Paris;26/04/2024;Endommagé
+O000185;P00661;2;Marseille;21/04/2024;Endommagé
+O015784;P00789;9;Lyon;27/10/2024;Pas comme décrit
+O003661;P00490;4;Marseille;11/01/2025;Pas comme décrit
+O032364;P00208;6;Paris;02/02/2025;Pas comme décrit
+O000174;P00921;2;Lyon;24/12/2024;Le client a changé d'avis
+O005462;P00467;3;Lyon;23/02/2024;Mauvais article
+O035568;P00524;9;Paris;07/07/2024;Pas comme décrit
+O026987;P00565;5;Paris;10/02/2024;Le client a changé d'avis
+O047669;P00176;4;Paris;02/11/2024;Pas comme décrit
+O020619;P00771;3;Lyon;02/05/2024;Le client a changé d'avis
+O025509;P00148;7;Lyon;26/08/2024;Pas comme décrit
+O039760;P00842;8;Lyon;04/10/2024;Le client a changé d'avis
+O049050;P00180;4;Paris;18/11/2024;Mauvais article
+O020784;P00733;7;Paris;13/05/2024;Endommagé
+O009725;P00194;2;Paris;12/12/2024;Mauvais article
+O007100;P00599;5;Marseille;21/12/2024;Endommagé
+O024780;P00155;9;Paris;23/05/2024;Le client a changé d'avis
+O006172;P00006;4;Lyon;19/12/2024;Pas comme décrit
+O023674;P00604;2;Lyon;30/06/2024;Mauvais article
+O047177;P00522;7;Marseille;20/04/2024;Pas comme décrit
+O035215;P00911;2;Lyon;30/12/2024;Endommagé
+O001712;P00144;3;Marseille;04/10/2024;Endommagé
+O030976;P00280;2;Lyon;29/02/2024;Pas comme décrit
+O027113;P00062;4;Paris;16/10/2024;Endommagé
+O045685;P00326;9;Marseille;29/09/2024;Endommagé
+O018592;P00724;1;Lyon;02/04/2024;Mauvais article
+O015244;P00969;8;Marseille;29/07/2024;Pas comme décrit
+O005207;P00606;9;Marseille;31/08/2024;Endommagé
+O039081;P00677;5;Lyon;13/10/2024;Endommagé
+O005860;P00364;4;Lyon;26/05/2024;Pas comme décrit
+O039901;P00096;9;Lyon;19/07/2024;Le client a changé d'avis
+O015411;P00490;1;Marseille;05/09/2024;Mauvais article
+O028311;P00828;7;Marseille;25/02/2024;Mauvais article
+O044852;P00315;5;Marseille;09/04/2024;Pas comme décrit
+O036585;P01000;3;Lyon;05/02/2024;Mauvais article
+O024491;P00348;5;Lyon;27/11/2024;Le client a changé d'avis
+O019855;P00043;7;Paris;05/01/2025;Pas comme décrit
+O043916;P00630;5;Lyon;03/02/2024;Pas comme décrit
+O023910;P00783;9;Marseille;21/03/2024;Endommagé
+O047291;P00828;4;Paris;19/03/2024;Endommagé
+O007438;P00623;2;Lyon;30/12/2024;Le client a changé d'avis
+O033631;P00163;9;Lyon;02/09/2024;Mauvais article
+O028431;P00209;4;Paris;15/08/2024;Pas comme décrit
+O001455;P00560;8;Paris;07/09/2024;Pas comme décrit
+O041314;P00065;7;Lyon;31/07/2024;Mauvais article
+O012015;P00529;9;Lyon;20/12/2024;Mauvais article
+O028824;P00646;6;Lyon;20/09/2024;Le client a changé d'avis
+O043575;P00351;6;Paris;03/07/2024;Endommagé
+O046986;P00035;9;Paris;26/07/2024;Le client a changé d'avis
+O003768;P00870;7;Paris;12/09/2024;Pas comme décrit
+O011651;P00890;6;Paris;24/11/2024;Mauvais article
+O028736;P00534;1;Paris;15/10/2024;Mauvais article
+O018793;P00568;8;Marseille;13/07/2024;Le client a changé d'avis
+O030852;P00257;8;Lyon;26/09/2024;Le client a changé d'avis
+O035750;P00859;2;Lyon;15/10/2024;Pas comme décrit
+O034043;P00383;3;Lyon;10/02/2024;Mauvais article
+O049180;P00698;1;Marseille;17/02/2024;Mauvais article
+O001879;P00890;8;Marseille;08/04/2024;Mauvais article
+O021386;P00211;3;Paris;22/03/2024;Endommagé
+O000107;P00405;3;Lyon;29/11/2024;Le client a changé d'avis
+O011365;P00086;7;Marseille;04/04/2024;Pas comme décrit
+O027523;P00655;8;Paris;30/05/2024;Pas comme décrit
+O018542;P00617;3;Paris;03/05/2024;Le client a changé d'avis
+O047255;P00336;5;Lyon;17/01/2024;Pas comme décrit
+O030172;P00493;6;Lyon;28/03/2024;Endommagé
+O002895;P00151;9;Marseille;13/03/2024;Pas comme décrit
+O027656;P00797;6;Marseille;16/10/2024;Le client a changé d'avis
+O000827;P00339;3;Paris;07/12/2024;Endommagé
+O005507;P00416;3;Lyon;05/11/2024;Mauvais article
+O006098;P00152;8;Lyon;23/11/2024;Mauvais article
+O028045;P00790;5;Paris;26/09/2024;Endommagé
+O039572;P00030;1;Lyon;22/10/2024;Pas comme décrit
+O003479;P00570;7;Marseille;21/11/2024;Le client a changé d'avis
+O002236;P00033;3;Marseille;06/04/2024;Mauvais article
+O005704;P00173;1;Marseille;14/02/2024;Mauvais article
+O000592;P00036;3;Marseille;07/11/2024;Le client a changé d'avis
+O039982;P00219;6;Lyon;30/11/2024;Pas comme décrit
+O001003;P00682;5;Marseille;06/01/2025;Endommagé
+O000273;P00408;5;Marseille;20/03/2024;Le client a changé d'avis
+O009828;P00351;4;Marseille;29/09/2024;Endommagé
+O000076;P00752;5;Lyon;22/04/2024;Pas comme décrit
+O009768;P00524;6;Paris;08/06/2024;Endommagé
+O042675;P00477;7;Lyon;21/06/2024;Le client a changé d'avis
+O000336;P00082;6;Marseille;26/12/2024;Pas comme décrit
+O002620;P00282;7;Marseille;21/06/2024;Endommagé
+O041823;P00586;8;Lyon;09/10/2024;Mauvais article
+O019634;P00879;8;Paris;24/11/2024;Endommagé
+O025388;P00655;4;Paris;04/10/2024;Endommagé
+O030150;P00633;1;Paris;16/10/2024;Endommagé
+O004424;P00177;3;Lyon;20/11/2024;Endommagé
+O026616;P00805;3;Paris;23/09/2024;Mauvais article
+O004438;P00278;1;Marseille;06/05/2024;Pas comme décrit
+O013944;P00981;2;Marseille;10/02/2024;Endommagé
+O001556;P00205;4;Marseille;08/01/2025;Mauvais article
+O028038;P00441;2;Marseille;01/08/2024;Mauvais article
+O023856;P00558;6;Paris;20/06/2024;Le client a changé d'avis
+O006449;P00667;4;Paris;05/10/2024;Le client a changé d'avis
+O006992;P00359;3;Lyon;28/03/2024;Le client a changé d'avis
+O027228;P00623;6;Marseille;26/03/2024;Le client a changé d'avis
+O032072;P00947;1;Lyon;21/11/2024;Endommagé
+O005906;P00339;2;Lyon;08/10/2024;Mauvais article
+O037972;P00288;7;Marseille;13/12/2024;Pas comme décrit
+O018712;P00554;1;Marseille;08/05/2024;Mauvais article
+O005965;P00721;4;Paris;02/05/2024;Pas comme décrit
+O002248;P00195;4;Paris;29/05/2024;Mauvais article
+O008161;P00125;1;Marseille;21/07/2024;Pas comme décrit
+O039446;P00104;6;Marseille;02/02/2024;Le client a changé d'avis
+O006457;P00175;1;Marseille;21/03/2024;Pas comme décrit
+O009546;P00248;8;Marseille;13/01/2025;Le client a changé d'avis
+O029383;P00570;5;Lyon;11/01/2025;Le client a changé d'avis
+O000602;P00304;4;Paris;09/12/2024;Mauvais article
+O007884;P00104;3;Marseille;11/11/2024;Pas comme décrit
+O010610;P00649;3;Paris;27/02/2024;Mauvais article
+O049378;P00131;6;Marseille;30/10/2024;Mauvais article
+O002421;P00337;8;Paris;22/02/2024;Le client a changé d'avis
+O001061;P00283;2;Marseille;15/09/2024;Le client a changé d'avis
+O010417;P00488;5;Marseille;12/01/2025;Pas comme décrit
+O041180;P00713;2;Marseille;21/07/2024;Mauvais article
+O006628;P00591;7;Marseille;10/05/2024;Pas comme décrit
+O001954;P00142;9;Paris;14/08/2024;Le client a changé d'avis
+O026605;P00633;7;Lyon;18/09/2024;Mauvais article
+O012203;P00022;4;Paris;18/12/2024;Le client a changé d'avis
+O006771;P00439;7;Marseille;08/09/2024;Mauvais article
+O020507;P00616;3;Lyon;24/02/2024;Le client a changé d'avis
+O035038;P00769;9;Paris;23/02/2024;Endommagé
+O036856;P00514;8;Lyon;16/09/2024;Endommagé
+O009868;P00428;7;Paris;11/12/2024;Le client a changé d'avis
+O038714;P00947;5;Paris;17/12/2024;Mauvais article
+O008139;P00757;3;Lyon;09/02/2024;Pas comme décrit
+O038468;P00323;2;Marseille;04/01/2025;Mauvais article
+O042741;P00548;1;Marseille;04/03/2024;Endommagé
+O033044;P00864;9;Lyon;11/07/2024;Le client a changé d'avis
+O039989;P00420;2;Marseille;24/08/2024;Pas comme décrit
+O036503;P00075;7;Lyon;25/03/2024;Pas comme décrit
+O032044;P00718;1;Marseille;27/04/2024;Pas comme décrit
+O048863;P00238;7;Paris;19/07/2024;Endommagé
+O047594;P00667;1;Lyon;25/02/2024;Le client a changé d'avis
+O003365;P00547;3;Marseille;23/04/2024;Mauvais article
+O009613;P00115;1;Lyon;06/12/2024;Endommagé
+O023508;P00360;3;Paris;14/06/2024;Mauvais article
+O047521;P00375;3;Paris;02/09/2024;Le client a changé d'avis
+O005348;P00697;2;Marseille;16/06/2024;Pas comme décrit
+O031020;P00686;8;Marseille;30/06/2024;Le client a changé d'avis
+O010398;P00636;7;Lyon;08/03/2024;Endommagé
+O008596;P00004;8;Marseille;03/12/2024;Le client a changé d'avis
+O006141;P00115;6;Paris;27/08/2024;Le client a changé d'avis
+O014608;P00875;1;Marseille;07/01/2025;Pas comme décrit
+O021938;P00712;5;Paris;15/01/2025;Pas comme décrit
+O016458;P00522;5;Lyon;11/08/2024;Pas comme décrit
+O032819;P00625;4;Marseille;17/12/2024;Le client a changé d'avis
+O032978;P00829;4;Marseille;01/08/2024;Le client a changé d'avis
+O022378;P00048;8;Paris;19/11/2024;Le client a changé d'avis
+O013369;P00132;5;Marseille;10/05/2024;Pas comme décrit
+O000226;P00288;6;Marseille;02/03/2024;Endommagé
+O003594;P00697;8;Lyon;27/04/2024;Le client a changé d'avis
+O032037;P00498;5;Paris;31/07/2024;Endommagé
+O025605;P00577;6;Lyon;16/12/2024;Endommagé
+O031649;P00802;2;Lyon;14/05/2024;Pas comme décrit
+O037091;P00284;5;Lyon;15/09/2024;Pas comme décrit
+O013223;P00328;2;Marseille;18/10/2024;Le client a changé d'avis
+O004593;P00636;1;Paris;24/01/2024;Pas comme décrit
+O014070;P00247;9;Paris;13/12/2024;Endommagé
+O020087;P00716;6;Paris;06/07/2024;Le client a changé d'avis
+O017503;P00892;8;Lyon;02/01/2025;Le client a changé d'avis
+O010298;P00805;2;Marseille;10/01/2025;Le client a changé d'avis
+O020445;P00256;3;Lyon;01/01/2025;Mauvais article
+O002050;P00990;8;Lyon;18/10/2024;Le client a changé d'avis
+O014405;P00698;4;Lyon;22/08/2024;Mauvais article
+O017298;P00219;4;Marseille;13/01/2025;Le client a changé d'avis
+O021940;P00272;4;Lyon;18/04/2024;Pas comme décrit
+O005494;P00508;5;Marseille;15/05/2024;Pas comme décrit
+O025056;P00149;7;Marseille;06/08/2024;Pas comme décrit
+O007407;P00203;8;Paris;09/02/2024;Le client a changé d'avis
+O019289;P00358;8;Marseille;16/10/2024;Mauvais article
+O014762;P00759;6;Lyon;25/11/2024;Le client a changé d'avis
+O043285;P00199;2;Marseille;20/04/2024;Endommagé
+O032820;P00612;7;Lyon;21/08/2024;Le client a changé d'avis
+O007342;P00058;7;Paris;25/05/2024;Mauvais article
+O018978;P00839;2;Lyon;06/03/2024;Mauvais article
+O041553;P00254;2;Paris;17/04/2024;Le client a changé d'avis
+O031474;P00527;5;Marseille;11/07/2024;Le client a changé d'avis
+O037312;P00062;5;Marseille;15/08/2024;Endommagé
+O013951;P00130;2;Paris;12/05/2024;Endommagé
+O043242;P00053;7;Marseille;22/04/2024;Mauvais article
+O045095;P00424;5;Paris;02/05/2024;Le client a changé d'avis
+O038209;P00229;6;Lyon;14/10/2024;Pas comme décrit
+O000760;P00964;7;Paris;03/04/2024;Mauvais article
+O044786;P00828;3;Lyon;24/10/2024;Mauvais article
+O040463;P00375;1;Lyon;27/07/2024;Mauvais article
+O033697;P00224;3;Marseille;06/01/2025;Le client a changé d'avis
+O004316;P00518;1;Marseille;20/02/2024;Le client a changé d'avis
+O045202;P00772;8;Paris;05/11/2024;Endommagé
+O048569;P00919;1;Paris;09/10/2024;Pas comme décrit
+O003728;P00068;5;Paris;26/01/2025;Endommagé
+O029574;P00445;7;Marseille;09/09/2024;Pas comme décrit
+O032469;P00599;2;Lyon;13/03/2024;Mauvais article
+O002657;P00462;3;Marseille;11/07/2024;Le client a changé d'avis
+O024061;P00087;3;Lyon;10/01/2025;Pas comme décrit
+O015752;P00653;2;Lyon;04/08/2024;Mauvais article
+O005863;P00566;2;Marseille;29/05/2024;Pas comme décrit
+O038446;P00387;5;Paris;30/08/2024;Mauvais article
+O041446;P00688;3;Paris;23/07/2024;Endommagé
+O017041;P00242;7;Lyon;15/01/2025;Pas comme décrit
+O016146;P00657;9;Paris;02/05/2024;Endommagé
+O029663;P00374;3;Paris;13/05/2024;Mauvais article
+O015768;P00625;1;Paris;27/12/2024;Endommagé
+O026087;P00581;4;Marseille;10/05/2024;Pas comme décrit
+O002958;P00422;7;Marseille;03/05/2024;Pas comme décrit
+O002943;P00246;7;Lyon;16/05/2024;Mauvais article
+O014429;P00388;6;Marseille;05/02/2024;Le client a changé d'avis
+O045299;P00521;8;Paris;19/01/2025;Endommagé
+O021283;P00985;8;Lyon;15/05/2024;Mauvais article
+O045717;P00874;8;Marseille;21/09/2024;Mauvais article
+O021170;P00909;9;Marseille;25/11/2024;Le client a changé d'avis
+O019014;P00853;6;Marseille;29/08/2024;Pas comme décrit
+O001233;P00730;1;Marseille;24/04/2024;Pas comme décrit
+O030381;P00371;4;Lyon;11/05/2024;Endommagé
+O000025;P00818;8;Marseille;01/06/2024;Pas comme décrit
+O026155;P00491;6;Marseille;30/09/2024;Mauvais article
+O035044;P00984;1;Paris;17/12/2024;Mauvais article
+O018415;P00534;3;Paris;02/05/2024;Endommagé
+O018168;P00497;2;Lyon;30/10/2024;Mauvais article
+O013431;P00797;2;Paris;02/01/2025;Pas comme décrit
+O032438;P00088;3;Paris;05/07/2024;Endommagé
+O007673;P00284;8;Lyon;15/07/2024;Mauvais article
+O011812;P00471;8;Paris;27/10/2024;Le client a changé d'avis
+O034104;P00252;5;Paris;11/01/2024;Le client a changé d'avis
+O048283;P00599;3;Paris;23/09/2024;Le client a changé d'avis
+O004485;P00862;8;Lyon;11/02/2024;Mauvais article
+O007743;P00737;7;Paris;25/06/2024;Le client a changé d'avis
+O027014;P00348;2;Paris;03/05/2024;Endommagé
+O019159;P00887;8;Lyon;23/11/2024;Mauvais article
+O035268;P00529;7;Lyon;22/06/2024;Le client a changé d'avis
+O022002;P00278;4;Marseille;30/08/2024;Le client a changé d'avis
+O041723;P00732;9;Marseille;05/03/2024;Pas comme décrit
+O028114;P00180;6;Marseille;22/10/2024;Endommagé
+O003968;P00367;1;Lyon;07/08/2024;Le client a changé d'avis
+O000825;P00997;4;Paris;26/09/2024;Mauvais article
+O013482;P00786;5;Lyon;12/01/2025;Mauvais article
+O033329;P00146;6;Marseille;01/06/2024;Pas comme décrit
+O039399;P00119;8;Lyon;09/04/2024;Le client a changé d'avis
+O019043;P00153;3;Paris;10/06/2024;Le client a changé d'avis
+O033821;P00970;1;Lyon;25/06/2024;Endommagé
+O036700;P00986;6;Lyon;21/10/2024;Le client a changé d'avis
+O036430;P00202;6;Paris;24/11/2024;Endommagé
+O032325;P00527;7;Paris;22/07/2024;Mauvais article
+O043410;P00837;5;Paris;24/02/2024;Endommagé
+O009576;P00397;7;Lyon;30/12/2024;Mauvais article
+O020585;P00229;8;Paris;08/04/2024;Endommagé
+O021722;P00433;9;Lyon;29/07/2024;Endommagé
+O028353;P00586;4;Lyon;30/07/2024;Le client a changé d'avis
+O000514;P00860;1;Marseille;06/05/2024;Mauvais article
+O024275;P00481;9;Lyon;27/12/2024;Endommagé
+O008727;P00431;1;Marseille;23/12/2024;Mauvais article
+O029816;P00056;3;Marseille;23/01/2025;Mauvais article
+O044821;P00575;1;Lyon;29/08/2024;Le client a changé d'avis
+O030893;P00383;1;Marseille;24/12/2024;Le client a changé d'avis
+O035729;P00820;4;Marseille;24/05/2024;Mauvais article
+O040640;P00549;8;Paris;28/11/2024;Le client a changé d'avis
+O026066;P00990;4;Paris;08/04/2024;Pas comme décrit
+O046289;P00688;4;Paris;31/12/2024;Endommagé
+O000956;P00123;2;Paris;05/03/2024;Le client a changé d'avis
+O016171;P00579;6;Paris;13/01/2025;Pas comme décrit
+O016548;P00117;2;Lyon;03/12/2024;Endommagé
+O014953;P00459;4;Marseille;18/04/2024;Le client a changé d'avis
+O002671;P00524;1;Paris;10/03/2024;Le client a changé d'avis
+O031127;P00780;6;Paris;12/02/2024;Pas comme décrit
+O044288;P00296;4;Paris;16/04/2024;Endommagé
+O019379;P00617;3;Lyon;09/05/2024;Mauvais article
+O004908;P00725;8;Lyon;03/11/2024;Le client a changé d'avis
+O027465;P00024;3;Lyon;26/02/2024;Pas comme décrit
+O040520;P00429;2;Marseille;08/07/2024;Pas comme décrit
+O018237;P00555;9;Lyon;23/04/2024;Pas comme décrit
+O047758;P00522;8;Marseille;24/11/2024;Pas comme décrit
+O013749;P00168;7;Lyon;12/02/2024;Pas comme décrit
+O012278;P00301;4;Lyon;02/08/2024;Mauvais article
+O000746;P00514;4;Paris;14/12/2024;Pas comme décrit
+O006523;P00547;5;Paris;21/05/2024;Endommagé
+O024372;P00157;7;Lyon;24/01/2025;Le client a changé d'avis
+O019326;P00723;6;Lyon;19/01/2025;Mauvais article
+O037633;P00563;1;Paris;22/09/2024;Le client a changé d'avis
+O037406;P00012;2;Lyon;20/10/2024;Mauvais article
+O044450;P00957;7;Lyon;18/02/2024;Endommagé
+O017093;P00448;8;Marseille;28/08/2024;Le client a changé d'avis
+O017914;P00525;3;Lyon;19/12/2024;Endommagé
+O025884;P00615;2;Paris;18/07/2024;Le client a changé d'avis
+O032284;P00146;6;Lyon;15/05/2024;Mauvais article
+O043258;P00854;2;Paris;18/11/2024;Le client a changé d'avis
+O042950;P00251;6;Paris;13/06/2024;Endommagé
+O048538;P00894;4;Lyon;09/05/2024;Mauvais article
+O028011;P00572;6;Lyon;27/03/2024;Endommagé
+O036333;P00713;8;Paris;07/09/2024;Mauvais article
+O048433;P00095;9;Paris;08/09/2024;Le client a changé d'avis
+O035696;P00469;7;Marseille;15/06/2024;Pas comme décrit
+O001633;P00323;1;Lyon;17/09/2024;Le client a changé d'avis
+O016978;P00776;5;Marseille;16/08/2024;Le client a changé d'avis
+O026469;P00377;4;Marseille;09/10/2024;Le client a changé d'avis
+O011225;P00146;9;Marseille;29/07/2024;Mauvais article
+O001269;P00301;7;Paris;18/06/2024;Endommagé
+O035391;P00322;1;Marseille;18/10/2024;Mauvais article
+O045403;P00443;5;Paris;21/01/2025;Le client a changé d'avis
+O007262;P00097;3;Lyon;25/06/2024;Le client a changé d'avis
+O045104;P00687;7;Lyon;20/05/2024;Endommagé
+O021186;P00016;8;Paris;13/09/2024;Pas comme décrit
+O048140;P00720;7;Lyon;21/05/2024;Endommagé
+O019359;P00309;1;Marseille;26/02/2024;Mauvais article
+O032554;P00346;8;Marseille;10/09/2024;Endommagé
+O013503;P00282;4;Marseille;20/03/2024;Le client a changé d'avis
+O030769;P00469;4;Lyon;18/11/2024;Le client a changé d'avis
+O038492;P00868;1;Marseille;22/05/2024;Le client a changé d'avis
+O035076;P00912;9;Paris;13/06/2024;Le client a changé d'avis
+O038670;P00501;8;Lyon;06/05/2024;Pas comme décrit
+O041795;P00865;5;Paris;05/11/2024;Endommagé
+O049006;P00966;2;Marseille;08/10/2024;Pas comme décrit
+O010264;P00089;7;Marseille;19/12/2024;Pas comme décrit
+O021777;P00945;9;Marseille;21/06/2024;Endommagé
+O035859;P00251;6;Marseille;10/06/2024;Pas comme décrit
+O018302;P00803;2;Marseille;28/09/2024;Endommagé
+O033893;P00636;8;Marseille;18/07/2024;Endommagé
+O021177;P00485;5;Lyon;24/04/2024;Mauvais article
+O000377;P00037;9;Marseille;29/05/2024;Pas comme décrit
+O002648;P00887;5;Marseille;08/05/2024;Le client a changé d'avis
+O046290;P00658;7;Paris;19/05/2024;Le client a changé d'avis
+O020043;P00285;1;Marseille;06/01/2025;Mauvais article
+O035233;P00123;5;Paris;10/03/2024;Le client a changé d'avis
+O026538;P00512;3;Paris;31/08/2024;Pas comme décrit
+O024451;P00816;5;Marseille;20/09/2024;Pas comme décrit
+O033402;P00417;7;Paris;28/10/2024;Mauvais article
+O018569;P00458;1;Lyon;24/11/2024;Endommagé
+O017130;P00659;2;Marseille;24/03/2024;Le client a changé d'avis
+O008200;P00427;5;Lyon;27/01/2025;Mauvais article
+O030020;P00427;9;Paris;19/01/2024;Le client a changé d'avis
+O044809;P00823;5;Marseille;27/02/2024;Endommagé
+O020618;P00114;6;Paris;09/07/2024;Pas comme décrit
+O027018;P00233;8;Lyon;25/10/2024;Mauvais article
+O022009;P00240;2;Paris;04/02/2024;Endommagé
+O019590;P00174;7;Paris;11/10/2024;Pas comme décrit
+O003943;P00790;9;Paris;29/03/2024;Pas comme décrit
+O031784;P00561;2;Paris;17/06/2024;Le client a changé d'avis
+O034215;P00715;4;Lyon;28/04/2024;Pas comme décrit
+O023664;P00116;6;Marseille;07/09/2024;Pas comme décrit
+O025204;P00212;1;Lyon;28/10/2024;Mauvais article
+O024666;P00298;2;Marseille;20/11/2024;Mauvais article
+O023576;P00032;8;Paris;21/03/2024;Endommagé
+O000457;P00239;7;Marseille;03/08/2024;Mauvais article
+O013974;P00831;1;Lyon;04/05/2024;Pas comme décrit
+O024930;P00702;6;Lyon;01/07/2024;Pas comme décrit
+O017995;P00369;9;Paris;02/07/2024;Mauvais article
+O039083;P00709;6;Paris;26/02/2024;Endommagé
+O032476;P00223;2;Marseille;24/05/2024;Le client a changé d'avis
+O000953;P00608;5;Lyon;06/10/2024;Pas comme décrit
+O010072;P00138;8;Marseille;28/05/2024;Le client a changé d'avis
+O019171;P00633;8;Marseille;16/01/2025;Pas comme décrit
+O026770;P00750;5;Marseille;29/01/2024;Le client a changé d'avis
+O022690;P00267;8;Lyon;22/05/2024;Pas comme décrit
+O006367;P00426;7;Marseille;02/05/2024;Pas comme décrit
+O045748;P00357;2;Lyon;23/09/2024;Le client a changé d'avis
+O008933;P00524;4;Paris;23/07/2024;Pas comme décrit
+O018466;P00157;6;Paris;02/12/2024;Mauvais article
+O033187;P00110;2;Lyon;05/10/2024;Le client a changé d'avis
+O034070;P00027;8;Marseille;02/08/2024;Le client a changé d'avis
+O028782;P00017;8;Lyon;09/01/2025;Endommagé
+O023339;P00868;6;Marseille;08/03/2024;Mauvais article
+O011889;P00627;2;Lyon;23/12/2024;Pas comme décrit
+O018193;P00689;2;Lyon;25/03/2024;Le client a changé d'avis
+O045171;P00588;5;Lyon;18/06/2024;Mauvais article
+O045371;P00740;7;Marseille;12/06/2024;Endommagé
+O009851;P00275;2;Marseille;04/02/2024;Endommagé
+O020590;P00737;2;Lyon;14/04/2024;Pas comme décrit
+O006805;P00204;8;Marseille;13/05/2024;Le client a changé d'avis
+O020940;P00409;2;Marseille;25/03/2024;Mauvais article
+O039283;P00424;5;Marseille;08/10/2024;Endommagé
+O002668;P00734;2;Lyon;09/06/2024;Le client a changé d'avis
+O013817;P00902;8;Marseille;08/12/2024;Endommagé
+O011709;P00291;3;Lyon;05/04/2024;Le client a changé d'avis
+O003186;P00607;3;Lyon;02/02/2024;Pas comme décrit
+O037966;P00100;7;Marseille;08/08/2024;Endommagé
+O017752;P00951;4;Marseille;11/01/2025;Endommagé
+O001116;P00598;5;Paris;17/07/2024;Endommagé
+O047770;P00585;6;Lyon;19/12/2024;Mauvais article
+O029715;P00956;7;Marseille;16/06/2024;Pas comme décrit
+O012259;P00353;2;Paris;05/11/2024;Endommagé
+O017027;P00885;3;Paris;23/02/2024;Pas comme décrit
+O045246;P00407;6;Marseille;02/01/2025;Pas comme décrit
+O017980;P00399;7;Lyon;10/11/2024;Mauvais article
+O013375;P00698;6;Paris;14/08/2024;Pas comme décrit
+O004344;P00995;8;Lyon;20/07/2024;Mauvais article
+O037419;P00107;3;Paris;05/12/2024;Pas comme décrit
+O007117;P00016;2;Paris;11/01/2025;Mauvais article
+O026510;P00973;5;Marseille;11/11/2024;Le client a changé d'avis
+O034429;P00330;9;Lyon;16/01/2025;Le client a changé d'avis
+O022710;P00134;5;Lyon;19/01/2025;Pas comme décrit
+O008345;P00687;9;Marseille;09/03/2024;Pas comme décrit
+O046567;P00398;4;Marseille;08/05/2024;Endommagé
+O049829;P00389;5;Marseille;17/12/2024;Mauvais article
+O037473;P00454;1;Lyon;29/04/2024;Endommagé
+O041540;P00699;2;Lyon;20/03/2024;Endommagé
+O003301;P00281;4;Lyon;01/08/2024;Mauvais article
+O017738;P00391;3;Marseille;02/09/2024;Le client a changé d'avis
+O043098;P00687;7;Marseille;28/06/2024;Endommagé
+O048754;P00384;3;Lyon;14/01/2025;Mauvais article
+O009570;P00682;7;Marseille;25/03/2024;Le client a changé d'avis
+O030783;P00540;4;Paris;03/03/2024;Le client a changé d'avis
+O021929;P00400;3;Lyon;17/04/2024;Mauvais article
+O006336;P00163;5;Marseille;14/02/2024;Pas comme décrit
+O041545;P00823;2;Paris;24/06/2024;Mauvais article
+O018652;P00840;2;Lyon;11/05/2024;Pas comme décrit
+O024899;P00833;3;Marseille;15/04/2024;Pas comme décrit
+O037227;P00441;7;Lyon;21/11/2024;Pas comme décrit
+O048335;P00785;1;Paris;18/04/2024;Mauvais article
+O027620;P00742;5;Lyon;24/10/2024;Mauvais article
+O015756;P00382;3;Lyon;23/06/2024;Le client a changé d'avis
+O032988;P00274;4;Lyon;15/08/2024;Le client a changé d'avis
+O044742;P00113;5;Marseille;01/08/2024;Mauvais article
+O000011;P00919;3;Lyon;22/08/2024;Pas comme décrit
+O020829;P00147;5;Lyon;12/01/2025;Endommagé
+O020599;P00987;6;Lyon;21/08/2024;Pas comme décrit
+O004290;P00763;5;Lyon;23/09/2024;Endommagé
+O021741;P00331;5;Paris;22/10/2024;Le client a changé d'avis
+O019319;P00914;4;Marseille;23/08/2024;Pas comme décrit
+O013572;P00564;4;Paris;29/06/2024;Mauvais article
+O035340;P00118;4;Paris;17/06/2024;Mauvais article
+O039480;P00125;4;Lyon;10/12/2024;Pas comme décrit
+O048963;P00670;2;Marseille;29/05/2024;Pas comme décrit
+O023703;P00848;5;Lyon;11/09/2024;Mauvais article
+O034705;P00686;3;Paris;03/07/2024;Pas comme décrit
+O003399;P00039;3;Lyon;26/03/2024;Le client a changé d'avis
+O021251;P00290;6;Paris;02/02/2025;Endommagé
+O025816;P00189;2;Lyon;18/12/2024;Le client a changé d'avis
+O010428;P00922;5;Paris;04/08/2024;Pas comme décrit
+O016049;P00858;2;Paris;19/01/2025;Mauvais article
+O000510;P00181;5;Lyon;17/04/2024;Le client a changé d'avis
+O028874;P00192;2;Lyon;01/06/2024;Pas comme décrit
+O005528;P00646;7;Paris;09/11/2024;Pas comme décrit
+O009223;P00391;1;Lyon;10/10/2024;Endommagé
+O032998;P00086;6;Paris;19/12/2024;Pas comme décrit
+O007185;P00506;5;Marseille;10/09/2024;Le client a changé d'avis
+O044384;P00900;9;Paris;01/06/2024;Mauvais article
+O022951;P00226;7;Paris;04/01/2025;Pas comme décrit
+O037686;P00486;8;Marseille;15/09/2024;Mauvais article
+O020179;P00577;8;Marseille;11/01/2025;Le client a changé d'avis
+O006070;P00569;8;Paris;24/06/2024;Pas comme décrit
+O001336;P00817;7;Marseille;30/01/2024;Endommagé
+O017651;P00277;5;Marseille;15/02/2024;Le client a changé d'avis
+O035085;P00354;3;Marseille;28/10/2024;Mauvais article
+O025655;P00409;6;Marseille;22/02/2024;Mauvais article
+O048388;P00304;7;Paris;19/06/2024;Mauvais article
+O031042;P00678;4;Paris;27/12/2024;Le client a changé d'avis
+O015561;P00171;7;Marseille;28/09/2024;Endommagé
+O004811;P00757;9;Lyon;17/07/2024;Mauvais article
+O027695;P00336;2;Marseille;26/12/2024;Le client a changé d'avis
+O046399;P00215;6;Marseille;04/11/2024;Mauvais article
+O045345;P00609;2;Lyon;09/08/2024;Endommagé
+O036918;P00853;2;Lyon;29/09/2024;Endommagé
+O027905;P00551;7;Paris;08/04/2024;Le client a changé d'avis
+O017740;P00278;8;Paris;14/05/2024;Pas comme décrit
+O043282;P00099;4;Marseille;20/08/2024;Le client a changé d'avis
+O014307;P00881;7;Marseille;23/08/2024;Mauvais article
+O049563;P00019;1;Paris;21/07/2024;Pas comme décrit
+O034310;P00860;6;Marseille;19/09/2024;Endommagé
+O049599;P00493;9;Paris;20/01/2025;Le client a changé d'avis
+O037627;P00851;4;Paris;23/04/2024;Endommagé
+O005407;P00666;9;Paris;30/01/2024;Pas comme décrit
+O022627;P00180;6;Lyon;12/07/2024;Pas comme décrit
+O036773;P00720;6;Paris;11/04/2024;Le client a changé d'avis
+O027562;P00746;5;Paris;14/02/2024;Le client a changé d'avis
+O026674;P00177;9;Marseille;03/03/2024;Pas comme décrit
+O030237;P00481;4;Lyon;08/02/2024;Endommagé
+O031284;P00915;5;Paris;15/11/2024;Mauvais article
+O046508;P00011;8;Lyon;23/02/2024;Le client a changé d'avis
+O007483;P00574;4;Marseille;27/02/2024;Le client a changé d'avis
+O042612;P00672;7;Lyon;08/09/2024;Le client a changé d'avis
+O016007;P00426;9;Marseille;28/07/2024;Mauvais article
+O003217;P00426;6;Marseille;18/12/2024;Pas comme décrit
+O014982;P00772;2;Paris;29/07/2024;Le client a changé d'avis
+O042091;P00334;5;Paris;06/03/2024;Pas comme décrit
+O008015;P00193;7;Marseille;07/02/2025;Mauvais article
+O032850;P00085;9;Paris;24/07/2024;Endommagé
+O001794;P00872;1;Marseille;25/01/2025;Pas comme décrit
+O030789;P00940;8;Lyon;13/01/2025;Mauvais article
+O024686;P00042;8;Marseille;29/07/2024;Mauvais article
+O029036;P00209;6;Marseille;23/06/2024;Le client a changé d'avis
+O022299;P00795;2;Marseille;19/06/2024;Pas comme décrit
+O028285;P00721;3;Paris;11/08/2024;Pas comme décrit
+O045694;P00771;7;Paris;24/04/2024;Endommagé
+O028411;P00643;4;Lyon;28/05/2024;Endommagé
+O043078;P00192;2;Paris;01/11/2024;Mauvais article
+O004162;P00433;1;Paris;05/04/2024;Mauvais article
+O011083;P00782;6;Marseille;18/05/2024;Endommagé
+O037320;P00676;6;Lyon;18/03/2024;Mauvais article
+O013114;P00465;5;Lyon;31/12/2024;Mauvais article
+O029390;P00205;9;Lyon;13/07/2024;Mauvais article
+O038958;P00512;5;Marseille;23/07/2024;Le client a changé d'avis
+O033068;P00114;8;Marseille;19/12/2024;Mauvais article
+O008057;P00608;3;Marseille;13/04/2024;Endommagé
+O008172;P00526;8;Marseille;16/08/2024;Mauvais article
+O018182;P00836;2;Paris;02/07/2024;Mauvais article
+O008549;P00489;4;Lyon;15/08/2024;Endommagé
+O029310;P00207;3;Lyon;11/01/2025;Le client a changé d'avis
+O047644;P00957;9;Marseille;22/03/2024;Le client a changé d'avis
+O035395;P00289;6;Paris;30/12/2024;Mauvais article
+O035423;P00741;6;Lyon;16/02/2024;Endommagé
+O032691;P00967;9;Marseille;07/06/2024;Endommagé
+O047596;P00312;7;Lyon;26/02/2024;Pas comme décrit
+O013384;P00682;9;Marseille;19/12/2024;Pas comme décrit
+O025255;P00059;6;Paris;24/04/2024;Le client a changé d'avis
+O008757;P00250;4;Lyon;10/03/2024;Mauvais article
+O011795;P00214;7;Lyon;15/06/2024;Endommagé
+O036158;P00785;4;Lyon;22/08/2024;Endommagé
+O009196;P00014;7;Marseille;15/07/2024;Le client a changé d'avis
+O005979;P00103;7;Paris;04/10/2024;Pas comme décrit
+O010149;P00547;5;Paris;21/01/2024;Le client a changé d'avis
+O002045;P00407;1;Marseille;18/07/2024;Mauvais article
+O017779;P00526;8;Paris;21/07/2024;Mauvais article
+O047560;P00750;4;Paris;27/05/2024;Endommagé
+O023819;P00313;8;Lyon;14/06/2024;Pas comme décrit
+O029846;P00007;1;Lyon;14/05/2024;Endommagé
+O039875;P00778;2;Lyon;03/12/2024;Le client a changé d'avis
+O006687;P00345;2;Lyon;24/09/2024;Pas comme décrit
+O012031;P00488;1;Paris;01/10/2024;Endommagé
+O041626;P00788;3;Paris;28/07/2024;Mauvais article
+O009447;P00739;1;Lyon;29/03/2024;Mauvais article
+O008400;P00759;1;Lyon;02/08/2024;Endommagé
+O032272;P00352;3;Lyon;28/08/2024;Endommagé
+O006444;P00582;4;Paris;29/12/2024;Mauvais article
+O033646;P00660;8;Marseille;18/04/2024;Le client a changé d'avis
+O040515;P00800;1;Marseille;15/01/2024;Le client a changé d'avis
+O039866;P00281;3;Marseille;12/11/2024;Mauvais article
+O007968;P00821;5;Marseille;30/01/2025;Le client a changé d'avis
+O003359;P00935;5;Paris;04/09/2024;Endommagé
+O000406;P00507;4;Lyon;16/06/2024;Le client a changé d'avis
+O036840;P00463;4;Lyon;09/12/2024;Le client a changé d'avis
+O032522;P00682;9;Paris;05/12/2024;Mauvais article
+O027286;P00768;7;Lyon;03/11/2024;Pas comme décrit
+O004898;P00365;5;Marseille;10/10/2024;Endommagé
+O045922;P00357;1;Lyon;28/11/2024;Endommagé
+O038226;P00762;2;Marseille;22/04/2024;Pas comme décrit
+O044007;P00961;2;Lyon;18/11/2024;Le client a changé d'avis
+O020249;P00279;7;Paris;08/03/2024;Mauvais article
+O039290;P00952;6;Lyon;17/03/2024;Pas comme décrit
+O006563;P00835;1;Lyon;19/03/2024;Pas comme décrit
+O027661;P00264;3;Paris;10/11/2024;Pas comme décrit
+O028754;P00397;5;Lyon;30/05/2024;Pas comme décrit
+O003031;P00814;6;Marseille;19/04/2024;Pas comme décrit
+O037631;P00941;2;Lyon;16/09/2024;Mauvais article
+O048443;P00490;5;Marseille;27/06/2024;Pas comme décrit
+O037776;P00740;3;Paris;14/08/2024;Pas comme décrit
+O001343;P00678;8;Paris;22/12/2024;Mauvais article
