@@ -1,0 +1,1001 @@
+﻿id_produit;catégorie;marque;prix;stock_minimum
+P00001;Soins capillaires;Luxe eclat;467.42;52
+P00002;Accessoires;Maison Pure;291.26;10
+P00003;Maquillage;Essentielle Paris;354.39;60
+P00004;Accessoires;Reflet d'or;462.8;33
+P00005;Accessoires;Elixir Haute Beauté;359.47;33
+P00006;Parfums;Luxe eclat;93.22;26
+P00007;Maquillage;Maison Pure;296.62;14
+P00008;Maquillage;Essentielle Paris;311.22;29
+P00009;Maquillage;Reflet d'or;223.58;30
+P00010;Accessoires;Elixir Haute Beauté;373.49;67
+P00011;Soins capillaires;Luxe eclat;468.5;40
+P00012;Maquillage;Maison Pure;464.27;20
+P00013;Accessoires;Essentielle Paris;236.4;61
+P00014;Parfums;Reflet d'or;74.35;24
+P00015;Soins capillaires;Elixir Haute Beauté;492.72;92
+P00016;Parfums;Luxe eclat;422.67;16
+P00017;Soins capillaires;Maison Pure;79.84;37
+P00018;Accessoires;Essentielle Paris;462.0;60
+P00019;Soins de la peau;Reflet d'or;437.55;67
+P00020;Soins capillaires;Elixir Haute Beauté;269.04;14
+P00021;Parfums;Luxe eclat;303.81;14
+P00022;Accessoires;Maison Pure;211.52;17
+P00023;Soins capillaires;Essentielle Paris;46.29;73
+P00024;Soins de la peau;Reflet d'or;180.89;19
+P00025;Soins de la peau;Elixir Haute Beauté;405.37;47
+P00026;Maquillage;Luxe eclat;22.22;90
+P00027;Maquillage;Maison Pure;180.08;17
+P00028;Parfums;Essentielle Paris;211.12;34
+P00029;Soins capillaires;Reflet d'or;277.95;82
+P00030;Soins capillaires;Elixir Haute Beauté;461.53;75
+P00031;Maquillage;Luxe eclat;186.25;88
+P00032;Soins capillaires;Maison Pure;186.54;59
+P00033;Soins capillaires;Essentielle Paris;374.0;76
+P00034;Soins de la peau;Reflet d'or;237.06;58
+P00035;Maquillage;Elixir Haute Beauté;127.81;45
+P00036;Accessoires;Luxe eclat;237.17;77
+P00037;Maquillage;Maison Pure;87.61;87
+P00038;Accessoires;Essentielle Paris;104.67;50
+P00039;Soins de la peau;Reflet d'or;259.22;98
+P00040;Parfums;Elixir Haute Beauté;221.08;71
+P00041;Soins capillaires;Luxe eclat;459.13;19
+P00042;Soins de la peau;Maison Pure;193.95;30
+P00043;Soins capillaires;Essentielle Paris;298.68;45
+P00044;Parfums;Reflet d'or;323.49;21
+P00045;Parfums;Elixir Haute Beauté;26.29;11
+P00046;Soins de la peau;Luxe eclat;338.5;22
+P00047;Parfums;Maison Pure;105.46;62
+P00048;Accessoires;Essentielle Paris;481.31;41
+P00049;Parfums;Reflet d'or;91.36;25
+P00050;Soins capillaires;Elixir Haute Beauté;219.02;41
+P00051;Soins capillaires;Luxe eclat;60.97;41
+P00052;Soins capillaires;Maison Pure;498.5;20
+P00053;Soins capillaires;Essentielle Paris;261.05;19
+P00054;Accessoires;Reflet d'or;305.78;24
+P00055;Maquillage;Elixir Haute Beauté;52.2;26
+P00056;Soins de la peau;Luxe eclat;379.98;49
+P00057;Soins capillaires;Maison Pure;120.75;27
+P00058;Parfums;Essentielle Paris;451.07;64
+P00059;Soins capillaires;Reflet d'or;118.47;82
+P00060;Parfums;Elixir Haute Beauté;111.53;34
+P00061;Parfums;Luxe eclat;37.54;68
+P00062;Soins capillaires;Maison Pure;246.59;87
+P00063;Accessoires;Essentielle Paris;291.12;98
+P00064;Parfums;Reflet d'or;51.54;31
+P00065;Parfums;Elixir Haute Beauté;392.25;39
+P00066;Soins capillaires;Luxe eclat;237.58;93
+P00067;Parfums;Maison Pure;271.71;94
+P00068;Parfums;Essentielle Paris;231.57;53
+P00069;Soins capillaires;Reflet d'or;212.37;41
+P00070;Soins capillaires;Elixir Haute Beauté;288.63;60
+P00071;Soins de la peau;Luxe eclat;94.52;55
+P00072;Accessoires;Maison Pure;107.33;30
+P00073;Accessoires;Essentielle Paris;433.66;41
+P00074;Parfums;Reflet d'or;474.14;48
+P00075;Accessoires;Elixir Haute Beauté;199.19;21
+P00076;Parfums;Luxe eclat;149.96;56
+P00077;Soins de la peau;Maison Pure;329.12;27
+P00078;Soins capillaires;Essentielle Paris;216.19;30
+P00079;Soins capillaires;Reflet d'or;32.19;22
+P00080;Soins capillaires;Elixir Haute Beauté;94.95;30
+P00081;Accessoires;Luxe eclat;363.67;17
+P00082;Soins de la peau;Maison Pure;336.28;55
+P00083;Accessoires;Essentielle Paris;33.01;16
+P00084;Accessoires;Reflet d'or;126.55;32
+P00085;Soins de la peau;Elixir Haute Beauté;130.92;84
+P00086;Soins de la peau;Luxe eclat;342.51;95
+P00087;Soins de la peau;Maison Pure;29.46;31
+P00088;Soins de la peau;Essentielle Paris;69.97;98
+P00089;Soins capillaires;Reflet d'or;403.96;31
+P00090;Maquillage;Elixir Haute Beauté;105.7;38
+P00091;Maquillage;Luxe eclat;333.32;22
+P00092;Soins de la peau;Maison Pure;134.33;91
+P00093;Maquillage;Essentielle Paris;67.73;11
+P00094;Maquillage;Reflet d'or;136.72;38
+P00095;Soins de la peau;Elixir Haute Beauté;366.69;94
+P00096;Maquillage;Luxe eclat;430.73;88
+P00097;Accessoires;Maison Pure;418.51;61
+P00098;Parfums;Essentielle Paris;210.65;36
+P00099;Parfums;Reflet d'or;340.68;59
+P00100;Soins de la peau;Elixir Haute Beauté;118.39;88
+P00101;Soins capillaires;Luxe eclat;160.71;32
+P00102;Soins de la peau;Maison Pure;450.24;97
+P00103;Soins capillaires;Essentielle Paris;26.24;53
+P00104;Parfums;Reflet d'or;61.04;86
+P00105;Soins de la peau;Elixir Haute Beauté;119.79;31
+P00106;Accessoires;Luxe eclat;32.74;52
+P00107;Maquillage;Maison Pure;107.09;46
+P00108;Soins capillaires;Essentielle Paris;299.86;70
+P00109;Maquillage;Reflet d'or;222.28;65
+P00110;Maquillage;Elixir Haute Beauté;448.48;12
+P00111;Soins de la peau;Luxe eclat;412.37;72
+P00112;Maquillage;Maison Pure;184.07;28
+P00113;Accessoires;Essentielle Paris;144.52;32
+P00114;Maquillage;Reflet d'or;202.25;38
+P00115;Soins de la peau;Elixir Haute Beauté;303.34;39
+P00116;Accessoires;Luxe eclat;148.67;48
+P00117;Parfums;Maison Pure;319.59;34
+P00118;Maquillage;Essentielle Paris;216.52;17
+P00119;Soins de la peau;Reflet d'or;284.98;67
+P00120;Parfums;Elixir Haute Beauté;229.34;25
+P00121;Parfums;Luxe eclat;161.34;81
+P00122;Soins capillaires;Maison Pure;475.26;10
+P00123;Accessoires;Essentielle Paris;386.53;14
+P00124;Maquillage;Reflet d'or;87.25;12
+P00125;Soins de la peau;Elixir Haute Beauté;436.86;74
+P00126;Soins capillaires;Luxe eclat;253.97;13
+P00127;Accessoires;Maison Pure;449.39;73
+P00128;Soins capillaires;Essentielle Paris;403.93;98
+P00129;Accessoires;Reflet d'or;224.1;19
+P00130;Accessoires;Elixir Haute Beauté;30.79;30
+P00131;Maquillage;Luxe eclat;148.97;55
+P00132;Accessoires;Maison Pure;279.98;36
+P00133;Soins capillaires;Essentielle Paris;324.07;75
+P00134;Accessoires;Reflet d'or;143.79;50
+P00135;Maquillage;Elixir Haute Beauté;86.89;22
+P00136;Maquillage;Luxe eclat;420.77;18
+P00137;Soins capillaires;Maison Pure;492.51;45
+P00138;Parfums;Essentielle Paris;272.33;95
+P00139;Parfums;Reflet d'or;102.41;99
+P00140;Accessoires;Elixir Haute Beauté;150.71;67
+P00141;Soins de la peau;Luxe eclat;28.83;63
+P00142;Accessoires;Maison Pure;458.86;21
+P00143;Soins capillaires;Essentielle Paris;76.52;90
+P00144;Soins capillaires;Reflet d'or;296.73;87
+P00145;Soins capillaires;Elixir Haute Beauté;151.55;23
+P00146;Soins capillaires;Luxe eclat;286.01;43
+P00147;Soins capillaires;Maison Pure;332.68;62
+P00148;Maquillage;Essentielle Paris;418.28;29
+P00149;Parfums;Reflet d'or;119.08;84
+P00150;Soins capillaires;Elixir Haute Beauté;25.28;25
+P00151;Soins de la peau;Luxe eclat;85.71;79
+P00152;Soins de la peau;Maison Pure;452.01;65
+P00153;Soins de la peau;Essentielle Paris;439.47;92
+P00154;Soins de la peau;Reflet d'or;306.76;67
+P00155;Maquillage;Elixir Haute Beauté;308.25;13
+P00156;Soins de la peau;Luxe eclat;339.22;13
+P00157;Soins capillaires;Maison Pure;104.18;29
+P00158;Accessoires;Essentielle Paris;458.92;19
+P00159;Soins de la peau;Reflet d'or;221.01;33
+P00160;Maquillage;Elixir Haute Beauté;203.91;35
+P00161;Maquillage;Luxe eclat;269.08;46
+P00162;Soins de la peau;Maison Pure;42.54;94
+P00163;Accessoires;Essentielle Paris;99.82;63
+P00164;Soins de la peau;Reflet d'or;374.26;30
+P00165;Maquillage;Elixir Haute Beauté;59.74;83
+P00166;Parfums;Luxe eclat;309.51;47
+P00167;Soins capillaires;Maison Pure;137.77;55
+P00168;Maquillage;Essentielle Paris;206.86;13
+P00169;Soins de la peau;Reflet d'or;158.57;69
+P00170;Soins capillaires;Elixir Haute Beauté;190.72;66
+P00171;Soins de la peau;Luxe eclat;365.14;54
+P00172;Soins de la peau;Maison Pure;162.62;29
+P00173;Parfums;Essentielle Paris;291.87;26
+P00174;Soins capillaires;Reflet d'or;248.5;80
+P00175;Soins capillaires;Elixir Haute Beauté;338.56;13
+P00176;Parfums;Luxe eclat;469.68;23
+P00177;Maquillage;Maison Pure;371.63;12
+P00178;Soins de la peau;Essentielle Paris;123.17;97
+P00179;Accessoires;Reflet d'or;34.97;89
+P00180;Soins de la peau;Elixir Haute Beauté;145.89;67
+P00181;Soins de la peau;Luxe eclat;305.64;64
+P00182;Maquillage;Maison Pure;44.68;13
+P00183;Soins de la peau;Essentielle Paris;258.26;33
+P00184;Parfums;Reflet d'or;306.48;43
+P00185;Parfums;Elixir Haute Beauté;180.44;39
+P00186;Soins capillaires;Luxe eclat;390.04;91
+P00187;Accessoires;Maison Pure;71.17;28
+P00188;Soins de la peau;Essentielle Paris;56.07;40
+P00189;Soins de la peau;Reflet d'or;369.53;69
+P00190;Maquillage;Elixir Haute Beauté;257.84;69
+P00191;Parfums;Luxe eclat;350.43;28
+P00192;Accessoires;Maison Pure;228.72;58
+P00193;Soins capillaires;Essentielle Paris;138.27;72
+P00194;Parfums;Reflet d'or;413.17;92
+P00195;Soins capillaires;Elixir Haute Beauté;403.72;31
+P00196;Maquillage;Luxe eclat;353.45;33
+P00197;Maquillage;Maison Pure;150.63;85
+P00198;Soins de la peau;Essentielle Paris;303.31;39
+P00199;Accessoires;Reflet d'or;193.27;67
+P00200;Soins capillaires;Elixir Haute Beauté;63.96;40
+P00201;Parfums;Luxe eclat;460.31;73
+P00202;Maquillage;Maison Pure;85.67;28
+P00203;Soins de la peau;Essentielle Paris;476.11;57
+P00204;Soins de la peau;Reflet d'or;234.08;54
+P00205;Soins capillaires;Elixir Haute Beauté;108.86;64
+P00206;Maquillage;Luxe eclat;280.11;64
+P00207;Accessoires;Maison Pure;439.01;27
+P00208;Maquillage;Essentielle Paris;371.47;72
+P00209;Soins capillaires;Reflet d'or;407.15;56
+P00210;Soins capillaires;Elixir Haute Beauté;336.22;84
+P00211;Maquillage;Luxe eclat;352.29;66
+P00212;Soins capillaires;Maison Pure;427.61;54
+P00213;Maquillage;Essentielle Paris;139.84;42
+P00214;Parfums;Reflet d'or;254.92;26
+P00215;Maquillage;Elixir Haute Beauté;126.18;79
+P00216;Maquillage;Luxe eclat;494.08;13
+P00217;Soins capillaires;Maison Pure;473.15;29
+P00218;Soins capillaires;Essentielle Paris;38.92;56
+P00219;Soins de la peau;Reflet d'or;358.68;24
+P00220;Soins de la peau;Elixir Haute Beauté;464.12;79
+P00221;Parfums;Luxe eclat;106.68;56
+P00222;Soins de la peau;Maison Pure;292.61;87
+P00223;Maquillage;Essentielle Paris;459.43;84
+P00224;Soins capillaires;Reflet d'or;36.29;18
+P00225;Soins de la peau;Elixir Haute Beauté;354.76;99
+P00226;Soins de la peau;Luxe eclat;162.73;25
+P00227;Parfums;Maison Pure;463.71;78
+P00228;Parfums;Essentielle Paris;486.11;70
+P00229;Maquillage;Reflet d'or;473.25;19
+P00230;Soins capillaires;Elixir Haute Beauté;247.62;59
+P00231;Parfums;Luxe eclat;433.78;12
+P00232;Soins de la peau;Maison Pure;425.38;86
+P00233;Soins capillaires;Essentielle Paris;173.17;79
+P00234;Soins capillaires;Reflet d'or;417.88;90
+P00235;Soins de la peau;Elixir Haute Beauté;37.76;60
+P00236;Parfums;Luxe eclat;306.21;28
+P00237;Soins de la peau;Maison Pure;130.4;51
+P00238;Soins capillaires;Essentielle Paris;77.87;44
+P00239;Accessoires;Reflet d'or;56.94;55
+P00240;Accessoires;Elixir Haute Beauté;354.22;35
+P00241;Maquillage;Luxe eclat;183.14;78
+P00242;Soins de la peau;Maison Pure;367.89;73
+P00243;Soins de la peau;Essentielle Paris;51.37;46
+P00244;Maquillage;Reflet d'or;171.34;93
+P00245;Maquillage;Elixir Haute Beauté;278.96;58
+P00246;Maquillage;Luxe eclat;399.55;30
+P00247;Soins capillaires;Maison Pure;173.0;83
+P00248;Soins de la peau;Essentielle Paris;320.43;73
+P00249;Soins capillaires;Reflet d'or;445.27;14
+P00250;Maquillage;Elixir Haute Beauté;315.61;79
+P00251;Soins de la peau;Luxe eclat;131.82;99
+P00252;Soins capillaires;Maison Pure;31.71;13
+P00253;Soins capillaires;Essentielle Paris;437.65;48
+P00254;Maquillage;Reflet d'or;30.21;44
+P00255;Soins de la peau;Elixir Haute Beauté;439.86;10
+P00256;Maquillage;Luxe eclat;273.89;33
+P00257;Soins de la peau;Maison Pure;470.75;66
+P00258;Accessoires;Essentielle Paris;403.42;79
+P00259;Parfums;Reflet d'or;499.01;50
+P00260;Parfums;Elixir Haute Beauté;188.34;63
+P00261;Parfums;Luxe eclat;388.25;55
+P00262;Maquillage;Maison Pure;212.93;69
+P00263;Accessoires;Essentielle Paris;250.34;69
+P00264;Soins de la peau;Reflet d'or;321.2;66
+P00265;Soins capillaires;Elixir Haute Beauté;439.37;40
+P00266;Soins de la peau;Luxe eclat;492.36;93
+P00267;Soins capillaires;Maison Pure;388.77;33
+P00268;Soins de la peau;Essentielle Paris;220.53;98
+P00269;Accessoires;Reflet d'or;222.25;45
+P00270;Soins capillaires;Elixir Haute Beauté;374.04;94
+P00271;Maquillage;Luxe eclat;134.61;39
+P00272;Soins de la peau;Maison Pure;73.03;33
+P00273;Soins de la peau;Essentielle Paris;190.22;39
+P00274;Soins capillaires;Reflet d'or;157.87;95
+P00275;Maquillage;Elixir Haute Beauté;162.23;16
+P00276;Maquillage;Luxe eclat;132.13;44
+P00277;Accessoires;Maison Pure;40.2;64
+P00278;Maquillage;Essentielle Paris;28.58;23
+P00279;Maquillage;Reflet d'or;494.11;19
+P00280;Maquillage;Elixir Haute Beauté;225.33;89
+P00281;Parfums;Luxe eclat;204.48;25
+P00282;Accessoires;Maison Pure;346.23;63
+P00283;Soins de la peau;Essentielle Paris;124.76;98
+P00284;Soins capillaires;Reflet d'or;475.98;86
+P00285;Soins de la peau;Elixir Haute Beauté;397.45;79
+P00286;Accessoires;Luxe eclat;62.92;53
+P00287;Soins capillaires;Maison Pure;220.44;82
+P00288;Accessoires;Essentielle Paris;441.98;54
+P00289;Maquillage;Reflet d'or;473.47;65
+P00290;Soins capillaires;Elixir Haute Beauté;244.35;93
+P00291;Maquillage;Luxe eclat;314.44;91
+P00292;Soins de la peau;Maison Pure;100.18;66
+P00293;Soins de la peau;Essentielle Paris;495.76;30
+P00294;Soins capillaires;Reflet d'or;131.2;77
+P00295;Soins capillaires;Elixir Haute Beauté;472.51;59
+P00296;Accessoires;Luxe eclat;331.83;42
+P00297;Accessoires;Maison Pure;311.71;16
+P00298;Maquillage;Essentielle Paris;266.09;79
+P00299;Soins capillaires;Reflet d'or;130.72;24
+P00300;Soins de la peau;Elixir Haute Beauté;104.73;91
+P00301;Accessoires;Luxe eclat;125.83;41
+P00302;Accessoires;Maison Pure;109.49;84
+P00303;Soins de la peau;Essentielle Paris;394.2;29
+P00304;Accessoires;Reflet d'or;188.06;97
+P00305;Maquillage;Elixir Haute Beauté;47.76;24
+P00306;Soins capillaires;Luxe eclat;485.17;57
+P00307;Soins de la peau;Maison Pure;444.22;80
+P00308;Soins capillaires;Essentielle Paris;465.32;30
+P00309;Accessoires;Reflet d'or;497.56;51
+P00310;Accessoires;Elixir Haute Beauté;103.47;35
+P00311;Soins de la peau;Luxe eclat;210.2;23
+P00312;Maquillage;Maison Pure;383.95;66
+P00313;Parfums;Essentielle Paris;354.09;46
+P00314;Soins de la peau;Reflet d'or;93.87;67
+P00315;Parfums;Elixir Haute Beauté;411.6;30
+P00316;Parfums;Luxe eclat;127.73;91
+P00317;Maquillage;Maison Pure;127.43;78
+P00318;Parfums;Essentielle Paris;277.75;12
+P00319;Parfums;Reflet d'or;304.61;96
+P00320;Maquillage;Elixir Haute Beauté;298.44;99
+P00321;Parfums;Luxe eclat;63.91;46
+P00322;Parfums;Maison Pure;441.18;97
+P00323;Parfums;Essentielle Paris;147.49;58
+P00324;Soins de la peau;Reflet d'or;82.17;28
+P00325;Soins de la peau;Elixir Haute Beauté;446.6;98
+P00326;Soins de la peau;Luxe eclat;478.71;94
+P00327;Maquillage;Maison Pure;433.82;21
+P00328;Accessoires;Essentielle Paris;408.57;70
+P00329;Parfums;Reflet d'or;334.52;50
+P00330;Parfums;Elixir Haute Beauté;284.41;42
+P00331;Maquillage;Luxe eclat;61.75;59
+P00332;Parfums;Maison Pure;216.06;77
+P00333;Soins de la peau;Essentielle Paris;198.89;80
+P00334;Accessoires;Reflet d'or;144.68;95
+P00335;Soins capillaires;Elixir Haute Beauté;367.24;42
+P00336;Parfums;Luxe eclat;258.02;90
+P00337;Soins de la peau;Maison Pure;58.9;33
+P00338;Soins capillaires;Essentielle Paris;125.69;70
+P00339;Accessoires;Reflet d'or;347.96;70
+P00340;Soins capillaires;Elixir Haute Beauté;56.54;37
+P00341;Soins de la peau;Luxe eclat;428.58;67
+P00342;Soins capillaires;Maison Pure;257.67;52
+P00343;Maquillage;Essentielle Paris;250.68;50
+P00344;Soins capillaires;Reflet d'or;304.36;48
+P00345;Parfums;Elixir Haute Beauté;415.85;95
+P00346;Parfums;Luxe eclat;186.95;58
+P00347;Maquillage;Maison Pure;345.45;26
+P00348;Soins de la peau;Essentielle Paris;291.55;79
+P00349;Parfums;Reflet d'or;148.17;79
+P00350;Accessoires;Elixir Haute Beauté;441.74;74
+P00351;Parfums;Luxe eclat;402.76;83
+P00352;Parfums;Maison Pure;336.06;94
+P00353;Soins de la peau;Essentielle Paris;428.28;14
+P00354;Soins capillaires;Reflet d'or;436.3;11
+P00355;Parfums;Elixir Haute Beauté;360.01;31
+P00356;Maquillage;Luxe eclat;421.77;66
+P00357;Soins capillaires;Maison Pure;354.79;75
+P00358;Accessoires;Essentielle Paris;346.47;83
+P00359;Soins de la peau;Reflet d'or;316.93;25
+P00360;Accessoires;Elixir Haute Beauté;381.3;60
+P00361;Soins capillaires;Luxe eclat;96.13;48
+P00362;Soins capillaires;Maison Pure;442.82;95
+P00363;Soins capillaires;Essentielle Paris;438.48;85
+P00364;Accessoires;Reflet d'or;34.04;97
+P00365;Soins capillaires;Elixir Haute Beauté;416.39;49
+P00366;Accessoires;Luxe eclat;81.86;47
+P00367;Soins capillaires;Maison Pure;180.86;69
+P00368;Maquillage;Essentielle Paris;376.88;68
+P00369;Soins capillaires;Reflet d'or;97.16;19
+P00370;Accessoires;Elixir Haute Beauté;412.62;73
+P00371;Parfums;Luxe eclat;419.42;72
+P00372;Soins capillaires;Maison Pure;263.58;58
+P00373;Parfums;Essentielle Paris;23.07;73
+P00374;Maquillage;Reflet d'or;157.78;41
+P00375;Soins de la peau;Elixir Haute Beauté;316.12;16
+P00376;Maquillage;Luxe eclat;490.97;30
+P00377;Soins capillaires;Maison Pure;323.27;29
+P00378;Parfums;Essentielle Paris;144.71;35
+P00379;Parfums;Reflet d'or;324.32;77
+P00380;Accessoires;Elixir Haute Beauté;279.19;95
+P00381;Parfums;Luxe eclat;394.33;24
+P00382;Accessoires;Maison Pure;71.35;94
+P00383;Soins de la peau;Essentielle Paris;385.29;88
+P00384;Soins capillaires;Reflet d'or;279.81;95
+P00385;Accessoires;Elixir Haute Beauté;482.24;23
+P00386;Soins de la peau;Luxe eclat;184.1;36
+P00387;Parfums;Maison Pure;323.66;49
+P00388;Parfums;Essentielle Paris;467.37;67
+P00389;Soins de la peau;Reflet d'or;69.2;37
+P00390;Parfums;Elixir Haute Beauté;469.87;35
+P00391;Soins de la peau;Luxe eclat;350.19;72
+P00392;Accessoires;Maison Pure;52.56;75
+P00393;Accessoires;Essentielle Paris;164.46;34
+P00394;Soins de la peau;Reflet d'or;359.92;12
+P00395;Accessoires;Elixir Haute Beauté;52.33;81
+P00396;Accessoires;Luxe eclat;299.44;53
+P00397;Accessoires;Maison Pure;186.02;51
+P00398;Maquillage;Essentielle Paris;318.04;15
+P00399;Soins capillaires;Reflet d'or;41.96;48
+P00400;Parfums;Elixir Haute Beauté;438.34;61
+P00401;Maquillage;Luxe eclat;487.27;32
+P00402;Accessoires;Maison Pure;485.06;98
+P00403;Soins de la peau;Essentielle Paris;379.83;59
+P00404;Accessoires;Reflet d'or;82.44;52
+P00405;Soins capillaires;Elixir Haute Beauté;383.97;28
+P00406;Accessoires;Luxe eclat;31.8;78
+P00407;Soins de la peau;Maison Pure;30.62;60
+P00408;Soins capillaires;Essentielle Paris;175.33;20
+P00409;Accessoires;Reflet d'or;254.55;21
+P00410;Soins capillaires;Elixir Haute Beauté;389.8;83
+P00411;Parfums;Luxe eclat;347.98;17
+P00412;Parfums;Maison Pure;234.03;33
+P00413;Accessoires;Essentielle Paris;151.34;50
+P00414;Soins capillaires;Reflet d'or;498.62;45
+P00415;Soins de la peau;Elixir Haute Beauté;224.57;94
+P00416;Accessoires;Luxe eclat;236.67;81
+P00417;Parfums;Maison Pure;98.54;64
+P00418;Parfums;Essentielle Paris;401.51;18
+P00419;Accessoires;Reflet d'or;352.97;56
+P00420;Soins capillaires;Elixir Haute Beauté;125.97;24
+P00421;Parfums;Luxe eclat;59.54;57
+P00422;Soins capillaires;Maison Pure;346.64;91
+P00423;Parfums;Essentielle Paris;334.17;51
+P00424;Parfums;Reflet d'or;151.16;69
+P00425;Maquillage;Elixir Haute Beauté;476.41;93
+P00426;Parfums;Luxe eclat;92.51;79
+P00427;Soins de la peau;Maison Pure;227.52;21
+P00428;Accessoires;Essentielle Paris;472.94;11
+P00429;Accessoires;Reflet d'or;221.47;16
+P00430;Soins capillaires;Elixir Haute Beauté;326.49;89
+P00431;Parfums;Luxe eclat;210.85;12
+P00432;Soins de la peau;Maison Pure;151.62;12
+P00433;Soins capillaires;Essentielle Paris;492.31;36
+P00434;Maquillage;Reflet d'or;216.48;49
+P00435;Soins capillaires;Elixir Haute Beauté;449.17;42
+P00436;Soins capillaires;Luxe eclat;130.38;10
+P00437;Parfums;Maison Pure;122.29;17
+P00438;Maquillage;Essentielle Paris;34.94;41
+P00439;Soins capillaires;Reflet d'or;332.8;57
+P00440;Soins de la peau;Elixir Haute Beauté;196.89;13
+P00441;Soins de la peau;Luxe eclat;434.89;79
+P00442;Accessoires;Maison Pure;247.14;28
+P00443;Maquillage;Essentielle Paris;484.73;41
+P00444;Maquillage;Reflet d'or;109.05;18
+P00445;Accessoires;Elixir Haute Beauté;436.94;21
+P00446;Soins capillaires;Luxe eclat;392.77;20
+P00447;Maquillage;Maison Pure;390.04;55
+P00448;Soins de la peau;Essentielle Paris;425.5;25
+P00449;Soins de la peau;Reflet d'or;385.29;10
+P00450;Parfums;Elixir Haute Beauté;320.59;72
+P00451;Maquillage;Luxe eclat;83.0;30
+P00452;Soins capillaires;Maison Pure;35.61;39
+P00453;Accessoires;Essentielle Paris;462.01;22
+P00454;Accessoires;Reflet d'or;315.99;43
+P00455;Soins capillaires;Elixir Haute Beauté;402.34;13
+P00456;Parfums;Luxe eclat;251.13;37
+P00457;Accessoires;Maison Pure;76.31;68
+P00458;Maquillage;Essentielle Paris;80.09;36
+P00459;Parfums;Reflet d'or;349.07;78
+P00460;Maquillage;Elixir Haute Beauté;226.55;34
+P00461;Soins de la peau;Luxe eclat;116.25;12
+P00462;Parfums;Maison Pure;255.97;77
+P00463;Accessoires;Essentielle Paris;50.82;34
+P00464;Parfums;Reflet d'or;299.35;29
+P00465;Parfums;Elixir Haute Beauté;149.12;43
+P00466;Parfums;Luxe eclat;402.83;35
+P00467;Parfums;Maison Pure;168.97;14
+P00468;Maquillage;Essentielle Paris;238.51;70
+P00469;Soins de la peau;Reflet d'or;25.58;18
+P00470;Soins capillaires;Elixir Haute Beauté;54.77;59
+P00471;Parfums;Luxe eclat;208.4;15
+P00472;Accessoires;Maison Pure;250.37;92
+P00473;Parfums;Essentielle Paris;308.01;69
+P00474;Accessoires;Reflet d'or;160.0;53
+P00475;Maquillage;Elixir Haute Beauté;353.59;20
+P00476;Accessoires;Luxe eclat;432.86;75
+P00477;Soins capillaires;Maison Pure;394.33;56
+P00478;Soins de la peau;Essentielle Paris;39.02;82
+P00479;Accessoires;Reflet d'or;250.64;94
+P00480;Accessoires;Elixir Haute Beauté;70.37;97
+P00481;Soins de la peau;Luxe eclat;136.18;95
+P00482;Soins capillaires;Maison Pure;493.6;12
+P00483;Parfums;Essentielle Paris;88.4;85
+P00484;Accessoires;Reflet d'or;259.47;39
+P00485;Soins de la peau;Elixir Haute Beauté;316.71;99
+P00486;Maquillage;Luxe eclat;357.18;30
+P00487;Soins de la peau;Maison Pure;288.63;37
+P00488;Maquillage;Essentielle Paris;24.69;99
+P00489;Soins capillaires;Reflet d'or;176.7;71
+P00490;Parfums;Elixir Haute Beauté;268.5;42
+P00491;Soins de la peau;Luxe eclat;62.18;94
+P00492;Accessoires;Maison Pure;188.3;44
+P00493;Soins capillaires;Essentielle Paris;35.94;61
+P00494;Soins de la peau;Reflet d'or;57.72;43
+P00495;Accessoires;Elixir Haute Beauté;210.52;50
+P00496;Soins de la peau;Luxe eclat;83.7;60
+P00497;Maquillage;Maison Pure;292.42;56
+P00498;Soins de la peau;Essentielle Paris;350.94;91
+P00499;Soins de la peau;Reflet d'or;404.28;67
+P00500;Soins de la peau;Elixir Haute Beauté;116.07;84
+P00501;Soins capillaires;Clarté Botanique;100.39;66
+P00502;Soins de la peau;Atelier Minéral;70.19;32
+P00503;Accessoires;Silhouette Paris;325.49;57
+P00504;Maquillage;Natura Solaire;359.11;31
+P00505;Maquillage;Les Essences Rares;35.16;26
+P00506;Soins de la peau;Maison Vitalis;469.38;78
+P00507;Soins capillaires;Aroma Sublime;44.95;20
+P00508;Soins capillaires;Ãpure d'Azur;279.82;24
+P00509;Accessoires;Ligne LumiÃ¨re;360.35;44
+P00510;Soins de la peau;Soin Absolu;438.07;42
+P00511;Maquillage;Cosmétika;362.76;93
+P00512;Soins capillaires;Jardin dâIvoire;404.83;25
+P00513;Soins de la peau;Beauté Origine;182.94;43
+P00514;Soins capillaires;Orchidée Noire;411.12;75
+P00515;Soins capillaires;LâAtelier du Teint;58.46;49
+P00516;Maquillage;Déesse Cosmétique;449.51;37
+P00517;Parfums;Secret de Peau;282.84;56
+P00518;Accessoires;Rose & Lin;412.3;48
+P00519;Accessoires;Le Bain Royal;237.11;79
+P00520;Maquillage;Sérum de Lune;328.92;82
+P00521;Soins capillaires;Aura Cristal;272.67;29
+P00522;Soins de la peau;Infusion Précieuse;371.16;10
+P00523;Soins capillaires;Velours Naturel;59.18;81
+P00524;Maquillage;Ãveil Ãlégant;48.97;96
+P00525;Accessoires;Héritage Sensuel;138.61;72
+P00526;Soins capillaires;Clarté Botanique;96.58;76
+P00527;Accessoires;Atelier Minéral;438.46;13
+P00528;Soins de la peau;Silhouette Paris;125.22;67
+P00529;Accessoires;Natura Solaire;488.42;34
+P00530;Accessoires;Les Essences Rares;181.71;56
+P00531;Parfums;Maison Vitalis;107.42;47
+P00532;Parfums;Aroma Sublime;399.06;24
+P00533;Parfums;Ãpure d'Azur;336.18;72
+P00534;Accessoires;Ligne LumiÃ¨re;259.13;30
+P00535;Maquillage;Soin Absolu;286.57;66
+P00536;Accessoires;Cosmétika;365.22;62
+P00537;Maquillage;Jardin dâIvoire;129.66;55
+P00538;Maquillage;Beauté Origine;498.24;23
+P00539;Parfums;Orchidée Noire;487.9;85
+P00540;Soins capillaires;LâAtelier du Teint;332.16;26
+P00541;Soins de la peau;Déesse Cosmétique;115.78;48
+P00542;Parfums;Secret de Peau;346.51;18
+P00543;Parfums;Rose & Lin;54.66;86
+P00544;Soins capillaires;Le Bain Royal;34.71;88
+P00545;Soins de la peau;Sérum de Lune;143.69;91
+P00546;Accessoires;Aura Cristal;242.06;15
+P00547;Accessoires;Infusion Précieuse;436.77;32
+P00548;Parfums;Velours Naturel;369.04;68
+P00549;Soins de la peau;Ãveil Ãlégant;376.5;55
+P00550;Parfums;Héritage Sensuel;224.24;47
+P00551;Maquillage;Clarté Botanique;186.05;23
+P00552;Parfums;Atelier Minéral;198.1;81
+P00553;Parfums;Silhouette Paris;494.07;71
+P00554;Accessoires;Natura Solaire;39.25;44
+P00555;Accessoires;Les Essences Rares;436.18;28
+P00556;Accessoires;Maison Vitalis;297.76;39
+P00557;Maquillage;Aroma Sublime;230.54;87
+P00558;Accessoires;Ãpure d'Azur;368.12;93
+P00559;Soins de la peau;Ligne LumiÃ¨re;253.6;34
+P00560;Soins capillaires;Soin Absolu;439.24;49
+P00561;Soins de la peau;Cosmétika;452.34;97
+P00562;Soins de la peau;Jardin dâIvoire;222.43;23
+P00563;Accessoires;Beauté Origine;152.88;35
+P00564;Soins capillaires;Orchidée Noire;304.33;96
+P00565;Soins capillaires;LâAtelier du Teint;457.93;31
+P00566;Soins capillaires;Déesse Cosmétique;121.12;57
+P00567;Maquillage;Secret de Peau;319.02;92
+P00568;Accessoires;Rose & Lin;323.15;60
+P00569;Soins capillaires;Le Bain Royal;371.89;12
+P00570;Maquillage;Sérum de Lune;83.15;51
+P00571;Parfums;Aura Cristal;363.6;28
+P00572;Parfums;Infusion Précieuse;456.34;82
+P00573;Maquillage;Velours Naturel;106.25;37
+P00574;Maquillage;Ãveil Ãlégant;134.02;93
+P00575;Accessoires;Héritage Sensuel;486.27;54
+P00576;Accessoires;Clarté Botanique;106.87;80
+P00577;Parfums;Atelier Minéral;430.1;87
+P00578;Soins capillaires;Silhouette Paris;256.29;72
+P00579;Parfums;Natura Solaire;138.67;82
+P00580;Soins capillaires;Les Essences Rares;437.96;28
+P00581;Soins capillaires;Maison Vitalis;233.75;56
+P00582;Accessoires;Aroma Sublime;267.11;23
+P00583;Soins de la peau;Ãpure d'Azur;192.43;47
+P00584;Soins de la peau;Ligne LumiÃ¨re;304.62;62
+P00585;Maquillage;Soin Absolu;98.49;70
+P00586;Accessoires;Cosmétika;207.72;45
+P00587;Soins capillaires;Jardin dâIvoire;485.32;49
+P00588;Soins de la peau;Beauté Origine;143.9;90
+P00589;Soins capillaires;Orchidée Noire;335.23;39
+P00590;Soins de la peau;LâAtelier du Teint;176.09;18
+P00591;Soins de la peau;Déesse Cosmétique;391.27;73
+P00592;Soins de la peau;Secret de Peau;82.82;42
+P00593;Accessoires;Rose & Lin;485.51;61
+P00594;Parfums;Le Bain Royal;237.82;98
+P00595;Soins capillaires;Sérum de Lune;133.3;23
+P00596;Accessoires;Aura Cristal;55.28;84
+P00597;Accessoires;Infusion Précieuse;101.48;62
+P00598;Accessoires;Velours Naturel;269.49;68
+P00599;Accessoires;Ãveil Ãlégant;181.76;87
+P00600;Accessoires;Héritage Sensuel;417.86;50
+P00601;Maquillage;Clarté Botanique;226.83;77
+P00602;Soins capillaires;Atelier Minéral;139.38;77
+P00603;Accessoires;Silhouette Paris;316.23;17
+P00604;Soins capillaires;Natura Solaire;359.25;11
+P00605;Maquillage;Les Essences Rares;100.18;95
+P00606;Maquillage;Maison Vitalis;100.46;50
+P00607;Soins capillaires;Aroma Sublime;37.6;64
+P00608;Soins de la peau;Ãpure d'Azur;373.47;25
+P00609;Parfums;Ligne LumiÃ¨re;338.63;71
+P00610;Soins de la peau;Soin Absolu;247.82;57
+P00611;Soins de la peau;Cosmétika;425.2;39
+P00612;Soins de la peau;Jardin dâIvoire;406.72;21
+P00613;Accessoires;Beauté Origine;300.97;44
+P00614;Maquillage;Orchidée Noire;436.77;20
+P00615;Soins de la peau;LâAtelier du Teint;118.8;73
+P00616;Maquillage;Déesse Cosmétique;73.72;59
+P00617;Soins capillaires;Secret de Peau;149.48;94
+P00618;Parfums;Rose & Lin;47.4;30
+P00619;Soins capillaires;Le Bain Royal;274.96;78
+P00620;Soins capillaires;Sérum de Lune;469.57;57
+P00621;Accessoires;Aura Cristal;38.88;29
+P00622;Parfums;Infusion Précieuse;78.61;76
+P00623;Soins capillaires;Velours Naturel;237.06;53
+P00624;Soins capillaires;Ãveil Ãlégant;468.26;42
+P00625;Parfums;Héritage Sensuel;171.75;82
+P00626;Parfums;Clarté Botanique;263.47;70
+P00627;Soins capillaires;Atelier Minéral;39.95;18
+P00628;Parfums;Silhouette Paris;91.2;77
+P00629;Soins capillaires;Natura Solaire;493.58;44
+P00630;Soins capillaires;Les Essences Rares;483.26;90
+P00631;Accessoires;Maison Vitalis;22.37;97
+P00632;Soins de la peau;Aroma Sublime;476.87;74
+P00633;Soins capillaires;Ãpure d'Azur;326.78;17
+P00634;Maquillage;Ligne LumiÃ¨re;436.6;54
+P00635;Soins de la peau;Soin Absolu;238.28;96
+P00636;Soins de la peau;Cosmétika;267.49;56
+P00637;Soins de la peau;Jardin dâIvoire;254.65;49
+P00638;Accessoires;Beauté Origine;340.09;85
+P00639;Soins capillaires;Orchidée Noire;87.03;63
+P00640;Accessoires;LâAtelier du Teint;34.39;85
+P00641;Soins capillaires;Déesse Cosmétique;167.81;55
+P00642;Accessoires;Secret de Peau;358.25;56
+P00643;Accessoires;Rose & Lin;116.89;24
+P00644;Maquillage;Le Bain Royal;343.25;28
+P00645;Accessoires;Sérum de Lune;485.56;35
+P00646;Parfums;Aura Cristal;65.07;61
+P00647;Maquillage;Infusion Précieuse;342.85;31
+P00648;Accessoires;Velours Naturel;233.0;30
+P00649;Soins de la peau;Ãveil Ãlégant;436.71;60
+P00650;Parfums;Héritage Sensuel;105.03;47
+P00651;Parfums;Clarté Botanique;352.46;29
+P00652;Parfums;Atelier Minéral;422.3;38
+P00653;Maquillage;Silhouette Paris;473.41;60
+P00654;Accessoires;Natura Solaire;347.96;13
+P00655;Accessoires;Les Essences Rares;258.64;64
+P00656;Soins de la peau;Maison Vitalis;316.57;80
+P00657;Soins de la peau;Aroma Sublime;437.07;37
+P00658;Parfums;Ãpure d'Azur;293.89;13
+P00659;Soins de la peau;Ligne LumiÃ¨re;34.59;31
+P00660;Maquillage;Soin Absolu;466.86;85
+P00661;Accessoires;Cosmétika;350.97;54
+P00662;Parfums;Jardin dâIvoire;344.73;76
+P00663;Soins de la peau;Beauté Origine;123.52;95
+P00664;Maquillage;Orchidée Noire;336.27;75
+P00665;Maquillage;LâAtelier du Teint;209.05;97
+P00666;Soins de la peau;Déesse Cosmétique;332.59;43
+P00667;Accessoires;Secret de Peau;71.16;64
+P00668;Soins de la peau;Rose & Lin;335.77;10
+P00669;Parfums;Le Bain Royal;499.72;81
+P00670;Soins de la peau;Sérum de Lune;43.14;96
+P00671;Maquillage;Aura Cristal;489.04;47
+P00672;Soins de la peau;Infusion Précieuse;215.32;15
+P00673;Accessoires;Velours Naturel;437.96;95
+P00674;Soins capillaires;Ãveil Ãlégant;395.55;34
+P00675;Soins de la peau;Héritage Sensuel;292.17;91
+P00676;Accessoires;Clarté Botanique;374.46;26
+P00677;Accessoires;Atelier Minéral;441.69;70
+P00678;Maquillage;Silhouette Paris;213.99;21
+P00679;Accessoires;Natura Solaire;176.98;15
+P00680;Accessoires;Les Essences Rares;340.44;99
+P00681;Accessoires;Maison Vitalis;407.77;36
+P00682;Accessoires;Aroma Sublime;385.9;17
+P00683;Parfums;Ãpure d'Azur;402.95;92
+P00684;Parfums;Ligne LumiÃ¨re;229.08;74
+P00685;Maquillage;Soin Absolu;412.56;66
+P00686;Soins de la peau;Cosmétika;77.7;49
+P00687;Accessoires;Jardin dâIvoire;281.35;23
+P00688;Soins de la peau;Beauté Origine;22.76;44
+P00689;Soins de la peau;Orchidée Noire;175.8;57
+P00690;Maquillage;LâAtelier du Teint;195.9;93
+P00691;Accessoires;Déesse Cosmétique;210.16;65
+P00692;Accessoires;Secret de Peau;353.82;58
+P00693;Soins capillaires;Rose & Lin;206.51;22
+P00694;Soins de la peau;Le Bain Royal;235.37;70
+P00695;Soins de la peau;Sérum de Lune;134.02;58
+P00696;Parfums;Aura Cristal;199.16;55
+P00697;Soins capillaires;Infusion Précieuse;129.09;71
+P00698;Parfums;Velours Naturel;55.13;17
+P00699;Parfums;Ãveil Ãlégant;309.66;52
+P00700;Parfums;Héritage Sensuel;340.74;29
+P00701;Maquillage;Clarté Botanique;317.36;99
+P00702;Maquillage;Atelier Minéral;242.48;48
+P00703;Parfums;Silhouette Paris;202.3;94
+P00704;Soins capillaires;Natura Solaire;434.4;58
+P00705;Soins de la peau;Les Essences Rares;269.16;73
+P00706;Soins capillaires;Maison Vitalis;250.01;71
+P00707;Accessoires;Aroma Sublime;32.31;63
+P00708;Maquillage;Ãpure d'Azur;183.8;18
+P00709;Soins de la peau;Ligne LumiÃ¨re;202.49;97
+P00710;Soins de la peau;Soin Absolu;211.43;46
+P00711;Accessoires;Cosmétika;298.48;58
+P00712;Accessoires;Jardin dâIvoire;276.13;50
+P00713;Parfums;Beauté Origine;311.79;26
+P00714;Maquillage;Orchidée Noire;387.14;97
+P00715;Maquillage;LâAtelier du Teint;410.23;30
+P00716;Soins capillaires;Déesse Cosmétique;364.7;60
+P00717;Parfums;Secret de Peau;478.65;68
+P00718;Parfums;Rose & Lin;28.75;48
+P00719;Parfums;Le Bain Royal;113.97;64
+P00720;Parfums;Sérum de Lune;23.63;50
+P00721;Maquillage;Aura Cristal;330.79;48
+P00722;Maquillage;Infusion Précieuse;451.05;22
+P00723;Parfums;Velours Naturel;136.87;73
+P00724;Soins capillaires;Ãveil Ãlégant;464.98;20
+P00725;Soins de la peau;Héritage Sensuel;48.93;28
+P00726;Soins de la peau;Clarté Botanique;468.53;20
+P00727;Soins capillaires;Atelier Minéral;188.78;86
+P00728;Parfums;Silhouette Paris;68.68;55
+P00729;Maquillage;Natura Solaire;253.22;54
+P00730;Soins de la peau;Les Essences Rares;143.25;10
+P00731;Accessoires;Maison Vitalis;156.74;49
+P00732;Accessoires;Aroma Sublime;167.5;28
+P00733;Soins capillaires;Ãpure d'Azur;405.45;85
+P00734;Parfums;Ligne LumiÃ¨re;278.8;81
+P00735;Soins de la peau;Soin Absolu;169.43;81
+P00736;Parfums;Cosmétika;312.96;70
+P00737;Soins de la peau;Jardin dâIvoire;363.75;21
+P00738;Soins capillaires;Beauté Origine;150.86;70
+P00739;Soins capillaires;Orchidée Noire;218.5;42
+P00740;Accessoires;LâAtelier du Teint;78.51;54
+P00741;Parfums;Déesse Cosmétique;106.95;99
+P00742;Accessoires;Secret de Peau;346.94;78
+P00743;Parfums;Rose & Lin;107.09;17
+P00744;Accessoires;Le Bain Royal;272.08;34
+P00745;Maquillage;Sérum de Lune;360.34;55
+P00746;Maquillage;Aura Cristal;71.3;96
+P00747;Maquillage;Infusion Précieuse;292.31;39
+P00748;Maquillage;Velours Naturel;143.15;56
+P00749;Soins de la peau;Ãveil Ãlégant;482.2;96
+P00750;Maquillage;Héritage Sensuel;252.1;58
+P00751;Soins capillaires;Clarté Botanique;406.88;56
+P00752;Soins capillaires;Atelier Minéral;284.11;93
+P00753;Soins de la peau;Silhouette Paris;40.84;91
+P00754;Maquillage;Natura Solaire;323.91;27
+P00755;Maquillage;Les Essences Rares;476.67;75
+P00756;Maquillage;Maison Vitalis;308.77;77
+P00757;Accessoires;Aroma Sublime;413.21;42
+P00758;Parfums;Ãpure d'Azur;444.42;45
+P00759;Accessoires;Ligne LumiÃ¨re;129.48;91
+P00760;Parfums;Soin Absolu;121.78;28
+P00761;Maquillage;Cosmétika;313.27;37
+P00762;Maquillage;Jardin dâIvoire;217.29;49
+P00763;Accessoires;Beauté Origine;423.13;93
+P00764;Accessoires;Orchidée Noire;452.01;85
+P00765;Parfums;LâAtelier du Teint;189.64;24
+P00766;Soins capillaires;Déesse Cosmétique;133.7;50
+P00767;Parfums;Secret de Peau;394.65;48
+P00768;Accessoires;Rose & Lin;151.91;11
+P00769;Accessoires;Le Bain Royal;414.85;72
+P00770;Soins de la peau;Sérum de Lune;223.39;38
+P00771;Accessoires;Aura Cristal;340.42;83
+P00772;Soins de la peau;Infusion Précieuse;65.86;75
+P00773;Soins capillaires;Velours Naturel;319.45;60
+P00774;Parfums;Ãveil Ãlégant;236.85;84
+P00775;Parfums;Héritage Sensuel;301.57;86
+P00776;Soins de la peau;Clarté Botanique;100.65;19
+P00777;Parfums;Atelier Minéral;373.7;23
+P00778;Accessoires;Silhouette Paris;434.14;91
+P00779;Maquillage;Natura Solaire;124.04;60
+P00780;Soins de la peau;Les Essences Rares;65.94;82
+P00781;Parfums;Maison Vitalis;31.35;48
+P00782;Soins de la peau;Aroma Sublime;328.15;37
+P00783;Soins de la peau;Ãpure d'Azur;311.41;12
+P00784;Maquillage;Ligne LumiÃ¨re;282.41;93
+P00785;Accessoires;Soin Absolu;131.33;79
+P00786;Soins de la peau;Cosmétika;207.63;36
+P00787;Parfums;Jardin dâIvoire;305.35;11
+P00788;Soins capillaires;Beauté Origine;258.45;47
+P00789;Soins de la peau;Orchidée Noire;494.14;12
+P00790;Soins de la peau;LâAtelier du Teint;85.49;25
+P00791;Maquillage;Déesse Cosmétique;353.67;49
+P00792;Accessoires;Secret de Peau;214.07;11
+P00793;Soins capillaires;Rose & Lin;225.54;90
+P00794;Parfums;Le Bain Royal;364.45;50
+P00795;Soins capillaires;Sérum de Lune;352.37;21
+P00796;Parfums;Aura Cristal;495.8;44
+P00797;Accessoires;Infusion Précieuse;81.63;74
+P00798;Parfums;Velours Naturel;69.97;64
+P00799;Maquillage;Ãveil Ãlégant;367.68;54
+P00800;Maquillage;Héritage Sensuel;297.63;88
+P00801;Maquillage;Clarté Botanique;151.6;99
+P00802;Maquillage;Atelier Minéral;58.12;94
+P00803;Soins capillaires;Silhouette Paris;61.12;71
+P00804;Accessoires;Natura Solaire;449.21;58
+P00805;Parfums;Les Essences Rares;112.1;34
+P00806;Parfums;Maison Vitalis;175.22;32
+P00807;Maquillage;Aroma Sublime;128.8;33
+P00808;Maquillage;Ãpure d'Azur;190.4;47
+P00809;Soins de la peau;Ligne LumiÃ¨re;53.32;37
+P00810;Accessoires;Soin Absolu;269.15;30
+P00811;Soins capillaires;Cosmétika;52.45;63
+P00812;Parfums;Jardin dâIvoire;404.17;27
+P00813;Soins de la peau;Beauté Origine;132.18;45
+P00814;Soins de la peau;Orchidée Noire;279.21;54
+P00815;Parfums;LâAtelier du Teint;442.44;82
+P00816;Soins capillaires;Déesse Cosmétique;332.42;62
+P00817;Soins de la peau;Secret de Peau;275.82;39
+P00818;Soins de la peau;Rose & Lin;175.68;69
+P00819;Accessoires;Le Bain Royal;179.84;41
+P00820;Soins capillaires;Sérum de Lune;341.35;76
+P00821;Soins de la peau;Aura Cristal;497.19;76
+P00822;Soins capillaires;Infusion Précieuse;337.68;37
+P00823;Parfums;Velours Naturel;287.74;53
+P00824;Maquillage;Ãveil Ãlégant;370.71;88
+P00825;Soins de la peau;Héritage Sensuel;243.3;50
+P00826;Accessoires;Clarté Botanique;48.87;72
+P00827;Parfums;Atelier Minéral;289.9;32
+P00828;Soins capillaires;Silhouette Paris;479.66;84
+P00829;Parfums;Natura Solaire;104.15;57
+P00830;Soins de la peau;Les Essences Rares;351.2;41
+P00831;Soins capillaires;Maison Vitalis;116.45;66
+P00832;Maquillage;Aroma Sublime;277.2;42
+P00833;Parfums;Ãpure d'Azur;66.4;33
+P00834;Soins de la peau;Ligne LumiÃ¨re;236.18;48
+P00835;Accessoires;Soin Absolu;382.96;43
+P00836;Soins capillaires;Cosmétika;186.83;65
+P00837;Parfums;Jardin dâIvoire;339.16;37
+P00838;Parfums;Beauté Origine;401.82;46
+P00839;Maquillage;Orchidée Noire;465.05;16
+P00840;Maquillage;LâAtelier du Teint;132.63;77
+P00841;Accessoires;Déesse Cosmétique;211.67;46
+P00842;Accessoires;Secret de Peau;93.16;65
+P00843;Soins de la peau;Rose & Lin;496.39;74
+P00844;Soins de la peau;Le Bain Royal;464.96;74
+P00845;Accessoires;Sérum de Lune;279.18;56
+P00846;Accessoires;Aura Cristal;424.18;29
+P00847;Soins capillaires;Infusion Précieuse;270.06;28
+P00848;Maquillage;Velours Naturel;319.32;38
+P00849;Soins de la peau;Ãveil Ãlégant;62.78;83
+P00850;Maquillage;Héritage Sensuel;382.53;69
+P00851;Maquillage;Clarté Botanique;81.3;27
+P00852;Accessoires;Atelier Minéral;416.51;44
+P00853;Soins capillaires;Silhouette Paris;395.37;52
+P00854;Parfums;Natura Solaire;360.2;20
+P00855;Soins capillaires;Les Essences Rares;37.36;58
+P00856;Soins capillaires;Maison Vitalis;165.5;47
+P00857;Maquillage;Aroma Sublime;146.29;73
+P00858;Soins capillaires;Ãpure d'Azur;192.87;78
+P00859;Soins de la peau;Ligne LumiÃ¨re;62.07;17
+P00860;Maquillage;Soin Absolu;469.74;43
+P00861;Soins de la peau;Cosmétika;285.83;57
+P00862;Parfums;Jardin dâIvoire;166.65;65
+P00863;Maquillage;Beauté Origine;210.55;85
+P00864;Parfums;Orchidée Noire;234.66;74
+P00865;Maquillage;LâAtelier du Teint;308.29;40
+P00866;Accessoires;Déesse Cosmétique;267.53;13
+P00867;Soins capillaires;Secret de Peau;461.31;59
+P00868;Accessoires;Rose & Lin;258.54;78
+P00869;Parfums;Le Bain Royal;496.24;39
+P00870;Soins capillaires;Sérum de Lune;428.68;97
+P00871;Maquillage;Aura Cristal;120.09;68
+P00872;Soins capillaires;Infusion Précieuse;466.69;76
+P00873;Soins de la peau;Velours Naturel;75.86;84
+P00874;Soins capillaires;Ãveil Ãlégant;412.38;54
+P00875;Soins de la peau;Héritage Sensuel;202.7;13
+P00876;Soins capillaires;Clarté Botanique;441.43;35
+P00877;Soins de la peau;Atelier Minéral;436.67;36
+P00878;Parfums;Silhouette Paris;406.84;55
+P00879;Accessoires;Natura Solaire;399.21;73
+P00880;Maquillage;Les Essences Rares;166.25;60
+P00881;Soins capillaires;Maison Vitalis;58.84;59
+P00882;Accessoires;Aroma Sublime;213.43;15
+P00883;Maquillage;Ãpure d'Azur;103.29;68
+P00884;Maquillage;Ligne LumiÃ¨re;353.58;24
+P00885;Soins de la peau;Soin Absolu;186.13;39
+P00886;Parfums;Cosmétika;488.29;51
+P00887;Parfums;Jardin dâIvoire;327.67;46
+P00888;Accessoires;Beauté Origine;414.79;51
+P00889;Parfums;Orchidée Noire;83.61;44
+P00890;Soins capillaires;LâAtelier du Teint;433.77;96
+P00891;Parfums;Déesse Cosmétique;462.92;15
+P00892;Accessoires;Secret de Peau;253.79;77
+P00893;Parfums;Rose & Lin;311.0;27
+P00894;Soins capillaires;Le Bain Royal;387.11;82
+P00895;Soins de la peau;Sérum de Lune;103.92;38
+P00896;Accessoires;Aura Cristal;261.23;86
+P00897;Soins de la peau;Infusion Précieuse;211.36;68
+P00898;Soins de la peau;Velours Naturel;90.26;56
+P00899;Soins de la peau;Ãveil Ãlégant;196.42;26
+P00900;Maquillage;Héritage Sensuel;52.72;31
+P00901;Maquillage;Clarté Botanique;32.39;77
+P00902;Soins de la peau;Atelier Minéral;84.88;78
+P00903;Accessoires;Silhouette Paris;482.3;46
+P00904;Soins capillaires;Natura Solaire;283.77;58
+P00905;Soins capillaires;Les Essences Rares;483.59;22
+P00906;Parfums;Maison Vitalis;227.6;43
+P00907;Accessoires;Aroma Sublime;169.67;95
+P00908;Maquillage;Ãpure d'Azur;262.95;62
+P00909;Soins de la peau;Ligne LumiÃ¨re;230.97;96
+P00910;Parfums;Soin Absolu;70.72;60
+P00911;Soins capillaires;Cosmétika;327.6;12
+P00912;Maquillage;Jardin dâIvoire;123.7;51
+P00913;Maquillage;Beauté Origine;317.4;41
+P00914;Soins de la peau;Orchidée Noire;332.1;60
+P00915;Soins capillaires;LâAtelier du Teint;92.97;94
+P00916;Accessoires;Déesse Cosmétique;49.45;55
+P00917;Maquillage;Secret de Peau;394.77;30
+P00918;Soins de la peau;Rose & Lin;240.7;53
+P00919;Accessoires;Le Bain Royal;47.92;20
+P00920;Soins capillaires;Sérum de Lune;497.54;77
+P00921;Maquillage;Aura Cristal;47.73;10
+P00922;Accessoires;Infusion Précieuse;353.62;72
+P00923;Accessoires;Velours Naturel;492.17;33
+P00924;Accessoires;Ãveil Ãlégant;134.81;22
+P00925;Maquillage;Héritage Sensuel;88.28;20
+P00926;Maquillage;Clarté Botanique;78.26;60
+P00927;Parfums;Atelier Minéral;165.57;26
+P00928;Soins capillaires;Silhouette Paris;68.5;91
+P00929;Soins de la peau;Natura Solaire;352.24;95
+P00930;Accessoires;Les Essences Rares;49.9;33
+P00931;Parfums;Maison Vitalis;264.52;28
+P00932;Soins de la peau;Aroma Sublime;498.41;46
+P00933;Parfums;Ãpure d'Azur;410.71;94
+P00934;Maquillage;Ligne LumiÃ¨re;315.31;17
+P00935;Accessoires;Soin Absolu;167.0;37
+P00936;Soins de la peau;Cosmétika;319.47;14
+P00937;Soins de la peau;Jardin dâIvoire;272.98;26
+P00938;Soins de la peau;Beauté Origine;224.52;45
+P00939;Soins de la peau;Orchidée Noire;82.74;28
+P00940;Soins de la peau;LâAtelier du Teint;445.57;73
+P00941;Parfums;Déesse Cosmétique;235.9;20
+P00942;Accessoires;Secret de Peau;113.42;63
+P00943;Maquillage;Rose & Lin;196.52;54
+P00944;Maquillage;Le Bain Royal;218.78;56
+P00945;Maquillage;Sérum de Lune;417.22;21
+P00946;Maquillage;Aura Cristal;372.13;30
+P00947;Parfums;Infusion Précieuse;389.27;20
+P00948;Soins capillaires;Velours Naturel;25.3;14
+P00949;Accessoires;Ãveil Ãlégant;219.75;90
+P00950;Soins de la peau;Héritage Sensuel;251.05;65
+P00951;Soins capillaires;Clarté Botanique;29.21;29
+P00952;Maquillage;Atelier Minéral;144.71;50
+P00953;Soins capillaires;Silhouette Paris;384.94;55
+P00954;Accessoires;Natura Solaire;85.81;21
+P00955;Soins de la peau;Les Essences Rares;276.95;79
+P00956;Soins de la peau;Maison Vitalis;123.3;26
+P00957;Accessoires;Aroma Sublime;25.82;28
+P00958;Accessoires;Ãpure d'Azur;135.78;35
+P00959;Maquillage;Ligne LumiÃ¨re;488.42;57
+P00960;Soins de la peau;Soin Absolu;404.74;61
+P00961;Soins capillaires;Cosmétika;480.6;79
+P00962;Parfums;Jardin dâIvoire;254.17;64
+P00963;Parfums;Beauté Origine;72.67;84
+P00964;Accessoires;Orchidée Noire;283.02;42
+P00965;Maquillage;LâAtelier du Teint;238.1;71
+P00966;Parfums;Déesse Cosmétique;425.29;97
+P00967;Soins de la peau;Secret de Peau;67.08;32
+P00968;Accessoires;Rose & Lin;254.36;24
+P00969;Soins capillaires;Le Bain Royal;92.02;36
+P00970;Accessoires;Sérum de Lune;175.84;84
+P00971;Soins capillaires;Aura Cristal;373.93;73
+P00972;Accessoires;Infusion Précieuse;248.49;90
+P00973;Accessoires;Velours Naturel;200.43;60
+P00974;Accessoires;Ãveil Ãlégant;209.35;62
+P00975;Soins capillaires;Héritage Sensuel;240.53;87
+P00976;Soins capillaires;Clarté Botanique;396.81;91
+P00977;Accessoires;Atelier Minéral;448.2;60
+P00978;Parfums;Silhouette Paris;478.56;56
+P00979;Maquillage;Natura Solaire;397.71;13
+P00980;Maquillage;Les Essences Rares;171.4;16
+P00981;Maquillage;Maison Vitalis;350.3;44
+P00982;Soins capillaires;Aroma Sublime;230.05;57
+P00983;Soins capillaires;Ãpure d'Azur;142.24;82
+P00984;Parfums;Ligne LumiÃ¨re;423.62;81
+P00985;Maquillage;Soin Absolu;38.44;54
+P00986;Maquillage;Cosmétika;452.85;90
+P00987;Accessoires;Jardin dâIvoire;241.51;90
+P00988;Soins capillaires;Beauté Origine;325.86;81
+P00989;Maquillage;Orchidée Noire;336.49;28
+P00990;Parfums;LâAtelier du Teint;449.66;72
+P00991;Parfums;Déesse Cosmétique;325.6;47
+P00992;Maquillage;Secret de Peau;314.69;76
+P00993;Soins capillaires;Rose & Lin;51.99;68
+P00994;Parfums;Le Bain Royal;268.84;78
+P00995;Accessoires;Sérum de Lune;92.08;22
+P00996;Parfums;Aura Cristal;373.97;56
+P00997;Soins de la peau;Infusion Précieuse;265.87;70
+P00998;Soins de la peau;Velours Naturel;346.51;40
+P00999;Soins capillaires;Ãveil Ãlégant;40.0;89
+P01000;Maquillage;Héritage Sensuel;60.7;31
