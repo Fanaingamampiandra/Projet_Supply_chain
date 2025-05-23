@@ -65,24 +65,7 @@ L'objectif est de regrouper les fournisseurs en segments basés sur leur perform
   * Utilisation d'algorithmes de clustering non supervisé comme K-Means sur des caractéristiques normalisées des fournisseurs (fiabilité, délai moyen, volume d'affaires, prix moyens).
   * L'analyse des clusters résultants permettrait d'identifier des profils types de fournisseurs.
 
-### 3.3. Prédiction des Délais de Livraison
-
-L'objectif est de construire un modèle capable de prédire le `délai_livraison_jours` pour une nouvelle commande.
-
-* **Sélection des variables** :
-  * **Variables prédictives (Features)** : `id_fournisseur`, `quantité`, `entrepot`, `catégorie`, `pays` du fournisseur, `fiabilité` du fournisseur, `délai_moyen_jours` spécifié par le fournisseur.
-  * **Variable cible (Target)** : `délai_livraison_jours`.
-* **Prétraitement des données** :
-  * Encodage des variables catégorielles (ex: One-Hot Encoding pour `id_fournisseur`, `entrepot`, `catégorie`, `pays`).
-* **Modélisation** :
-  * Utilisation d'un modèle de régression (RandomForestRegressor est utilisé dans le script).
-  * Division des données en ensembles d'entraînement et de test.
-* **Évaluation du modèle** :
-  * Mesure de la performance avec des métriques comme le Mean Absolute Error (MAE) et le R-squared (R²).
-  * Visualisation des prédictions par rapport aux valeurs réelles.
-  * Analyse de l'importance des features pour comprendre quels facteurs influencent le plus les délais.
-
-## 4. Instructions pour exécuter le code Python
+### 4. Instructions pour exécuter le code Python
 
 1. **Prérequis** :
 
